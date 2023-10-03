@@ -7,8 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Digital Industry Singapore
-      subtitle: DISG
+      title: Digital Industry Singapore (DISG)
+      subtitle: DISG a joint office of the Economic Development Board (EDB),
+        Enterprise Singapore (EnterpriseSG) and Info-communications Media
+        Development Authority (IMDA).
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/

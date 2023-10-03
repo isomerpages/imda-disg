@@ -3,7 +3,7 @@ url: https://www.disg.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#23b9db"
-  secondary-color: "#23b9db"
+  secondary-color: "#403e86"
   media-colors:
     - title: media-color-one
       color: "#e30613"

@@ -11,7 +11,7 @@ sections:
       subtitle: DISG a joint office of the Economic Development Board (EDB),
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
         Development Authority (IMDA).
-      background: /images/hero-banner.png
+      background: /images/homepage background.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:

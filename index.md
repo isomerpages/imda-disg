@@ -10,7 +10,7 @@ sections:
       title: Digital Industry Singapore (DISG)
       subtitle: DISG a joint office of the Economic Development Board (EDB),
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
-        Development Authority (IMDA).
+        Development Authority (IMDA))
       background: /images/homepage background.jpg
       button: Contact Us
       url: /contact-us/

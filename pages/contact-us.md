@@ -8,9 +8,9 @@ locations:
       - 250 North Bridge Road
       - Level 17, Raffles City Tower
       - Singapore 179101
-    title: DISG Office
     operating_hours: []
     maps_link: ""
+    title: DISG Office
 contacts:
   - content:
       - phone: ""

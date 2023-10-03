@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Digital Industry Singapore (DISG)
       background: /images/homepage background.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: About Us
           description: Find out about DISG mission

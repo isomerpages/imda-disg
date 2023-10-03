@@ -21,6 +21,9 @@ sections:
         - title: Success Stories
           description: Technology Innovation
           url: /privacy/
+      subtitle: DISG a joint office of the Economic Development Board (EDB),
+        Enterprise Singapore (EnterpriseSG) and Info-communications Media
+        Development Authority (IMDA)
   - infobar:
       title: Infobar title
       subtitle: Subtitle

@@ -11,7 +11,7 @@ sections:
       background: /images/homepage background.jpg
       key_highlights:
         - title: About Us
-          description: Find out about DISG mission
+          description: Who are We
           url: /about-disg/who-are-we
         - title: Resources
           description: Resources for companies

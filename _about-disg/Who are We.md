@@ -26,4 +26,10 @@ products and services through quality and standards. ESG is the lead
 agency for enterprise development activities such as Singapore
 Week of Innovation and Technology.
 
-
+#### IMDA
+The IMDA develops and regulates the converging infocomm and
+media sectors in a holistic way, creating a dynamic and exciting
+sector filled with opportunities for growth, through an emphasis on
+talent, research, innovation and enterprise. It looks after ecosystem
+development programmes such as TechSkills Accelerator (TeSA),
+Open Innovation Platform, Accreditation and Spark.

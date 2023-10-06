@@ -3,6 +3,8 @@ title: Our Leader
 permalink: /about-us/our-leader/
 description: ""
 ---
+
+![Ih-Ming photo](/images/ih-ming.png)
 ### **Chan Ih-Ming**
 Executive Director and Head of Digital Industry Singapore (DISG). At DISG, he leads the XX.
 

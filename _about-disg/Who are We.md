@@ -17,7 +17,7 @@ business environment and a globally competitive
 workforce.
 
 #### EnterpriseSG
-ESG is the government agency championing enterprise development.
+EnterpriseSG is the government agency championing enterprise development.
 They work with committed companies to build capabilities, innovate
 and internationalise. They also support the growth of Singapore as
 a hub for global trading and startups. As the national standards and

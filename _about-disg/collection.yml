@@ -1,5 +1,5 @@
 collections:
-  about-disg-f:
+  about-disg:
     output: true
     order:
       - Who are We.md

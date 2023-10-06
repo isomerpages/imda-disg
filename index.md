@@ -14,7 +14,7 @@ sections:
           description: Who are We
           url: /about-disg/who-are-we/
         - title: Resources
-          description: Resources for companies
+          description: I&C ITM
           url: /resources/itm/
         - title: Success Stories
           description: Technology Innovation

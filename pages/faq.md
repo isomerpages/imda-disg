@@ -16,4 +16,4 @@ permalink: /faq/
 > **Infocomm Media Development Authority (IMDA)**: The Infocomm Media Development Authority develops and regulates the infocomm and media sectors.
 
 #### 3. I have questions across different agencies. Who Do I contact?
- > For general questions relating to DISG, reach out to info@disg.gov.sg. For questions pertaining to specific programs, reach out to the individual agencies: EDB, EnterpriseSG, IMDA.
+ > For general questions relating to DISG, reach out to **info@disg.gov.sg**. For questions pertaining to specific programs, reach out to the individual agencies: EDB, EnterpriseSG, IMDA.

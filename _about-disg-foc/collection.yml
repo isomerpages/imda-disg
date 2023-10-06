@@ -2,6 +2,6 @@ collections:
   about-disg-foc:
     output: true
     order:
-      - Who ARE WE.md
+      - Who are We.md
       - Our Vision.md
       - Our Mission.md

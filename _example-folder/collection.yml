@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About DISG.md
-      - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Find out about DISG mission
-          url: /about-us/who-are-we
+          url: /about-disg/who-are-we
         - title: Resources
           description: Resources for companies
           url: https://gmail.com

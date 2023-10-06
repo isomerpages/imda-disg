@@ -15,7 +15,7 @@ sections:
           url: /about-disg/who-are-we/
         - title: Resources
           description: Resources for companies
-          url: /resources/who-are-we/
+          url: /resources/itm/
         - title: Success Stories
           description: Technology Innovation
           url: /privacy/

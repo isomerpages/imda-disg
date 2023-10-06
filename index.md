@@ -12,13 +12,16 @@ sections:
       key_highlights:
         - title: About Us
           description: Find out about DISG mission
-          url: /permalink
+          url: /about-us
         - title: Resources
           description: Resources for companies
           url: https://gmail.com
         - title: Success Stories
           description: Technology Innovation
           url: /privacy/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       subtitle: DISG a joint office of the Economic Development Board (EDB),
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
         Development Authority (IMDA)

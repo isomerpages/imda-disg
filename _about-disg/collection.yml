@@ -2,4 +2,5 @@ collections:
   about-disg:
     output: true
     order:
+      - How We Do It.md
       - Who are We.md

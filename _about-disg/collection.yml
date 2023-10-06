@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-disg:
     output: true
     order:
       - About DISG.md

@@ -2,7 +2,5 @@ logo: /images/disg logo 1 (colour).png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Us
     collection: about-us

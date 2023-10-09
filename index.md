@@ -32,17 +32,26 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Jobs Created
+      title: 7%
       subtitle: i&C ITM
       id: infopic
-      description: 5,000
+      description: Targeting 5% to 7% real VA CAGR
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: 5%
-      subtitle: VA per worker
+      title: 3%
+      subtitle: i&C itm
       id: infopic
-      description: Infopic description
+      description: |-
+        Targeting 1.5% to 3%   
+        real VA per worker CAGR
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: 80,000
+      subtitle: i&c itm
+      id: infopic
+      description: Targeting 80,000 well-paying jobs in the I&C sector by 2025
       button: Button Text
       alt: Image alt text
 ---

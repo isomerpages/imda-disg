@@ -38,4 +38,11 @@ sections:
       description: 5,000
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: 5%
+      subtitle: VA per worker
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

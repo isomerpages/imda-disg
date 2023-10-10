@@ -23,7 +23,7 @@ sections:
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
         Development Authority (IMDA)
   - infopic:
-      title: Information & Communications ITM
+      title: Information & Communications (I&C) ITM
       id: infopic
       description: I&C ITM contains strategies to drive the growth of Singapore’s
         digital economy and achieve 80,000 well-paying jobs in the I&C sector by

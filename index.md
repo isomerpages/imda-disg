@@ -28,7 +28,7 @@ sections:
       description: The I&C ITM contains strategies to drive the growth of Singapore’s
         digital economy and achieve 80,000 well-paying jobs in the I&C sector by
         2025
-      button: Button Text
+      button: Find out more
       alt: ITM stats
       image: /images/stats_2.jpg
       url: /resources/itm/

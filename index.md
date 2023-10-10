@@ -33,14 +33,8 @@ sections:
       image: /images/stats_3.jpg
       url: /resources/itm/
       subtitle: I&C ITM
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Find out what our partners are doing
+      subtitle: Success Stories
       id: resources
 ---

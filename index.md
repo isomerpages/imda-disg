@@ -32,6 +32,7 @@ sections:
       alt: ITM stats
       image: /images/stats_itm.png
       url: /resources/itm/
+      subtitle: i&C ITM
   - infobar:
       title: Infobar title
       subtitle: Subtitle

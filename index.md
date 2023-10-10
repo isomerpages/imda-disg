@@ -31,6 +31,7 @@ sections:
       button: Button Text
       alt: ITM stats
       image: /images/stats_itm.png
+      url: /resources/itm/
   - infobar:
       title: Infobar title
       subtitle: Subtitle

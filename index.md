@@ -35,6 +35,7 @@ sections:
       subtitle: I&C ITM
   - resources:
       title: Find out what our partners are doing
-      subtitle: Success Stories
+      subtitle: disg partners
       id: resources
+      button: All Stories
 ---

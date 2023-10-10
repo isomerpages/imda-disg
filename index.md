@@ -29,7 +29,7 @@ sections:
         digital economy and achieve 80,000 well-paying jobs in the I&C sector by
         2025
       button: Button Text
-      alt: UUU
+      alt: ITM stats
       image: /images/stats_itm.png
   - infobar:
       title: Infobar title

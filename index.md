@@ -30,6 +30,7 @@ sections:
         2025
       button: Button Text
       alt: UUU
+      image: /images/stats_itm.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle

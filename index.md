@@ -30,7 +30,7 @@ sections:
         2025
       button: Find out more
       alt: ITM stats
-      image: /images/stats_2.jpg
+      image: /images/stats_3.jpg
       url: /resources/itm/
       subtitle: I&C ITM
   - infobar:

@@ -30,7 +30,7 @@ sections:
         2025
       button: Button Text
       alt: ITM stats
-      image: /images/isomer-logo.svg
+      image: /images/stats_2.jpg
       url: /resources/itm/
       subtitle: I&C ITM
   - infobar:

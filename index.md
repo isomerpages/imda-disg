@@ -4,54 +4,40 @@ title: Digital Industry Singapore
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Digital Industry Singapore (DISG)
       background: /images/homepage background.jpg
       key_highlights:
         - title: About Us
-          description: Who are We
+          description: ""
           url: /about-disg/who-are-we/
         - title: Resources
-          description: I&C ITM
+          description: ""
           url: /resources/itm/
         - title: Success Stories
-          description: Technology Innovation
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /success/stories/
       subtitle: DISG a joint office of the Economic Development Board (EDB),
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
         Development Authority (IMDA)
+  - infopic:
+      title: INFORMATION & COMMUNICATIONS (I&C) ITM
+      id: infopic
+      description: I&C ITM contains strategies to drive the growth of Singapore’s
+        digital economy and achieve 80,000 well-paying jobs in the I&C sector by
+        2025
+      button: Button Text
+      alt: UUU
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infopic:
-      title: 7%
-      subtitle: i&C ITM
-      id: infopic
-      description: Targeting 5% to 7% real VA CAGR
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: 3%
-      subtitle: i&C itm
-      id: infopic
-      description: |-
-        Targeting 1.5% to 3%   
-        real VA per worker CAGR
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: 80,000
-      subtitle: i&c itm
-      id: infopic
-      description: Targeting 80,000 well-paying jobs in the I&C sector by 2025
-      button: Button Text
-      alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---

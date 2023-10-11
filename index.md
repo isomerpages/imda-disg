@@ -2,7 +2,7 @@
 layout: homepage
 title: Digital Industry Singapore
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/disg_logo_favicon.png
 permalink: /
 notification: ""
 sections:

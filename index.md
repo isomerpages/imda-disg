@@ -19,7 +19,7 @@ sections:
         - title: Success Stories
           description: ""
           url: /success-stories/stories
-      subtitle: DISG a joint office of the Economic Development Board (EDB),
+      subtitle: DISG a joint office of the Economic Development Board (EDB), <br>
         Enterprise Singapore (EnterpriseSG) and Info-communications Media
         Development Authority (IMDA)
   - infopic:

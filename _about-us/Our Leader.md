@@ -4,8 +4,7 @@ permalink: /about-us/our-leader/
 description: ""
 ---
 ## Chan Ih-Ming
-**Executive Director and Head of Digital Industry Singapore (DISG)
-**
+**Executive Director and Head of Digital Industry Singapore (DISG)**
 <div class="image left">
 <img align="left" style="max-width: 25%; padding-right: 20px" alt="IM_photo" src="/images/ih-ming.jpg">
 </div>

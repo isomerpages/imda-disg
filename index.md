@@ -10,7 +10,7 @@ sections:
       title: Digital Industry Singapore <br> (DISG)
       background: /images/homepage background.jpg
       key_highlights:
-        - title: <b>About Us</b>
+        - title: About Us
           description: ""
           url: /about-disg/who-are-we/
         - title: Resources

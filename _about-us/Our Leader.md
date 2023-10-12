@@ -6,7 +6,7 @@ description: ""
 ## Chan Ih-Ming
 
 <div class="text">
-<img align="left" style="max-width: 30%;" alt="IM_photo" src="/images/ih-ming.jpg">
+<img align="left" style="max-width: 30%;padding-right: 20px" alt="IM_photo" src="/images/ih-ming.jpg">
 </div>
 
 <div class="text">

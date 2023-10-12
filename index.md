@@ -25,9 +25,9 @@ sections:
   - infopic:
       title: Information & Communications (I&C) ITM
       id: infopic
-      description: The I&C ITM contains strategies to drive the growth of Singapore’s
-        digital economy and achieve 80,000 well-paying jobs in the I&C sector by
-        2025
+      description: The I&C ITM contains strategies to drive the growth of
+        Singapore’s digital economy and achieve <b>80,000</b> well-paying jobs
+        in the I&C sector by <b>2025</b>
       button: Find out more
       alt: ITM stats
       image: /images/itm_image.png

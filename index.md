@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Digital Industry Singapore (DISG)
+      title: Digital Industry Singapore <br> (DISG)
       background: /images/homepage background.jpg
       key_highlights:
         - title: About Us
@@ -19,8 +19,8 @@ sections:
         - title: Success Stories
           description: ""
           url: /success-stories/stories
-      subtitle: DISG a joint office of the Economic Development Board (EDB), <br>
-        Enterprise Singapore (EnterpriseSG) and Info-communications Media
+      subtitle: A joint office of the Economic Development Board (EDB), <br>
+        Enterprise Singapore (EnterpriseSG) and <br> Info-communications Media
         Development Authority (IMDA)
   - infopic:
       title: Information & Communications (I&C) ITM

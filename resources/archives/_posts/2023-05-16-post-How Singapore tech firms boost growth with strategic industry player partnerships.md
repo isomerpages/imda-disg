@@ -46,3 +46,43 @@ image: ""
 <br><br>Mr Phillips says: “Utilising a partnership lead from AWS helped us in the early growth stages of our deployment to the Cloud. Our API (application programme interface) Library required certain cloud technologies to support our high-frequency digital wealth products. We also needed to keep our costs to a minimum. The knowledge provided to us by the partnerships lead helped Bambu scale up and scale down the AWS infrastructure efficiently. From this, we only paid for the services we needed in real-time."
 
 <br><br>**More deals sealed with increased exposure and an expanded network**
+
+<br><br>With the meteoric rise of video streaming on social media platforms, many businesses are looking to tap on the potential of live-streaming for marketing, events and education or training.
+
+<br><br>This is the solution offered by BeLive Technology, a Singapore company backed by IMDA’s Accreditation Programme, that creates customised live-streaming video solutions for applications like live shopping and edutainment. 
+
+<br><br>This local tech firm has managed to expand its tech solution overseas, powering live-streaming for companies such as online fashion retailer Zalora, which hosts the “Z-Live” show, featuring style tips and exclusive discounts, as well as e-commerce platforms Bukalapak in Indonesia and Rakuten in Japan and more. 
+
+<br><br>Mr Kenneth Tan, co-founder and chief executive of BeLive, says integrated live-streaming offers companies valuable marketing insights such as engagement metrics and analytics which may not be accessible to the same degree on third-party platforms.
+
+<br><br>In 2022, BeLive entered a partnership with Microsoft, after Mr Tan was introduced to the company’s chief partner officer Kevin Chan at an industry event organised by DISG in late 2022. 
+
+<br><br>Through its work with Microsoft, BeLive integrated its services more smoothly with its clients’ existing systems hosted on Microsoft Azure. 
+
+<br><br>The close partnership between BeLive and Microsoft has also enabled the former to co-develop market strategies and new use cases for its customers.
+
+<br><br>“We are in the process of being listed on the Microsoft Azure Marketplace. When that happens, our solutions will be more easily available to customers on the Microsoft Cloud,” says Mr Tan.
+
+<br><br>After BeLive decided to join Microsoft’s partner programme, DISG also helped to accelerate the company’s onboarding onto Microsoft Cloud, reducing the time needed to do so from three months to just two weeks.
+
+<br><br>Mr Tan says BeLive was able to close a major deal with a large retail mall as a result of the partnership with Microsoft. He adds that Microsoft's extensive network has increased BeLive's exposure to potential customers, many of which are exclusively using Microsoft Azure and would not consider using the company's services unless Microsoft Azure is supported.
+
+<br><br>“Microsoft has a deep ecosystem of partnerships with retailers and mall operators, so we do see Microsoft as a very integral part of our business going forward,” he adds, explaining that the retail industry is one of the key target markets that the company is focusing on.
+
+<br><br>**Leveraging partnerships for further business growth**
+
+<br><br>Besides supporting tech companies like Bambu and BeLive on their engagements with cloud computing platforms like AWS and Azure, DISG also leverages resources and programmes across government agencies to support tech companies in their growth. Its assistance extends to supporting companies and facilitating partnerships in areas such as research and development, product innovation, as well as market access. 
+
+<br><br>For instance, Mr Tan says that DISG also introduced BeLive to potential business opportunities both in Singapore and overseas. 
+
+<br><br>In 2022, DISG in collaboration with IMDA, organised a series of networking events for local tech companies to interact with one another after the easing of pandemic restrictions, providing them with an opportunity to meet with each other physically, and discuss potential partnership projects that could help grow their businesses. 
+
+<br><br>BeLive was a participant of some of these networking sessions, where they were introduced to other players in the tech ecosystem with common interest areas, such as harnessing data in the digital economy and use of immersive technologies. 
+
+<br><br>The company was also introduced by DISG to large e-commerce players in Africa, Latin America, and Turkey, which helped them in expanding their reach in these regions. 
+
+<br><br>As for Bambu, Mr Philips says DISG also helped to introduce the company to partners such as banks and financial institutions in overseas markets like Kenya, Saudi Arabia, Brazil, the United States and Germany, to support its growth internationally. 
+
+<br><br>In addition, DISG also engages closely with large non-tech local and global companies, to identify potential problem statements which local tech firms can potentially co-innovate solutions for. Such collaborations also help these local tech firms build up their track record.
+
+<br><br>These are all part of DISG’s efforts to achieve its mission to establish Singapore as a global-Asia technology hub with deep capabilities, strong infrastructure and a vibrant ecosystem of local and global enterprises, from which new products, services, business models and partnerships are created for Asia and beyond.

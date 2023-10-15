@@ -15,7 +15,7 @@ image: ""
 
 <br><br>While many such online transactions seem simple to the average consumer, beneath the surface is a complex network of interconnected systems working together to make them happen seamlessly.
 
-<br>Similar to how it is key for these systems to work closely together, businesses are also forming strategic partnerships to develop better product offerings and access more business opportunities. Some work with companies that complement their capabilities, while others partner businesses with networks they may not typically have access to. 
+<br><br>Similar to how it is key for these systems to work closely together, businesses are also forming strategic partnerships to develop better product offerings and access more business opportunities. Some work with companies that complement their capabilities, while others partner businesses with networks they may not typically have access to. 
 
 <br><br>Recognising the value of collaboration and creating synergy, local firms such as Bambu and BeLive tapped on the support from Digital Industry Singapore (DISG) – a joint office of the government set up to drive the growth of the tech sector – to form strategic partnerships with other businesses in the ecosystem.
 

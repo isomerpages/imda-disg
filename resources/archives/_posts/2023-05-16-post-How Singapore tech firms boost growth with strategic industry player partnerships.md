@@ -44,3 +44,5 @@ image: ""
 <br><br>Such engagements by DISG with digital carriers like cloud service providers are part of this joint office’s efforts to help local tech firms build strong channels and partnerships within the wider ecosystem, which allows companies like Bambu to expand their reach and serve the current customers. 
 
 <br><br>Mr Phillips says: “Utilising a partnership lead from AWS helped us in the early growth stages of our deployment to the Cloud. Our API (application programme interface) Library required certain cloud technologies to support our high-frequency digital wealth products. We also needed to keep our costs to a minimum. The knowledge provided to us by the partnerships lead helped Bambu scale up and scale down the AWS infrastructure efficiently. From this, we only paid for the services we needed in real-time."
+
+<br><br>**More deals sealed with increased exposure and an expanded network**

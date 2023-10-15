@@ -7,7 +7,7 @@ description: ""
 <p align="justify">A joint office of the Economic Development Board (<b>EDB</b>), Enterprise Singapore (<b>EnterpriseSG</b>) and Info-communications Media Development Authority (<b>IMDA</b>). As a joint office, DISG drives the growth of the technology sector in the country by being a single interface for the Singapore government with industry, which enables us to better understand companies' needs.</p>
 
 <div class="image left">
-<img align="left" style="max-width: 30%; padding-right: 30px" src="/images/edb%20logo.png">
+<img align="left" style="max-width: 20%; padding-right: 30px" src="/images/edb%20logo.png">
 <img align="left" style="max-width: 30%; padding-right: 30px" src="/images/esg%20logo.png">  
 <img align="left" style="max-width: 30%; padding-right: 30px" src="/images/imda%20logo.png">
 </div>

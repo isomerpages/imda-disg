@@ -9,7 +9,7 @@ image: ""
 ---
 ## From local to global: How S'pore tech firms boost growth with strategic industry-player partnerships
 
-<br>Robo-advisor platform Bambu and live streaming solution provider BeLive leverage collaborations with the likes of Amazon Web Services (AWS) and Microsoft to gain new leads and speed up their go-to-market process.
+<p align="justify"><br>Robo-advisor platform Bambu and live streaming solution provider BeLive leverage collaborations with the likes of Amazon Web Services (AWS) and Microsoft to gain new leads and speed up their go-to-market process.
 
 <br>Digital services are more interconnected than ever before. With the touch of a button in a mobile app, one can make online purchases, pay bills, and even send “e-angbaos” to loved ones. 
 
@@ -89,4 +89,4 @@ image: ""
 
 <br><br>Digital Industry Singapore (DISG) is a joint office of the Economic Development Board, Enterprise Singapore, and Info-communications Media Development Authority, established to support the growth of the technology sector in Singapore.
 
-<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.
+<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.</p>

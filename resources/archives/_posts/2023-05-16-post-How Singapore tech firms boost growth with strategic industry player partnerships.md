@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p align="justify">From local to global: How S'pore tech firms boost growth with strategic industry player partnerships</p>
+## From local to global: How S'pore tech firms boost growth with strategic industry player partnerships
 
 <p align="justify"><br>Robo-advisor platform Bambu and live streaming solution provider BeLive leverage collaborations with the likes of Amazon Web Services (AWS) and Microsoft to gain new leads and speed up their go-to-market process.
 

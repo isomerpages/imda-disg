@@ -12,7 +12,7 @@ description: ""
 <img align="left" style="max-width: 30%; padding-right: 30px" src="/images/imda%20logo.png">
 </div>
 
-#### **<br>EDB**
+#### **<br><br>EDB**
 <p align="justify">The EDB is responsible for strategies that enhance Singapore’s
 position as a global centre for business, innovation, and talent. It
 provides assistance for international investors looking to invest

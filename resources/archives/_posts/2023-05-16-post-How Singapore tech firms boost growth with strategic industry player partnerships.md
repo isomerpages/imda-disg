@@ -86,3 +86,7 @@ image: ""
 <br><br>In addition, DISG also engages closely with large non-tech local and global companies, to identify potential problem statements which local tech firms can potentially co-innovate solutions for. Such collaborations also help these local tech firms build up their track record.
 
 <br><br>These are all part of DISG’s efforts to achieve its mission to establish Singapore as a global-Asia technology hub with deep capabilities, strong infrastructure and a vibrant ecosystem of local and global enterprises, from which new products, services, business models and partnerships are created for Asia and beyond.
+
+<br><br>Digital Industry Singapore (DISG) is a joint office of the Economic Development Board, Enterprise Singapore, and Info-communications Media Development Authority, established to support the growth of the technology sector in Singapore.
+
+<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.

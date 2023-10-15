@@ -11,15 +11,15 @@ image: ""
 
 <p align="justify"><br>Robo-advisor platform Bambu and live streaming solution provider BeLive leverage collaborations with the likes of Amazon Web Services (AWS) and Microsoft to gain new leads and speed up their go-to-market process.
 
-<br>Digital services are more interconnected than ever before. With the touch of a button in a mobile app, one can make online purchases, pay bills, and even send “e-angbaos” to loved ones. 
+<br><br>Digital services are more interconnected than ever before. With the touch of a button in a mobile app, one can make online purchases, pay bills, and even send “e-angbaos” to loved ones. 
 
-<br>While many such online transactions seem simple to the average consumer, beneath the surface is a complex network of interconnected systems working together to make them happen seamlessly.
+<br><br>While many such online transactions seem simple to the average consumer, beneath the surface is a complex network of interconnected systems working together to make them happen seamlessly.
 
 <br>Similar to how it is key for these systems to work closely together, businesses are also forming strategic partnerships to develop better product offerings and access more business opportunities. Some work with companies that complement their capabilities, while others partner businesses with networks they may not typically have access to. 
 
 <br><br>Recognising the value of collaboration and creating synergy, local firms such as Bambu and BeLive tapped on the support from Digital Industry Singapore (DISG) – a joint office of the government set up to drive the growth of the tech sector – to form strategic partnerships with other businesses in the ecosystem.
 
-<br><br>**Offering reliable robo-advisor services backed by established cloud platforms**
+<br><br><b>Offering reliable robo-advisor services backed by established cloud platforms</b>
 
 <br><br>The advent of robo-advisors has made it simpler to invest passively, with customisable portfolios tailored to one’s risk appetite and automated rebalancing to respond to changes in the market. 
 
@@ -45,7 +45,7 @@ image: ""
 
 <br><br>Mr Phillips says: “Utilising a partnership lead from AWS helped us in the early growth stages of our deployment to the Cloud. Our API (application programme interface) Library required certain cloud technologies to support our high-frequency digital wealth products. We also needed to keep our costs to a minimum. The knowledge provided to us by the partnerships lead helped Bambu scale up and scale down the AWS infrastructure efficiently. From this, we only paid for the services we needed in real-time."
 
-<br><br>**More deals sealed with increased exposure and an expanded network**
+<br><br><b>More deals sealed with increased exposure and an expanded network</b>
 
 <br><br>With the meteoric rise of video streaming on social media platforms, many businesses are looking to tap on the potential of live-streaming for marketing, events and education or training.
 
@@ -69,7 +69,7 @@ image: ""
 
 <br><br>“Microsoft has a deep ecosystem of partnerships with retailers and mall operators, so we do see Microsoft as a very integral part of our business going forward,” he adds, explaining that the retail industry is one of the key target markets that the company is focusing on.
 
-<br><br>**Leveraging partnerships for further business growth**
+<br><br><b>Leveraging partnerships for further business growth</b>
 
 <br><br>Besides supporting tech companies like Bambu and BeLive on their engagements with cloud computing platforms like AWS and Azure, DISG also leverages resources and programmes across government agencies to support tech companies in their growth. Its assistance extends to supporting companies and facilitating partnerships in areas such as research and development, product innovation, as well as market access. 
 

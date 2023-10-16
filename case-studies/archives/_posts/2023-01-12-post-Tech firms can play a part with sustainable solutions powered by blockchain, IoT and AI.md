@@ -13,7 +13,7 @@ image: ""
 	
 <br><br><img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/azendian2.jpg">
 	
-<br><br>As the world confronts the growing threat of climate change, there is an increasing need for technology solutions that can help support the sustainability goals of businesses and governments worldwide.  
+<br>As the world confronts the growing threat of climate change, there is an increasing need for technology solutions that can help support the sustainability goals of businesses and governments worldwide.  
   
 <br><br>In Singapore, a number of local tech firms have put sustainability at the heart of what they do, and seen their innovations take flight in South-east Asia and beyond.  
   

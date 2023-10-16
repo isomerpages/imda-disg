@@ -34,7 +34,7 @@ sections:
       url: /resources/itm/
       subtitle: I&C ITM
   - resources:
-      title: Find out what our partners are doing
+      title: Find out what<br>our partners are doing
       subtitle: disg partners
       id: resources
       button: All Stories

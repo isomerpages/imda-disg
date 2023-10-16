@@ -54,6 +54,8 @@ image: ""
 <br><br>Beyond the retail sector, the company’s AI solutions are being used by universities, healthcare institutions, libraries, tourist attractions and event organisers.
 
 <br><br><b>Constant innovation to keep hackers and scammers at bay</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%203.jpg">
+<b>Mr Joseph Gan (second from right), Chief executive and co-founder of V-Key, and his team created a security and authentication system that can protect you from scams. PHOTO: SPH MEDIA</b>
 	
 <br><br>Singaporeans are among the most prolific users of mobile banking, but not many know about the key role that tech companies like V-Key play in the finance sector.
 

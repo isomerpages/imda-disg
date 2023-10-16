@@ -86,7 +86,9 @@ image: ""
 <br><br>Ms Koh adds that DISG previously helped support its efforts to set up offices in China. The company is also looking forward to expanding the AgriON platform to Cambodia and Vietnam with the support of DISG.
 	
 <br><br><b>Low-energy IoT network powers millions of devices globally</b>
-
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/unabiz_facilities_management.jpg">
+<b>UnaBiz’s Smart Facilities Management Suite helps building owners to improve the energy efficiency of their facilities by enabling them to monitor the quality of air indoors and keep track of water and power usage easily. PHOTO: UNABIZ</b>
+	
 <br><br>While many telecommunications companies are chasing faster data transmission with technology like “5G” networks, not every operation requires top speeds and large bandwidths.  
   
 <br><br>A “0G” network remains useful for applications where operating on low power is more important than high frequency and large bandwidth data transmission. One such instance is when there is a need for a massive number of devices to be deployed across vast distances and over long periods of time without maintenance.  

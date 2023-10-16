@@ -4,7 +4,7 @@ permalink: /about-disg/our-vision/
 description: ""
 ---
 <div class="image left">
-<img align="left" style="max-width: 30%; padding-right: 20px" src="/images/sticker%209.png">
+<img align="left" style="max-width: 25%; padding-right: 20px" src="/images/sticker%209.png">
 </div>
 
 <div class="text right">

@@ -24,6 +24,7 @@ image: ""
 <br><br>Here is a look at how these three companies’ innovations have transformed processes for various sectors, changing the way digital marketing, digital authentication and due diligence checks are done.
 	
 <br><br><b>Empowering better retail decisions with AI</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%202.jpg">
 	
 <br><br>The moment visitors enter Funan mall, an artificial intelligence (AI) system determines their demographic profile, such as age and gender, using image recognition software.
 

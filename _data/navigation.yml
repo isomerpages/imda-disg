@@ -1,6 +1,6 @@
 logo: /images/disg logo 1 (colour).png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Us
     collection: about-us
+  - title: Contact Us
+    url: /contact-us/

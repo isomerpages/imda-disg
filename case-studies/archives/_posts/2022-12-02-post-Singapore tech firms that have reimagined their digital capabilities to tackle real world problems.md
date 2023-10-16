@@ -88,6 +88,8 @@ image: ""
 <br><br>“We have a lot of ongoing R&amp;D to deal with the threats our clients are facing, and we do incorporate this into our product with each iteration. When we deploy a new security upgrade, it benefits all our clients, not just the client it was developed for.” says Mr Gan.
 	
 <br><br><b>Helping corporations make swift and better-informed business decisions</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%204.jpg">
+<b>Mr Charles Poon (left) and Mr Daryl Neo, co-founders of fintech start-up Handshakes, developed an artificial intelligence-powered business intelligence database called Handshakes. PHOTO: SPH MEDIA</b>
 	
 <br><br>To simplify this process, in 2011, Handshakes founded a platform that acts as a search engine for companies to gather corporate information about other enterprises.
 

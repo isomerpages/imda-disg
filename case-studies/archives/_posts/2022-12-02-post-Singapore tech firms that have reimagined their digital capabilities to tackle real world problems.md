@@ -11,8 +11,7 @@ image: ""
 
 <p align="justify"><br>Meet three Singapore tech firms that have reimagined their digital capabilities to tackle real-world problems
 
-<br><br><img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/bambu_pic.JPG">
-
+<br><br><img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%201.jpg">
 
 <br><br>In an age of rapid digitalisation, the race to build game-changing technologies is more competitive than ever. To stay ahead, tech firms must continuously innovate and improve on their offerings.
 

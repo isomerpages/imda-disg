@@ -20,6 +20,8 @@ image: ""
 <br><br>Recognising the value of collaboration and creating synergy, local firms such as Bambu and BeLive tapped on the support from Digital Industry Singapore (DISG) – a joint office of the government set up to drive the growth of the tech sector – to form strategic partnerships with other businesses in the ecosystem.
 
 <br><br><b>Offering reliable robo-advisor services backed by established cloud platforms</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/bambu_pic.JPG">
+
 
 <br><br>The advent of robo-advisors has made it simpler to invest passively, with customisable portfolios tailored to one’s risk appetite and automated rebalancing to respond to changes in the market. 
 

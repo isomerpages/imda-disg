@@ -13,7 +13,7 @@ image: ""
 
 <br><br><img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%201.jpg">
 
-<br><br>In an age of rapid digitalisation, the race to build game-changing technologies is more competitive than ever. To stay ahead, tech firms must continuously innovate and improve on their offerings.
+<br>In an age of rapid digitalisation, the race to build game-changing technologies is more competitive than ever. To stay ahead, tech firms must continuously innovate and improve on their offerings.
 
 <br><br>One way for companies to distinguish themselves is to proactively uncover and understand industry problems so they can create better solutions, tap new business opportunities and gain a wider customer base.
 

@@ -11,6 +11,9 @@ image: ""
 
 <p align="justify"><br>From the energy market to the logistics industry, building management and agriculture, homegrown businesses Azendian, iAPPS and UnaBiz are taking a step forward to combat the climate crisis
 	
+<br><br><img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/bambu_pic.JPG">
+
+	
 <br><br>As the world confronts the growing threat of climate change, there is an increasing need for technology solutions that can help support the sustainability goals of businesses and governments worldwide.  
   
 <br><br>In Singapore, a number of local tech firms have put sustainability at the heart of what they do, and seen their innovations take flight in South-east Asia and beyond.  

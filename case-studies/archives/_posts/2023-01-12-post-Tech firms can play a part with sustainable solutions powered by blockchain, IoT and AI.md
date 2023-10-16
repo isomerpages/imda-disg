@@ -79,4 +79,39 @@ image: ""
 <br><br>With technology increasingly being seen and used as a tool to combat climate change, DISG has been working closely with local tech companies on their product development and efforts to develop sustainability solutions, as well as plans to scale their businesses internationally.  
   
 <br><br>Ms Koh adds that DISG previously helped support its efforts to set up offices in China. The company is also looking forward to expanding the AgriON platform to Cambodia and Vietnam with the support of DISG.
-</p>
+	
+<br><br><b>Low-energy IoT network powers millions of devices globally</b>
+
+<br><br>While many telecommunications companies are chasing faster data transmission with technology like “5G” networks, not every operation requires top speeds and large bandwidths.  
+  
+<br><br>A “0G” network remains useful for applications where operating on low power is more important than high frequency and large bandwidth data transmission. One such instance is when there is a need for a massive number of devices to be deployed across vast distances and over long periods of time without maintenance.  
+  
+<br><br>This is one of the technology solutions offered by Singapore-based Internet-of-Things (IoT) specialist UnaBiz, which owns the global Sigfox “0G” network that powers more than 10 million devices across 72 countries.  
+  
+<br><br>One example is smart gas meters, which are small, highly energy-efficient and durable devices used to remotely monitor fuel consumption when connected to the 0G network.  
+  
+<br><br>Japanese energy retailer Nicigas, one of UnaBiz’s customers, uses 0G-enabled smart gas meters to accurately keep track of more than 1.2 million residential and commercial liquid petroleum gas (LPG) users.  
+  
+<br><br>UnaBiz co-founder and co-CEO Henri Bong says Nicigas was able to reduce deliveries of gas canisters by over 40 per cent and save 10 million yen (S$100,000) a year on manpower costs after adopting the smart gas meters.  
+  
+<br><br>Previously, gas meters had to be checked manually on a monthly basis and delivery operations were inefficient as new LPG canisters had to be delivered every two to three months, on a fixed schedule, even if the users had not used up all the gas in their old canisters.  
+  
+<br><br>“Saving 40 per cent of their logistics means saving 40 per cent of their carbon footprint in terms of the trucks used to make the deliveries and the petrol that they consumed,” Mr Bong says, adding that improving the sustainability of its operations was a key motivation for Nicigas to digitalise.  
+  
+<br><br>Founded in 2017, UnaBiz has come a long way, from when it first started out as a major user of the 0G technology, before acquiring ownership of the technology from French IoT firm Sigfox last April. Today, UnaBiz has offices in Singapore, France, Taiwan, Japan, the Netherlands and Spain.  
+  
+<br><br>Mr Bong says the company might not have been successful in its bid to acquire Sigfox if not for the support it received from DISG.  
+  
+<br><br>He adds: “DISG introduced us to big corporations and gave us the opportunities we needed to succeed as a start-up. We also leveraged DISG’s support to expand overseas, especially in Asia-Pacific, and build up our credibility.” Today, DISG continues to engage UnaBiz closely, to better understand their research and development plans and explore how they can be supported on their innovation journey to develop new products.  
+  
+<br><br>Currently, UnaBiz is researching low-power “green batteries” that can operate without lithium to power trackers that can help companies keep track of packages and shipping containers that move across countries.  
+  
+<br><br>Mr Bong says that this is part of the company’s efforts to improve the sustainability of the 0G devices it supports by designing components that are easier to recycle, or that can be disposed of at the end of their lifespan with minimal impact on the environment.  
+  
+<br><br>DISG has given local firms a boost in many ways, one of which is identifying platforms for tech companies to pitch their solutions to potential customers and network with other tech players to explore tech collaboration opportunities.  
+  
+<br><br>One example is the most recent 2022 World Cities Summit (WCS) in Singapore, where the three firms Azendian, iAPPS and UnaBiz were among the companies nominated by DISG to showcase their tech solutions and demonstrate how emerging technologies like IoT, AI and blockchain can help the world build a cleaner and greener future.&nbsp;  
+  
+<br><br>Digital Industry Singapore (DISG) is a joint office of the Economic Development Board, Enterprise Singapore, and Info-communications Media Development Authority, established to support the growth of the technology sector in Singapore.
+
+<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.</p>

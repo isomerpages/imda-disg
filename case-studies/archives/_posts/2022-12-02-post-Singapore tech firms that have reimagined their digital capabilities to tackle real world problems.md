@@ -82,4 +82,27 @@ image: ""
 <br><br>“We have a lot of ongoing R&amp;D to deal with the threats our clients are facing, and we do incorporate this into our product with each iteration. When we deploy a new security upgrade, it benefits all our clients, not just the client it was developed for.” says Mr Gan.
 	
 <br><br><b>Helping corporations make swift and better-informed business decisions</b>
-</p>
+	
+<br><br>To simplify this process, in 2011, Handshakes founded a platform that acts as a search engine for companies to gather corporate information about other enterprises.
+
+<br><br>Mr Charles Poon, co-founder and chief products officer at Handshakes, says the traditional means of research, which involved identifying credible sources as a first step, was “very inefficient”. He says the Handshakes platform can reduce the time needed to conduct such checks from months to minutes.
+
+<br><br>Besides business data from Singapore’s Accounting and Corporate Regulatory Authority, Handshakes also supplies corporate data from overseas markets, from partners such as S&amp;P Global, as well as non-corporate data such as news archives from SPH Media and Nikkei.
+
+<br><br>It can also showcase relationship maps linking individuals and entities in a visual manner, providing quick insights on potential conflicts of interest and compliance risks.
+
+<br><br>The company’s investments in AI and other technological advancements have allowed it to capture new business opportunities.
+
+<br><br>While Handshakes started out primarily serving capital market players like law firms, financial advisories, banks and regulators, it has since expanded it to the broader corporate landscape as well as educational institutions and the public sector.
+
+<br><br>Handshakes’ R&amp;D efforts in Singapore have been supported by DISG, which worked closely with the company to understand its product development priorities that can capture global market opportunities. This included the deepening of their AI, data analytics and other technical capabilities.
+
+<br><br>DISG also facilitated introductions to potential investors and partners, which could help launch the company’s products into new markets such as the US and Europe.
+
+<br><br>“DISG has been partnering our local technology companies on their growth journeys in many different ways - supporting their R&amp;D and product innovation efforts, facilitating introductions to technology and business partners, and charting out possible market access and expansion opportunities,” says DISG director Samantha Su.
+
+<br><br>“We are encouraged that Singapore technology firms like Trakomatic, V-Key and Handshakes are pushing the boundaries of innovation to be ahead of their competitors. We will continue to work with them and other similar Singapore technology firms to build capabilities as they scale further locally and internationally.”
+
+<br><br>Digital Industry Singapore (DISG) is a joint office of the Economic Development Board, Enterprise Singapore, and Info-communications Media Development Authority, established to support the growth of the technology sector in Singapore.
+
+<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.</p>

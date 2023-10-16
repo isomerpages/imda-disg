@@ -16,9 +16,9 @@ sections:
         - title: Resources
           description: ""
           url: /resources/itm/
-        - title: Success Stories
+        - title: Case Studies
           description: ""
-          url: /success-stories/stories
+          url: /resources/archives/permalink/
       subtitle: A joint office of the Economic Development Board (EDB), <br>
         Enterprise Singapore (EnterpriseSG) and <br> Info-communications Media
         Development Authority (IMDA)

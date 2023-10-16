@@ -20,6 +20,8 @@ image: ""
 <br><br>Here is a closer look at how three tech companies’ innovations are helping to build a cleaner and greener future.
 
 <br><br><b>Plug-and-play AI platform optimises energy consumption in buildings</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/replacement_azendian.jpg">
+<b>Managing director of Azendian Bill Lee (second from the left) speaking at a seminar hosted by Singapore Green Building Council (SGBC). PHOTO: AZENDIAN</b>
 
 <br><br>Buildings are among the most significant contributors to energy consumption in cities and having greener building management systems can help to significantly cut carbon emissions.  
   

@@ -3,8 +3,9 @@ title: Our Mission
 permalink: /about-disg/our-mission/
 description: ""
 ---
+
 <div class="image left">
-<img align="left" style="max-width: 30%; padding-right: 20px" src="/images/sticker%202.PNG">
+<img align="left" style="max-width: 25%; padding-right: 20px" src="/images/sticker%202.PNG">
 </div>
 
 <div class="text right">

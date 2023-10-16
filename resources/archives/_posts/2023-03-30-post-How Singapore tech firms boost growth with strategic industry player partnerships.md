@@ -48,6 +48,8 @@ Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle
 <br><br>Mr Phillips says: “Utilising a partnership lead from AWS helped us in the early growth stages of our deployment to the Cloud. Our API (application programme interface) Library required certain cloud technologies to support our high-frequency digital wealth products. We also needed to keep our costs to a minimum. The knowledge provided to us by the partnerships lead helped Bambu scale up and scale down the AWS infrastructure efficiently. From this, we only paid for the services we needed in real-time."
 
 <br><br><b>More deals sealed with increased exposure and an expanded network</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/belive.JPG">
+BeLive and Microsoft representatives during a meeting to discuss and align on a partnership growth strategy and roadmap to provide more holistic solutions to both company’s customers. Photo: Belive
 
 <br><br>With the meteoric rise of video streaming on social media platforms, many businesses are looking to tap on the potential of live-streaming for marketing, events and education or training.
 
@@ -72,6 +74,8 @@ Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle
 <br><br>“Microsoft has a deep ecosystem of partnerships with retailers and mall operators, so we do see Microsoft as a very integral part of our business going forward,” he adds, explaining that the retail industry is one of the key target markets that the company is focusing on.
 
 <br><br><b>Leveraging partnerships for further business growth</b>
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/pixelnetworking.png">
+Local tech companies at an industry networking session in 2022 organised by DISG and IMDA in 2022, where the discussion was anchored on the topic of seizing opportunities in Asean. Photo: DISG
 
 <br><br>Besides supporting tech companies like Bambu and BeLive on their engagements with cloud computing platforms like AWS and Azure, DISG also leverages resources and programmes across government agencies to support tech companies in their growth. Its assistance extends to supporting companies and facilitating partnerships in areas such as research and development, product innovation, as well as market access. 
 

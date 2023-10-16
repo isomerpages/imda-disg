@@ -1,5 +1,0 @@
-collections:
-  success-stories-99:
-    output: true
-    order:
-      - Archives.md

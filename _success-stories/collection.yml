@@ -2,5 +2,4 @@ collections:
   success-stories:
     output: true
     order:
-      - Archives/.keep
       - Archives.md

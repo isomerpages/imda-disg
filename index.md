@@ -37,5 +37,5 @@ sections:
       title: Find out what<br>our partners are doing
       subtitle: disg partners
       id: resources
-      button: All Stories
+      button: All Case Studies
 ---

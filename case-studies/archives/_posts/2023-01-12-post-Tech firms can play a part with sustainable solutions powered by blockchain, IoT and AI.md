@@ -42,7 +42,6 @@ image: ""
 <br><br>“In our experience, this solution can save our customers up to 25 per cent of the energy used on their HVAC systems,” says Mr Lee.  
   
 <br><br>Another advantage of Azendian’s solution is its ability to detect and predict equipment faults based on anomalies in energy usage, temperature and other metrics, enabling the building owner to conduct predictive maintenance.
-
   
 <br><br>The development of the Azendian Estate platform was supported by Digital Industry Singapore (DISG), a joint office of the Singapore government set up to drive the growth of the tech sector. Mr Lee says DISG helped the company scope out the commercial potential of the platform during the innovation phase and pointed Azendian to opportunities overseas.&nbsp;  
   
@@ -51,7 +50,9 @@ image: ""
 <br><br>“When we ventured overseas, DISG supported us in our market studies, events and trade fairs. This was very important for us to build mindshare and let people know that we were coming to their market and what our capabilities were,” Mr Lee adds.
 
 <br><br><b>Blockchain system tracks sustainable produce from farm to table</b>
-
+<img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/story2iapps.jpg">
+<b>AgriON, a blockchain-powered fintech platform developed by iAPPS, enables farmers to produce more sustainably and gain access to more financing opportunities. PHOTO: iAPPS</b>
+	
 <br><br>Agriculture is another area where much can be done to cut carbon emissions associated with food production.  
   
 <br><br>As consumers become more aware of the impact of their purchasing choices on the environment, food producers are increasingly expected to ensure their entire supply chains are sustainable. There is also a growing focus on green finance to support companies and producers that contribute to better environmental outcomes.  

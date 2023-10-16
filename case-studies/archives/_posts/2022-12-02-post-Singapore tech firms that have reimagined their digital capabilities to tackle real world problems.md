@@ -25,6 +25,7 @@ image: ""
 	
 <br><br><b>Empowering better retail decisions with AI</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%202.jpg">
+<b>(Front row, from left) Trakomatic’s co-founders Shaun Kwan, Ravich Prashanth and Allen Lin with the team. PHOTO:TRAKOMATIC</b>
 	
 <br><br>The moment visitors enter Funan mall, an artificial intelligence (AI) system determines their demographic profile, such as age and gender, using image recognition software.
 

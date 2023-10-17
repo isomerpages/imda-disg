@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Digital Industry Singapore <br> (DISG)
-      background: /images/background2.jpg
+      background: /images/background3.jpg
       key_highlights:
         - title: About Us
           description: ""

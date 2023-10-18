@@ -21,7 +21,7 @@ description: ""
 •	We support the development of national policies and initiatives to create a conducive business environment for organic innovation and internationalization. This includes enhancing and growing our funding environment and building key supporting digital infrastructure.</p>
 
 #### **DISG, a joint office**
-<p align="justify">To cover the range of interests between local digital champions and global technology leaders, DISG is a joint office between the Economic Development Board (<b>EDB</b>), Enterprise Singapore (<b>EnterpriseSG</b>), and the Info-communications Media Development Authority (<b>IMDA</b>).
+<p align="justify">To cover the range of interests between local digital champions and global technology leaders, <b>DISG</b> is a joint office between the Economic Development Board (<b>EDB</b>), Enterprise Singapore (<b>EnterpriseSG</b>), and the Info-communications Media Development Authority (<b>IMDA</b>).
  
 This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
 <div class="image left">

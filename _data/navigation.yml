@@ -1,10 +1,15 @@
 logo: /images/disg logo 1 (colour).png
 links:
-  - title: About Us
-    collection: about-us
+  - title: DISG
+    url: /about-disg
+    sublinks:
+      - title: Who is DISG
+        url: /about-disg/who-are-we/
+      - title: Leadership
+        url: /about-us/leadership/
+      - title: Resources
+        url: /resources/itm/
+      - title: Case Studies
+        url: /case-studies/
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    url: /resources/itm
-  - title: Case Studies
-    url: /case-studies

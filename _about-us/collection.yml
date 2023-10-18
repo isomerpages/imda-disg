@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Who is DISG.md
-      - Our Vision.md
       - Our Mission.md
       - Leadership.md

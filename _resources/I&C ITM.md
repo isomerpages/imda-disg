@@ -9,4 +9,3 @@ description: ""
 Find out more about the strategies here:</p>
 <br>
 ![](/images/itm%20infographic.jpg)
-

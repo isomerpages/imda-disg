@@ -3,10 +3,10 @@ title: I&C ITM
 permalink: /resources/itm/
 description: ""
 ---
-### INFORMATION &amp; COMMUNICATIONS (I&amp;C) ITM
+### Transforming Singapore's Information &amp; Communications (I&amp;C) industry to power a global Asia digital hub 
 
-<p align="justify">Transforming Singapore’s I&amp;C industry to power a global Asia digital hub. The I&amp;C ITM aims to develop a strong and resilient I&amp;C sector to power the growth of our Digital Economy and strengthen Singapore’s position as a hub for leading tech companies and talent. <br><br>The strategies laid out in the refreshed I&amp;C ITM will put us on track to achieving real Value Added (VA) Compound Annual Growth Rate (CAGR) of <b>5% to 7%</b>, and real VA per worker CAGR of <b>1.5% to 3%</b> from 2020 to 2025. The number of well-paying jobs in the I&amp;C industry is expected to <b>grow to 80,000 by 2025</b>, creating good opportunities for Singapore and Singaporeans.</p>
+<p align="justify">DISG had developed and launched a refreshed Information &amp; Communications (I&amp;C) Industry Transformation Map (ITM) in May 2023, to drive the growth of Singapore’s digital economy. <br><br>
+Find out more about the strategies here:</p>
+<br>
+![](/images/itm%20infographic.jpg)
 
-Click to download the <b>I&amp;C ITM press release</b>. [Download](/files/i&amp;c%20itm%20press%20release.pdf)
-
-Click to download the <b>I&amp;C ITM infographics</b>. [Download](/files/i&amp;c%20itm%20infographic.pdf)

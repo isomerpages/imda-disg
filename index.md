@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Digital Industry Singapore <br> (DISG)
+      title: <font size="-1">Digital Industry Singapore<br>(DISG)</font>
       background: /images/background3.jpg
       key_highlights:
         - title: About Us

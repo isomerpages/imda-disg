@@ -13,11 +13,11 @@ description: ""
 <p align="justify">To make it easy for tech companies and talent to grow and thrive with Singapore.</p>
 
 #### **How do we do it?**
-<p align="justify"><b>1.	Identify areas of technological growth where Singapore can be competitive.<br></b>
+<p align="justify"><b>1.	Identify areas of technological growth where Singapore can be competitive<br></b>
 We speak with companies and industry partners to understand Singapore’s strengths and the emerging trends in technology and determine where Singapore can win and how we can get there.<br><br>
-<b>2.	Grow a vibrant base of Tech talent.<br></b>
+<b>2.	Grow a vibrant base of Tech talent<br></b>
 We work with companies, Institutes of Higher Learning, and other government agencies to determine how we can train fresh graduates and mature talent for the tech roles of tomorrow. <br><br> 
-<b>3.	Build a sustainable Tech habitat and ecosystem where individuals and companies can thrive on their own.<br></b>
+<b>3.	Build a sustainable Tech habitat and ecosystem where individuals and companies can thrive on their own<br></b>
 We support the development of national policies and initiatives to create a conducive business environment for organic innovation and internationalization. This includes enhancing and growing our funding environment and building key supporting digital infrastructure.</p>
 
 #### **DISG, a joint office**

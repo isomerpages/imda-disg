@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: /about-disg/who-is-disg/
+          url: /about-us/who-is-disg/
         - title: Resources
           description: ""
           url: /resources/itm/

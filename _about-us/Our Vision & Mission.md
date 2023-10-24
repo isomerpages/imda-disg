@@ -24,8 +24,7 @@ We support the development of national policies and initiatives to create a cond
 <p align="justify">To cover the range of interests between local digital champions and global technology leaders, <b>DISG</b> is a joint office between the Economic Development Board (<b>EDB</b>), Enterprise Singapore (<b>EnterpriseSG</b>), and the Info-communications Media Development Authority (<b>IMDA</b>).
  
 This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
-<div class="image left">
-<img align="left" style="max-width: 20%; padding-right: 30px" src="/images/edb%20logo.png">
-<img align="middle" style="max-width: 30%; padding-right: 30px" src="/images/esg%20logo.png">  
-<img align="right" style="max-width: 30%; padding-right: 30px" src="/images/imda%20logo.png">
-</div><br>
+<div style="text-align: center;">
+<img style="float: left; max-width: 20%; margin-right: 10px;" src="/images/edb%20logo.png">
+<img style="display: inline; max-width: 30%" src="/images/esg%20logo.png">
+<img style="float: right; max-width: 30%; margin-left: 10px;" src="/images/imda%20logo.png"></div><br>

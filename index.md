@@ -30,7 +30,7 @@ sections:
         in the I&C sector by <b>2025</b>
       button: Find out more
       alt: ITM stats
-      image: /images/itm_resized.png
+      image: /images/itm image.png
       url: /resources/itm/
       subtitle: I&C ITM
   - resources:

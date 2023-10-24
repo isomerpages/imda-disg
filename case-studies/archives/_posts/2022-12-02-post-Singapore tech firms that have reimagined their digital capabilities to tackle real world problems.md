@@ -25,7 +25,7 @@ image: ""
 	
 <br><br><b>Empowering better retail decisions with AI</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%202.jpg">
-<b>(Front row, from left) Trakomatic’s co-founders Shaun Kwan, Ravich Prashanth and Allen Lin with the team. PHOTO:TRAKOMATIC</b>
+<span style="font-size:13px"><b>(Front row, from left) Trakomatic’s co-founders Shaun Kwan, Ravich Prashanth and Allen Lin with the team. PHOTO:TRAKOMATIC</b></span>
 	
 <br><br>The moment visitors enter Funan mall, an artificial intelligence (AI) system determines their demographic profile, such as age and gender, using image recognition software.
 
@@ -55,7 +55,7 @@ image: ""
 
 <br><br><b>Constant innovation to keep hackers and scammers at bay</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%203.jpg">
-<b>Mr Joseph Gan (second from right), Chief executive and co-founder of V-Key, and his team created a security and authentication system that can protect you from scams. PHOTO: SPH MEDIA</b>
+<span style="font-size:13px"><b>Mr Joseph Gan (second from right), Chief executive and co-founder of V-Key, and his team created a security and authentication system that can protect you from scams. PHOTO: SPH MEDIA</b></span>
 	
 <br><br>Singaporeans are among the most prolific users of mobile banking, but not many know about the key role that tech companies like V-Key play in the finance sector.
 
@@ -89,7 +89,7 @@ image: ""
 	
 <br><br><b>Helping corporations make swift and better-informed business decisions</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/picture%204.jpg">
-<b>Mr Charles Poon (left) and Mr Daryl Neo, co-founders of fintech start-up Handshakes, developed an artificial intelligence-powered business intelligence database called Handshakes. PHOTO: SPH MEDIA</b>
+<span style="font-size:13px"><b>Mr Charles Poon (left) and Mr Daryl Neo, co-founders of fintech start-up Handshakes, developed an artificial intelligence-powered business intelligence database called Handshakes. PHOTO: SPH MEDIA</b></span>
 	
 <br><br>To simplify this process, in 2011, Handshakes founded a platform that acts as a search engine for companies to gather corporate information about other enterprises.
 

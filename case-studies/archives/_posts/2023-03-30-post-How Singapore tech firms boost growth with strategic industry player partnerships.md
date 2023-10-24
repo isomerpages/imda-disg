@@ -21,7 +21,7 @@ image: ""
 
 <br><br><b>Offering reliable robo-advisor services backed by established cloud platforms</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/bambu_pic.JPG">
-<span style="font-size:14px"><b>Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle), chief product officer of Bambu, speak with potential prospects at the Singapore Fintech Festival 2022. Photo: Bambu</b></span>
+<span style="font-size:13px"><b>Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle), chief product officer of Bambu, speak with potential prospects at the Singapore Fintech Festival 2022. Photo: Bambu</b></span>
 
 <br><br>The advent of robo-advisors has made it simpler to invest passively, with customisable portfolios tailored to one’s risk appetite and automated rebalancing to respond to changes in the market. 
 
@@ -49,7 +49,7 @@ image: ""
 
 <br><br><b>More deals sealed with increased exposure and an expanded network</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/belive.JPG">
-<b>BeLive and Microsoft representatives during a meeting to discuss and align on a partnership growth strategy and roadmap to provide more holistic solutions to both company’s customers. Photo: Belive</b>	
+<span style="font-size:13px"><b>BeLive and Microsoft representatives during a meeting to discuss and align on a partnership growth strategy and roadmap to provide more holistic solutions to both company’s customers. Photo: Belive</b></span>	
 
 <br><br>With the meteoric rise of video streaming on social media platforms, many businesses are looking to tap on the potential of live-streaming for marketing, events and education or training.
 
@@ -75,7 +75,7 @@ image: ""
 
 <br><br><b>Leveraging partnerships for further business growth</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/pixelnetworking.png">
-<b>Local tech companies at an industry networking session in 2022 organised by DISG and IMDA in 2022, where the discussion was anchored on the topic of seizing opportunities in Asean. Photo: DISG</b>
+<span style="font-size:13px"><b>Local tech companies at an industry networking session in 2022 organised by DISG and IMDA in 2022, where the discussion was anchored on the topic of seizing opportunities in Asean. Photo: DISG</b></span>
 
 <br><br>Besides supporting tech companies like Bambu and BeLive on their engagements with cloud computing platforms like AWS and Azure, DISG also leverages resources and programmes across government agencies to support tech companies in their growth. Its assistance extends to supporting companies and facilitating partnerships in areas such as research and development, product innovation, as well as market access. 
 

@@ -21,9 +21,7 @@ We work with companies, Institutes of Higher Learning, and other government agen
 We support the development of national policies and initiatives to create a conducive business environment for organic innovation and internationalization. This includes enhancing and growing our funding environment and building key supporting digital infrastructure.</p>
 
 #### **DISG, a joint office**
-<p align="justify">To cover the range of interests between local digital champions and global technology leaders, <b>DISG</b> is a joint office between the Economic Development Board (<b>EDB</b>), Enterprise Singapore (<b>EnterpriseSG</b>), and the Info-communications Media Development Authority (<b>IMDA</b>).
- 
-This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
+<p align="justify">To cover the range of interests between local digital champions and global technology leaders, <b>DISG</b> is a joint office between the [Economic Development Board <b>(EDB)</b>](https://www.edb.gov.sg/), [Enterprise Singapore <b>(EnterpriseSG)</b>](https://www.enterprisesg.gov.sg/), and the [Info-communications Media Development <b>(IMDA)</b>](https://www.imda.gov.sg/). This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
 <div style="text-align: center;">
 <img style="float: left; max-width: 20%; margin-right: 10px;" src="/images/edb%20logo.png">
 <img style="display: inline; max-width: 30%" src="/images/esg%20logo.png">

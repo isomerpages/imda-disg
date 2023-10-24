@@ -21,7 +21,7 @@ image: ""
 
 <br><br><b>Offering reliable robo-advisor services backed by established cloud platforms</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/bambu_pic.JPG">
-<b>Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle), chief product officer of Bambu, speak with potential prospects at the Singapore Fintech Festival 2022. Photo: Bambu</b>
+<span style="font-size:12px"><b>Mr Ned Phillips (left), founder and CEO of Bambu, and Mr Pierre Valentin (middle), chief product officer of Bambu, speak with potential prospects at the Singapore Fintech Festival 2022. Photo: Bambu</b></span>
 
 <br><br>The advent of robo-advisors has made it simpler to invest passively, with customisable portfolios tailored to one’s risk appetite and automated rebalancing to respond to changes in the market. 
 

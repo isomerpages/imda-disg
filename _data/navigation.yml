@@ -3,13 +3,13 @@ links:
   - title: About us
     url: /about-us/visionandmission/
     sublinks:
-      - title: Who is DISG
+      - title: Our Vision & Mission
         url: /about-us/visionandmission/
       - title: Leadership
         url: /about-us/leadership/
-      - title: Resources
-        url: /resources/itm/
-      - title: Case Studies
-        url: /case-studies/
+  - title: Resources
+    url: /resources/itm/
+  - title: Case Studies
+    url: /case-studies/
   - title: Contact Us
     url: /contact-us/

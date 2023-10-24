@@ -21,7 +21,7 @@ image: ""
 
 <br><br><b>Plug-and-play AI platform optimises energy consumption in buildings</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/replacement_azendian.jpg">
-<b>Managing director of Azendian Bill Lee (second from the left) speaking at a seminar hosted by Singapore Green Building Council (SGBC). PHOTO: AZENDIAN</b>
+<span style="font-size:13px"><b>Managing director of Azendian Bill Lee (second from the left) speaking at a seminar hosted by Singapore Green Building Council (SGBC). PHOTO: AZENDIAN</b></span>
 
 <br><br>Buildings are among the most significant contributors to energy consumption in cities and having greener building management systems can help to significantly cut carbon emissions.  
   
@@ -51,7 +51,7 @@ image: ""
 
 <br><br><b>Blockchain system tracks sustainable produce from farm to table</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/story2iapps.jpg">
-<b>AgriON, a blockchain-powered fintech platform developed by iAPPS, enables farmers to produce more sustainably and gain access to more financing opportunities. PHOTO: iAPPS</b>
+<span style="font-size:13px"><b>AgriON, a blockchain-powered fintech platform developed by iAPPS, enables farmers to produce more sustainably and gain access to more financing opportunities. PHOTO: iAPPS</b></span>
 	
 <br><br>Agriculture is another area where much can be done to cut carbon emissions associated with food production.  
   
@@ -87,7 +87,7 @@ image: ""
 	
 <br><br><b>Low-energy IoT network powers millions of devices globally</b>
 <img align="centre" style="max-width: 100%; padding-right: 20px" src="/images/unabiz_facilities_management.jpg">
-<b>UnaBiz’s Smart Facilities Management Suite helps building owners to improve the energy efficiency of their facilities by enabling them to monitor the quality of air indoors and keep track of water and power usage easily. PHOTO: UNABIZ</b>
+<span style="font-size:13px"><b>UnaBiz’s Smart Facilities Management Suite helps building owners to improve the energy efficiency of their facilities by enabling them to monitor the quality of air indoors and keep track of water and power usage easily. PHOTO: UNABIZ</b></span>
 	
 <br><br>While many telecommunications companies are chasing faster data transmission with technology like “5G” networks, not every operation requires top speeds and large bandwidths.  
   

@@ -26,6 +26,6 @@ We support the development of national policies and initiatives to create a cond
 This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
 <div class="image left">
 <img align="left" style="max-width: 20%; padding-right: 30px" src="/images/edb%20logo.png">
-<img align="left" style="max-width: 30%; padding-right: 30px" src="/images/esg%20logo.png">  
-<img align="left" style="max-width: 30%; padding-right: 30px" src="/images/imda%20logo.png">
+<img align="middle" style="max-width: 30%; padding-right: 30px" src="/images/esg%20logo.png">  
+<img align="right" style="max-width: 30%; padding-right: 30px" src="/images/imda%20logo.png">
 </div><br>

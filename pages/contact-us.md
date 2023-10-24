@@ -8,7 +8,10 @@ locations:
       - 250 North Bridge Road
       - Level 17, Raffles City Tower
       - Singapore 179101
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 8.30am - 6.00pm
+        description: Closed on Public Holidays
     maps_link: https://maps.app.goo.gl/WGhwmeRV8zjNRi6w7
     title: DISG Office
 contacts:

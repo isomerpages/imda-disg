@@ -12,7 +12,10 @@ links:
     sublinks:
       - title: I&C ITM
         url: /resources/itm/
-  - title: Case Studies
-    url: /case-studies/
   - title: Contact Us
     url: /contact-us/
+  - title: Case Studies
+    url: /case-studies/
+    sublinks:
+      - title: Driving Innovation
+        url: /case-studies/

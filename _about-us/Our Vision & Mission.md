@@ -23,5 +23,5 @@ We speak with companies and industry partners to understand Singapore’s streng
 <b>2. Grow a vibrant base of Tech talent<br></b>
 We work with companies, Institutes of Higher Learning, and other government agencies to determine how we can train fresh graduates and mature talent for the tech roles of tomorrow. <br><br> 
 <b>3.	Build a sustainable Tech habitat and ecosystem where individuals and companies can thrive on their own<br></b>
-We support the development of national policies and initiatives to create a conducive business environment for organic innovation and internationalization. This includes enhancing and growing our funding environment and building key supporting digital infrastructure.</p>
+We support the development of national policies and initiatives to create a conducive business environment for organic innovation and internationalisation. This includes enhancing and growing our funding environment and building key supporting digital infrastructure.</p>
 <br>

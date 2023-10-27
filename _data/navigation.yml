@@ -1,0 +1,21 @@
+logo: /images/disg logo 1 (colour).png
+links:
+  - title: About Us
+    url: /about-us/visionandmission/
+    sublinks:
+      - title: Our Vision & Mission
+        url: /about-us/visionandmission/
+      - title: Our Leadership
+        url: /about-us/leadership/
+  - title: Resources
+    url: /resources/itm/
+    sublinks:
+      - title: I&C ITM
+        url: /resources/itm/
+  - title: Case Studies
+    url: /case-studies/
+    sublinks:
+      - title: Driving Innovation
+        url: /case-studies/
+  - title: Contact Us
+    url: /contact-us/

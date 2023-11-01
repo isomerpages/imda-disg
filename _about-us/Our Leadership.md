@@ -3,8 +3,8 @@ title: Our Leadership
 permalink: /about-us/leadership/
 description: ""
 ---
-<font size="20"> ##Chan Ih-Ming</font>
-<font size="10">####Executive Director and Head</font>
+<font size="20">Chan Ih-Ming</font><br>
+<font size="5">Executive Director and Head</font>
 <div class="image left">
 <img align="left" style="max-width: 40%; padding-right: 20px" src="/images/chan-ih-ming.png">
 </div>

@@ -95,4 +95,4 @@ image: ""
 
 <br><br>Digital Industry Singapore (DISG) is a joint office of the Economic Development Board, Enterprise Singapore, and Info-communications Media Development Authority, established to support the growth of the technology sector in Singapore.
 
-<br><br>Source: The Business Times © SPH Media Limited. Permission required for reproduction.</p>
+<br><br><span style="font-size:13px">Source: The Business Times © SPH Media Limited. Permission required for reproduction.</span></p>

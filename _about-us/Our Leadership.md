@@ -3,7 +3,7 @@ title: Our Leadership
 permalink: /about-us/leadership/
 description: Digital Industry Singapore (DISG) - Leadership
 ---
-<div style="margin: 0; display: inline-block;"><font size="25">Chan Ih-Ming</font></div>
+<div style="margin: 0; display: inline-block;"><font size="25">Chan Ih-Ming</font></div><br>
 <div style="margin: 0; display: inline-block;"><font size="5">Executive Director and Head</font></div>
 <br>
 <div class="image left">

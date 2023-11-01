@@ -15,7 +15,7 @@ description: Digital Industry Singapore (DISG) - About us
 <p align="justify">To establish Singapore as a global-Asia technology hub that people and companies want to connect with.</p>
 
 #### **Mission**
-<p align="justify">To allow tech companies to grow and thrive in Singapore by building deep capabilities, strong infrastructure and a vibrant ecosystem of local and global enterprises.</p>
+<p align="justify">To allow tech companies to grow and thrive in Singapore by building deep capabilities, strong infrastructure, and a vibrant ecosystem of local and global enterprises.</p>
 
 #### **How do we do it?**
 <p align="justify"><b>1. Identify areas of technological growth where Singapore can be competitive<br></b>

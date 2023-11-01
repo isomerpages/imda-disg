@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /case-studies/
       subtitle: <font size="5">Empowering a strong and resilient tech sector to drive
-        the growth of Singapore’s Digital Economy</font>
+        the growth of<br> Singapore’s Digital Economy</font>
   - infopic:
       title: Information & Communications (I&C) ITM
       id: infopic

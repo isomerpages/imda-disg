@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: <font size="20">Digital Industry Singapore (DISG)</font>
-      background: /images/background3.jpg
+      background: /images/background.png
       key_highlights:
         - title: About Us
           description: ""
@@ -19,8 +19,8 @@ sections:
         - title: Case Studies
           description: ""
           url: /case-studies/
-      subtitle: "Empowering a strong and resilient tech sector to drive the growth of
-        Singapore’s Digital Economy "
+      subtitle: Empowering a strong and resilient tech sector to drive the growth of
+        Singapore’s Digital Economy
   - infopic:
       title: Information & Communications (I&C) ITM
       id: infopic

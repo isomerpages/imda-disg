@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: <font size="20">Digital Industry Singapore</font>
+      title: <font size="20">Digital Industry Singapore (DISG)</font>
       background: /images/background3.jpg
       key_highlights:
         - title: About Us
@@ -19,9 +19,8 @@ sections:
         - title: Case Studies
           description: ""
           url: /case-studies/
-      subtitle: A joint office of the Economic Development Board (EDB), <br>
-        Enterprise Singapore (EnterpriseSG) and <br> Info-communications Media
-        Development Authority (IMDA)
+      subtitle: "Empowering a strong and resilient tech sector to drive the growth of
+        Singapore’s Digital Economy "
   - infopic:
       title: Information & Communications (I&C) ITM
       id: infopic
@@ -35,7 +34,7 @@ sections:
       subtitle: I&C ITM
   - resources:
       title: Find out what<br>our partners are doing
-      subtitle: disg partners
+      subtitle: our partners
       id: resources
       button: All Case Studies
 ---

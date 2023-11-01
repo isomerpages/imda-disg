@@ -5,6 +5,7 @@ description: ""
 ---
 <font size="25">Chan Ih-Ming</font><br>
 <font size="5">Executive Director and Head</font>
+<br>
 <div class="image left">
 <img align="left" style="max-width: 40%; padding-right: 20px" src="/images/chan-ih-ming.png">
 </div>

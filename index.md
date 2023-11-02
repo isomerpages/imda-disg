@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: <font size="20">Digital Industry Singapore (DISG)</font>
-      background: /images/background.png
+      background: /images/background4.png
       key_highlights:
         - title: About Us
           description: ""

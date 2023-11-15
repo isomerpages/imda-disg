@@ -13,5 +13,11 @@ contacts:
           style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered
           by <a style="color: #999" href="https://form.gov.sg">FormSG</a></div>'
     title: "For enquiries / feedback:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a
+          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/">here</a>.
+    title: Connect with us on LinkedIn
 feedback: ""
 ---

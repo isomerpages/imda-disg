@@ -12,6 +12,6 @@ contacts:
           id="iframe"></iframe>  <div
           style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered
           by <a style="color: #999" href="https://form.gov.sg">FormSG</a></div>'
-    title: DISG
+    title: "For enquiries / feedback:"
 feedback: ""
 ---

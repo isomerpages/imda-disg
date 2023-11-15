@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<iframe style="width:800px;height:2000px"
+      - other: '<iframe style="width:1000px;height:2200px"
           src="https://form.gov.sg/65546f2b002c8c0012d4841c"
           id="iframe"></iframe>  <div
           style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered

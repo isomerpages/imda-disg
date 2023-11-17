@@ -43,5 +43,6 @@ sections:
       id: infopic
       button: Find out more
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
-      alt: Image alt text
+      image: /images/sticker 3.png
+      alt: Tech for good
 ---

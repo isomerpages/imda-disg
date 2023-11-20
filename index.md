@@ -13,12 +13,12 @@ sections:
         - title: About Us
           description: ""
           url: /about-us/visionandmission/
-        - title: I&C ITM
-          description: ""
-          url: /itm/
         - title: Case Studies
           description: ""
           url: /case-studies/
+        - title: I&C ITM
+          description: ""
+          url: /itm/
       subtitle: <font size="5">Empowering a strong and resilient tech sector to drive
         the growth<br> of Singapore’s Digital Economy</font>
   - infopic:

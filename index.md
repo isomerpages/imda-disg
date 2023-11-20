@@ -38,11 +38,10 @@ sections:
       id: resources
       button: All Case Studies
   - infopic:
-      title: For the latest news on the tech ecosystem
-      subtitle: We're on LinkedIn!
+      title: Connect with us on Linkedin!
       id: infopic
-      button: Find out more
+      button: Click here
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
-      image: /images/sticker 3.png
+      image: /images/linkedin_logo.png
       alt: Tech for good
 ---

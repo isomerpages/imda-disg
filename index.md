@@ -15,7 +15,7 @@ sections:
           url: /about-us/visionandmission/
         - title: I&C ITM
           description: ""
-          url: /resources/itm/
+          url: /itm/
         - title: Case Studies
           description: ""
           url: /case-studies/
@@ -30,7 +30,7 @@ sections:
       button: Find out more
       alt: ITM stats
       image: /images/itm image.png
-      url: /resources/itm/
+      url: /itm/
       subtitle: I&C ITM
   - resources:
       title: Find out what<br>our partners are doing

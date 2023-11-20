@@ -7,11 +7,8 @@ links:
         url: /about-us/visionandmission/
       - title: Our Leadership
         url: /about-us/leadership/
-  - title: Resources
+  - title: I&C ITM
     url: /resources/itm/
-    sublinks:
-      - title: I&C ITM
-        url: /resources/itm/
   - title: Case Studies
     url: /case-studies/
     sublinks:

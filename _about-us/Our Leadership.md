@@ -9,6 +9,7 @@ variant: markdown
 </div>
 <div class="image right">
 <img align="right" style="max-width: 40%; padding-right: 20px" src="/images/chan_cheow_hoe.jpg"></div><br>
+	<br>
 	
 | Chan Ih-Ming | Chan Cheow Hoe
 | -------- | --------

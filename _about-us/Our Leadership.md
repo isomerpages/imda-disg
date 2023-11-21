@@ -12,7 +12,7 @@ variant: markdown
 	<br>
 	
 | Chan Ih-Ming | Chan Cheow Hoe
-| -------- | --------
+| -------- | -------- |
 | Executive Director and Head     | Senior Advisor
 <br><br>
 

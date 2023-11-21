@@ -2,7 +2,7 @@
 title: Our Leadership
 permalink: /about-us/leadership/
 description: Digital Industry Singapore (DISG) - Our Leadership
-variant: tiptap
+variant: markdown
 ---
 # Chan Ih-Ming<br>
 <div style="margin: 0; display: inline-block;"><font size="5">Executive Director and Head</font></div>
@@ -15,3 +15,14 @@ variant: tiptap
 	
 <br><br>Previously, Ih-Ming played leadership roles at the Ministry of Communications and Information (MCI) as Director (Industry), and various divisions at the Singapore EDB, where he was also based in the Silicon Valley Office in California for over 5 years, leading teams responsible for facilitating investments in sectors ranging from Energy, Technology, Biomedical Sciences, Aerospace and Electronics.    
 </p></div>
+
+  
+  <img style="width:100%" alt="John" src="img.jpg">  
+  <h1>John Doe</h1>  
+  <p class="title">CEO &amp; Founder, Example</p>  
+  <p>Harvard University</p>  
+  <a href="#"><i class="fa fa-dribbble"></i></a>  
+  <a href="#"><i class="fa fa-twitter"></i></a>  
+  <a href="#"><i class="fa fa-linkedin"></i></a>  
+  <a href="#"><i class="fa fa-facebook"></i></a>  
+  <p><button>Contact</button></p>  

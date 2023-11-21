@@ -54,7 +54,7 @@ variant: markdown
 
 
 <div class="card">
-    <img alt="Card Image" src="https://via.placeholder.com/300x200">
+    <img src="/images/chan-ih-ming.png">
     <div class="card-content">
         <h2>Card Title</h2>
         <p>This is another example of a card with a shadow effect. You can customize the content and styles as needed.</p>

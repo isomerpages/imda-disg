@@ -42,6 +42,6 @@ sections:
       id: infopic
       button: Click here
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
-      image: /images/linkedin.png
+      image: /images/linkedin_logo.png
       alt: Tech for good
 ---

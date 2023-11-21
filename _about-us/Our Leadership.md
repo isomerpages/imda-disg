@@ -17,7 +17,7 @@ variant: markdown
 </p></div>
 
   
-  <img style="width:100%" alt="John" src="img.jpg">  
+  <img style="width:100%" alt="John" src="im">  
   <h1>John Doe</h1>  
   <p class="title">CEO &amp; Founder, Example</p>  
   <p>Harvard University</p>  

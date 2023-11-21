@@ -16,13 +16,21 @@ variant: markdown
 <br><br>Previously, Ih-Ming played leadership roles at the Ministry of Communications and Information (MCI) as Director (Industry), and various divisions at the Singapore EDB, where he was also based in the Silicon Valley Office in California for over 5 years, leading teams responsible for facilitating investments in sectors ranging from Energy, Technology, Biomedical Sciences, Aerospace and Electronics.    
 </p></div>
 
-  
-  <img style="width:100%" alt="John" src="im">  
-  <h1>John Doe</h1>  
-  <p class="title">CEO &amp; Founder, Example</p>  
-  <p>Harvard University</p>  
-  <a href="#"><i class="fa fa-dribbble"></i></a>  
-  <a href="#"><i class="fa fa-twitter"></i></a>  
-  <a href="#"><i class="fa fa-linkedin"></i></a>  
-  <a href="#"><i class="fa fa-facebook"></i></a>  
-  <p><button>Contact</button></p>  
+.card {
+&nbsp;&nbsp;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+&nbsp;&nbsp;transition: 0.3s;
+&nbsp;&nbsp;border-radius: 5px; /* 5px rounded corners */
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+&nbsp; border-radius: 5px 5px 0 0;
+}
+
+<div class="card">
+&nbsp; <img style="max-width:50%" src="/images/chan-ih-ming.png">
+&nbsp; <div class="container">
+&nbsp;&nbsp;&nbsp; <h4><b>Chan Ih-Ming</b></h4>
+&nbsp;&nbsp;&nbsp; <p>Executive Director and Head</p>
+&nbsp; </div>
+</div>

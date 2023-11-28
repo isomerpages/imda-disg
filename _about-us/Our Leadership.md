@@ -15,7 +15,7 @@ variant: markdown
 					<td></td>
 				</tr>
 			</tbody></table>
-			<b>Chan Ih-Ming</b></a>
+			<b>Mr Chan Ih-Ming</b></a>
 			<br><span style="font-size:0.9em;">Executive Director and Head</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
      <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
@@ -29,10 +29,11 @@ variant: markdown
 					<td></td>
 				</tr>
 			</tbody></table>
-			<b>PERSON 2</b></a>
-			<br><span style="font-size:0.9em;">Designation</span>
-			<br><span style="font-size:0.9em;">Company</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+			<b>Mr Chan Cheow Hoe</b></a>
+			<br><span style="font-size:0.9em;">Senior Advisor, Digital Industries</span>
+			<br><span style="font-size:0.9em;">Economic Development Board/</span>
+			<br><span style="font-size:0.9em;">Government Chief Digital Technology Officer</span>
+			<br><span style="font-size:0.9em;">Prime Minister’s Office</span>
 			     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>

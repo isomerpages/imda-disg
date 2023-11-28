@@ -21,21 +21,6 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
      <br><br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Ih_Ming.pdf">Business Profile</a><br>
 		</td>
-		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/cheow-hoe-chan-92646215/">	
-			<table>
-				<tbody><tr>
-					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/chan_cheow_hoe.jpg"></td>
-					<td></td>
-				</tr>
-			</tbody></table>
-			<b>Mr Chan Cheow Hoe</b></a>
-			<br><span style="font-size:0.9em;">Senior Advisor, Digital Industries,</span>
-			<br><span style="font-size:0.9em;">Economic Development Board/</span>
-			<br><span style="font-size:0.9em;">Government Chief Digital Technology Officer, Prime Minister's Office</span>
-			     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Cheow_Hoe.pdf">Business Profile</a><br>
-		</td>
 </tr></tbody></table>
 <br>
 <table>

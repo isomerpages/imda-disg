@@ -58,7 +58,7 @@ variant: markdown
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/goh_pei_sheng.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/pei_sheng.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>

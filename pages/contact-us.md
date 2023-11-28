@@ -7,19 +7,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<iframe style="width:900px;height:2000px"
-          src="https://form.gov.sg/65546f2b002c8c0012d4841c"
-          id="iframe"></iframe>  <div
-          style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered
-          by <a style="color: #999" href="https://form.gov.sg">FormSG</a></div>'
-    title: "For enquiries / feedback:"
+      - other: For the latest tech buzz - <a
+          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/"><u>click
+          here</u></a>!
+    title: We're on LinkedIn!
 feedback: ""
 locations:
   - address:
       - 250 North Bridge Road
       - Raffles City Tower
       - Singapore 179101
-    title: Main office
     operating_hours: []
     maps_link: https://maps.app.goo.gl/BuunPT58fgV5B4Au7
+    title: Main office
 ---

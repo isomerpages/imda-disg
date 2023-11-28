@@ -22,7 +22,6 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
      <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Ih_Ming.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>
-<br>
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
@@ -54,7 +53,6 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Goh_Pei_Sheng.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>
-<br>
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	

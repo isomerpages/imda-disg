@@ -21,7 +21,7 @@ variant: markdown
      <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/cheow-hoe-chan-92646215/">	
 			<table>
 				<tbody><tr>
 					<td></td>
@@ -40,7 +40,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/philbert-gomez-55426027/">	
 			<table>
 				<tbody><tr>
 					<td></td>
@@ -54,7 +54,7 @@ variant: markdown
      <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/pei-sheng-goh-472342137/">	
 			<table>
 				<tbody><tr>
 					<td></td>
@@ -72,7 +72,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/sharon-chiew-9409b078/">	
 			<table>
 				<tbody><tr>
 					<td></td>
@@ -86,7 +86,7 @@ variant: markdown
      <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/john-lu-234b6720/">	
 			<table>
 				<tbody><tr>
 					<td></td>

@@ -7,7 +7,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/ihming/">	
 			<table>
 				<tbody><tr>
 					<td></td>

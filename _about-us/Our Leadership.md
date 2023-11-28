@@ -34,7 +34,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<br><span style="font-size:0.9em;">Senior Advisor, Digital Industries,</span>
 			<br><span style="font-size:0.9em;">Economic Development Board/</span>
 			<br><span style="font-size:0.9em;">Government Chief Digital Technology Officer, Prime Minister's Office</span>
-			     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
+			     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Cheow_Hoe.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>
 <br>
@@ -52,7 +52,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<b>Mr Philbert Gomez</b></a>
 			<br><span style="font-size:0.9em;">Vice President and Head</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
-     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
+     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Philbert_Gomez.pdf">Business Profile</a><br>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/pei-sheng-goh-472342137/">	
@@ -66,7 +66,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<b>Mr Goh Pei Sheng</b></a>
 			<br><span style="font-size:0.9em;">Vice President</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
-			     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
+			     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Goh_Pei_Sheng.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>
 <br>
@@ -84,7 +84,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<b>Ms Sharon Chiew</b></a>
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">Infocomm Media Development Authority of Singapore</span>
-     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
+     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a><br>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/john-lu-234b6720/">	
@@ -98,6 +98,6 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<b>Mr John Lu</b></a>
 			<br><span style="font-size:0.9em;">Director, Info-Comm, Media</span>
 			<br><span style="font-size:0.9em;">Enterprise Singapore</span>
-			     <br><br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
+			     <br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_John_Lu.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>

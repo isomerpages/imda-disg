@@ -25,7 +25,7 @@ variant: markdown
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="img.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/chan_cheow_hoe.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>

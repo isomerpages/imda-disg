@@ -4,6 +4,7 @@ permalink: /about-us/leadership/
 description: Digital Industry Singapore (DISG) - Our Leadership
 variant: markdown
 ---
+The DISG Senior Management leads the team to uncover opportunities with foreign and local tech companies in Singapore to build a strong ecosystem, with initiatives around building up tech talent and creating value from Singapore. They help to chart strategic efforts to build resiliency and vibrancy into the tech sector, ensuring a thriving, robust and growing industry.  
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	

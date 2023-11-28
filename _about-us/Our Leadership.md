@@ -19,7 +19,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<b>Mr Chan Ih-Ming</b></a>
 			<br><span style="font-size:0.9em;">Executive Director and Head</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
-     <br><br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Ih_Ming.pdf">Business Profile</a><br>
+     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Ih_Ming.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>
 <br>

@@ -7,9 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: For the latest tech buzz - <a
-          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/"><u>click
-          here</u></a>!
+      - other: Follow us for the latest tech buzz in Singapore <a
+          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/"><u>here</u></a>.
     title: We're on LinkedIn!
 feedback: ""
 locations:

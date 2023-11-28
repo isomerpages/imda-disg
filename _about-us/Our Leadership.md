@@ -18,7 +18,6 @@ variant: markdown
 			<b>Mr Chan Ih-Ming</b></a>
 			<br><span style="font-size:0.9em;">Executive Director and Head</span>
 			<br><span style="font-size:0.9em;">Company</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
      <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>
 		</td>
 </tr></tbody></table>

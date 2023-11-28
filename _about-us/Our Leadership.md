@@ -30,7 +30,7 @@ variant: markdown
 				</tr>
 			</tbody></table>
 			<b>Mr Chan Cheow Hoe</b></a>
-			<br><span style="font-size:0.9em;">Senior Advisor, Digital Industries</span>
+			<br><span style="font-size:0.9em;">Senior Advisor, Digital Industries,</span>
 			<br><span style="font-size:0.9em;">Economic Development Board/</span>
 			<br><span style="font-size:0.9em;">Government Chief Digital Technology Officer, Prime Minister's Office</span>
 			     <br><br><a style="color: grey;" target="_blank" href="eBrochure.pdf">Business Profile</a><br>

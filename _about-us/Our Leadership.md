@@ -12,7 +12,7 @@ The DISG Senior Management leads the team to uncover opportunities with foreign 
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; max-width:40%; border:8px solid white;" src="/images/chan-ih-ming.png"></td>
+					<td><img style="border-radius:50%; max-width:42%; border:8px solid white;" src="/images/chan-ih-ming.png"></td>
 					<td></td>
 				</tr>
 			</tbody></table>

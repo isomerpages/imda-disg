@@ -9,11 +9,11 @@ links:
         url: /about-us/leadership/
       - title: Our Team
         url: /about-us/team/
-  - title: Case Studies
-    url: /case-studies/
+  - title: Success Stories
+    url: /success-stories/
     sublinks:
       - title: Driving Innovation
-        url: /case-studies/
+        url: /success-stories/
   - title: I&C ITM
     url: /itm/
   - title: Contact Us

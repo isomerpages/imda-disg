@@ -37,6 +37,27 @@ sections:
       subtitle: our partners
       id: resources
       button: All Case Studies
+  - textcards:
+      title: Find out what<br>our partners are doing
+      subtitle: Our Partners
+      id: textcards
+      cards:
+        - title: Singapore tech firms that have
+          description: reimagined their digital capabilities to tackle real world problems
+          linktext: Learn more
+          url: https://www.imda.gov.sg/disg/3-tech-firms-reimagined-their-digital-capabilities
+        - title: Tech firms can play a part
+          description: with sustainable solutions powered by blockchain, IoT and AI
+          linktext: Learn more
+          url: https://www.imda.gov.sg/disg/tackling%20climate%20change
+        - title: How Singapore tech firms boost growth
+          description: with strategic industry player partnerships
+          linktext: Learn more
+          url: https://www.imda.gov.sg/disg/from%20local%20to%20global%20how%20singapore%20tech%20firms%20boost%20growth%20with%20strategic%20industry-player%20partnerships
+        - title: How tech companies can get the right talent,
+          description: as told by 3 Singaporean firms
+          linktext: Learn more
+          url: https://www.techinasia.com/tech-companies-talent-told-3-singaporean-firms
   - infopic:
       title: Connect with us on Linkedin!
       id: infopic

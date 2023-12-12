@@ -37,18 +37,18 @@ sections:
       subtitle: Our Partners
       id: textcards
       cards:
-        - title: Singapore tech firms that have
+        - title: Meet three Singapore tech firms that have
           description: reimagined their digital capabilities to tackle real world problems
           linktext: Learn more
-          url: https://www.imda.gov.sg/disg/3-tech-firms-reimagined-their-digital-capabilities
+          url: https://www.businesstimes.com.sg/startups-tech/technology/imda-meet-three-singapore-tech-firms-have-reimagined-their-digital-capabilities
         - title: Tech firms can play a part
           description: with sustainable solutions powered by blockchain, IoT and AI
           linktext: Learn more
-          url: https://www.imda.gov.sg/disg/tackling%20climate%20change
-        - title: How Singapore tech firms boost growth
-          description: with strategic industry player partnerships
+          url: https://www.businesstimes.com.sg/startups-tech/imda-tackling-climate-change-tech-firms-can-play-a-part-with-sustainable-solutions-powered-by-blockchain-IoT-and-AI
+        - title: How S'pore tech firms boost growth
+          description: with strategic industry-player partnerships
           linktext: Learn more
-          url: https://www.imda.gov.sg/disg/from%20local%20to%20global%20how%20singapore%20tech%20firms%20boost%20growth%20with%20strategic%20industry-player%20partnerships
+          url: https://www.businesstimes.com.sg/startups-tech/technology/imda-from-local-to-global-how-singapore-tech-firms-boost-growth-with-strategic-industry-player-partnerships
         - title: How tech companies can get the right talent,
           description: as told by 3 Singaporean firms
           linktext: Learn more

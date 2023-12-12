@@ -2,14 +2,15 @@
 title: Our Vision & Mission
 permalink: /about-us/visionandmission/
 description: Digital Industry Singapore (DISG) - About us
+variant: markdown
 ---
 ##  Digital Industry Singapore (DISG) 
 <p align="justify">Digital Industry Singapore (<b>DISG</b>) is set up as the single interface of the Singapore government for the digital industry. We lead the development of a thriving Infocomm and Media (I&amp;C) industry by encouraging technology companies to create competitive products and services from Singapore, for Asia and beyond.</p>
 <p align="justify">To cover the range of interests between local digital champions and global technology leaders, <b>DISG</b> is a joint office between the Economic Development Board <b>(<a target="\_blank" href="https://www.edb.gov.sg/">EDB</a>)</b>, Enterprise Singapore <b>(<a target="\_blank" href="https://www.enterprisesg.gov.sg/">EnterpriseSG</a>)</b>, and the Infocomm Media Development Authority <b>(<a target="\_blank" href="https://www.imda.gov.sg/">IMDA</a>)</b>. This structure allows us to leverage the expertise, complementary networks, resources, and programmes across agencies to help tech companies on their journeys.</p>
 <div style="text-align: center;">
-<img style="float: left; max-width: 20%; margin-right: 10px;" src="/images/edb%20logo.png">
-<img style="display: inline; max-width: 30%" src="/images/esg%20logo.png">
-<img style="float: right; max-width: 30%; margin-left: 10px;" src="/images/imda%20logo.png"></div>
+<img style="float: left; max-width: 20%; margin-right: 10px;" src="/images/Logos/edb%20logo.png">
+<img style="display: inline; max-width: 30%" src="/images/Logos/esg%20logo.png">
+<img style="float: right; max-width: 30%; margin-left: 10px;" src="/images/Logos/imda%20logo.png"></div>
 
 #### **Vision**
 <p align="justify">To establish Singapore as a global-Asia technology hub that people and companies want to connect with.</p>

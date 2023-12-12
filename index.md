@@ -53,7 +53,7 @@ sections:
           description: partners IMDA to push sustainable digital consumption
           linktext: Learn more
           url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
-      description: For all the success stories, click <a
+      description: For more stories, click <a
         href="/success-stories/driving-innovation/">here</a> .
   - infopic:
       title: Connect with us on Linkedin!

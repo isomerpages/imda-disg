@@ -13,7 +13,7 @@ sections:
         - title: About Us
           description: ""
           url: /about-us/visionandmission/
-        - title: Case Studies
+        - title: Success Stories
           description: ""
           url: /case-studies/
         - title: I&C ITM

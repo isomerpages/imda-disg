@@ -4,11 +4,11 @@ permalink: /about-us/leadership/
 description: Digital Industry Singapore (DISG) - Our Leadership
 variant: markdown
 ---
-DISG’s leadership comprises of senior management representatives from the three agencies – EDB, EnterpriseSG and IMDA. With their diverse backgrounds and expertise in the public sector, as well as networks with the private sector, the Senior Management team leads the DISG joint office to draw on the strengths of the three agencies and beyond, to attract and foster globally competitive technology companies to create new products and services from Singapore, for the global markets.<br>
+DISG’s leadership comprises of senior management representatives from the three agencies – EDB, EnterpriseSG and IMDA. With their diverse backgrounds and expertise in the public sector, as well as networks in the private sector, the senior management team leads the DISG joint office to draw on the strengths of the three agencies and beyond, to attract and foster globally competitive technology companies to create new products and services from Singapore, for the global markets.<br>
 
 They also lead the DISG team to uncover partnership opportunities with local and global tech companies in Singapore to build a strong tech ecosystem, such as through initiatives around building up tech talent to nurture a globally competitive local workforce.<br>
 
-The leadership team is also instrumental in charting strategic efforts of the joint office to build resiliency and vibrancy in the tech sector, ensuring a thriving, robust and growing industry.
+The leadership team is instrumental in charting strategic efforts of the joint office to build resiliency and vibrancy in the tech sector, ensuring a thriving, robust and growing industry.
 
 <table>
 	<tbody><tr>

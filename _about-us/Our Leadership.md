@@ -17,7 +17,7 @@ The leadership team is also instrumental in charting strategic efforts of the jo
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; max-width:42%; border:8px solid white;" src="/images/chan-ih-ming.png"></td>
+					<td><img style="border-radius:50%; max-width:42%; border:8px solid white;" src="/images/DISG%20Pictures/chan-ih-ming.png"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
@@ -34,7 +34,7 @@ The leadership team is also instrumental in charting strategic efforts of the jo
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/philbert_gomez.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/philbert_gomez.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
@@ -48,7 +48,7 @@ The leadership team is also instrumental in charting strategic efforts of the jo
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/pei_sheng.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/pei_sheng.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
@@ -65,7 +65,7 @@ The leadership team is also instrumental in charting strategic efforts of the jo
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/sharon_chiew.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/sharon_chiew.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
@@ -79,7 +79,7 @@ The leadership team is also instrumental in charting strategic efforts of the jo
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/john_lu.PNG"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/john_lu.PNG"></td>
 					<td></td>
 				</tr>
 			</tbody></table>

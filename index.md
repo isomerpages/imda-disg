@@ -2,7 +2,7 @@
 layout: homepage
 title: Digital Industry Singapore
 description: DISG - Digital Industry Singapore
-image: /images/disg_logo_favicon.png
+image: /images/Logos/disg_logo_favicon.png
 permalink: /
 notification: ""
 sections:

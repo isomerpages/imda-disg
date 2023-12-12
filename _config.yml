@@ -1,6 +1,6 @@
 title: Digital Industry Singapore
 url: https://www.disg.gov.sg
-favicon: /images/disg_logo_favicon.png
+favicon: /images/Logos/disg_logo_favicon.png
 colors:
   primary-color: "#23b9db"
   secondary-color: "#403e86"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d3wd0sa7npb1u.amplifyapp.com
 prod: https://master.d3wd0sa7npb1u.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/disg_logo_favicon.png
+shareicon: /images/Logos/disg_logo_favicon.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""

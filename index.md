@@ -15,7 +15,7 @@ sections:
           url: /about-us/visionandmission/
         - title: Success Stories
           description: ""
-          url: /success-stories/
+          url: /success-stories/driving-innovation/
         - title: I&C ITM
           description: ""
           url: /itm/

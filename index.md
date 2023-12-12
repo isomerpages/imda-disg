@@ -32,11 +32,6 @@ sections:
       image: /images/itm image.png
       url: /itm/
       subtitle: I&C ITM
-  - resources:
-      title: Find out what<br>our partners are doing
-      subtitle: our partners
-      id: resources
-      button: All Case Studies
   - textcards:
       title: Find out what<br>our partners are doing
       subtitle: Our Partners

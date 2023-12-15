@@ -23,7 +23,7 @@ variant: markdown
 <div class="text right"><h3>Disclaimers against Warranties, Representations and Liability</h3>
 <p align="justify">
 8. This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, DISG does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:<br><br>
-a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and<br><br>
+a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and<br>
 b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.<br><br>
 9. DISG shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:<br><br>
 a. your access to or use of this Website;<br>

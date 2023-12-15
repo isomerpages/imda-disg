@@ -8,8 +8,9 @@ variant: markdown
 <p align="justify">
 1. Thank you for visiting this website (“Website”) which is owned and operated by Digital Industry Singapore (“DISG”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.<br><br>
 2. DISG reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.<br><br>
-	</p><h3>Proprietary Rights</h3>
-3. This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by DISG.<br><br>
+	
+</p><h3>Proprietary Rights</h3>
+3. This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by DISG.<br>
 	<h3>Restrictions on use of Contents</h3>
 4. You may access and use this Website and the Contents in the manner permitted in these Terms of Use only.<br><br>
 5. You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.<br><br>

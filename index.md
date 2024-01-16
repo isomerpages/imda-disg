@@ -33,7 +33,7 @@ sections:
       url: /itm/
       subtitle: I&C ITM
   - textcards:
-      title: Find out what<br>our partners are doing
+      title: Find out what our partners<br>are doing with us
       subtitle: Our Partners
       id: textcards
       cards:
@@ -53,7 +53,8 @@ sections:
           description: partners IMDA to push sustainable digital consumption
           linktext: Learn more
           url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
-      description: For more stories, click <a href="/success-stories/">here</a>.
+      description: For more info on some of our recent success stories, click <a
+        href="/success-stories/">here</a>.
   - infopic:
       title: Connect with us on Linkedin!
       id: infopic

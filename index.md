@@ -37,24 +37,13 @@ sections:
       subtitle: Our Partners
       id: textcards
       cards:
-        - title: Tech firms can play a part
-          description: with sustainable solutions powered by blockchain, IoT and AI
+        - title: "Read more about our success stories here! "
+          description: ""
           linktext: Learn more
-          url: https://www.businesstimes.com.sg/startups-tech/imda-tackling-climate-change-tech-firms-can-play-a-part-with-sustainable-solutions-powered-by-blockchain-IoT-and-AI
-        - title: How S'pore tech firms boost growth
-          description: with strategic industry-player partnerships
-          linktext: Learn more
-          url: https://www.businesstimes.com.sg/startups-tech/technology/imda-from-local-to-global-how-singapore-tech-firms-boost-growth-with-strategic-industry-player-partnerships
-        - title: New AI initiative to identify and explore
-          description: 100 AI use cases in the next 100 days
-          linktext: Learn more
-          url: https://www.straitstimes.com/tech/new-ai-initiative-to-identify-and-address-100-ai-use-cases-in-the-next-100-days
-        - title: Ant Group sets up in SG,
-          description: partners IMDA to push sustainable digital consumption
-          linktext: Learn more
-          url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
-      description: For more info on some of our recent success stories, click <a
-        href="/success-stories/">here</a>.
+          url: /success-stories/
+      description: Keen to find out what our partners, including tech solution
+        providers, trade and industry associations, accelerators, incubators,
+        investors, Venture Capital firms, are doing with us?
   - infopic:
       title: Connect with us on Linkedin!
       id: infopic

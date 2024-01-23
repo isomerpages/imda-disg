@@ -56,11 +56,9 @@ sections:
       description: Keen to find out what our partners, including tech solution
         providers, trade and industry associations, accelerators, incubators,
         investors, Venture Capital firms, are doing with us?
-  - infopic:
+  - infobar:
       title: Connect with us on Linkedin!
-      id: infopic
+      id: infobar
       button: Click here
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
-      image: /images/Logos/linkedin.png
-      alt: Tech for good
 ---

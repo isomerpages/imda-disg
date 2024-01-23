@@ -37,7 +37,7 @@ sections:
       subtitle: Our Partners
       id: textcards
       cards:
-        - title: "Read more about our success stories here! "
+        - title: Read more about our success stories here!
           description: ""
           linktext: Learn more
           url: /success-stories/
@@ -51,4 +51,16 @@ sections:
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
       image: /images/Logos/linkedin_logo.png
       alt: Tech for good
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---

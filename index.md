@@ -61,4 +61,6 @@ sections:
       id: infobar
       button: Click here
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
+      description: '<img style="max-width: 100%; padding-right: 10px"
+        src="/images/Logos/linkedin.png">'
 ---

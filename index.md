@@ -49,7 +49,6 @@ sections:
       url: /success-stories/
   - textcards:
       title: Find out what our partners<br>are doing with us
-      subtitle: Our Partners
       id: textcards
       cards:
         - title: Read more about our success stories here!

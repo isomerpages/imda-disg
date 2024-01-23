@@ -31,7 +31,22 @@ sections:
       alt: ITM stats
       image: /images/itm image.png
       url: /itm/
-      subtitle: I&C ITM
+  - infocols:
+      title: Our Partners
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Tech companies
+          description: Creating good jobs for Singapore and pushing the envelope of global
+            competitiveness
+        - title: Tech enablers
+          description: Uplifting the tech ecosystem
+        - title: Accelerators
+          description: Grooming the next wave of startups, giving them a boost especially
+            in innovation
+        - title: Investors and VC Firms
+          description: Nurturing the startups and supporting their growth
+      url: /success-stories/
   - textcards:
       title: Find out what our partners<br>are doing with us
       subtitle: Our Partners
@@ -51,16 +66,4 @@ sections:
       url: https://www.linkedin.com/company/digital-industry-singapore/mycompany/
       image: /images/Logos/linkedin_logo.png
       alt: Tech for good
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---

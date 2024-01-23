@@ -31,6 +31,17 @@ sections:
       alt: ITM stats
       image: /images/itm image.png
       url: /itm/
+  - textcards:
+      title: Find out what our partners<br>are doing with us
+      id: textcards
+      cards:
+        - title: Read more about our success stories here!
+          description: ""
+          linktext: Learn more
+          url: /success-stories/
+      description: Keen to find out what our partners, including tech solution
+        providers, trade and industry associations, accelerators, incubators,
+        investors, Venture Capital firms, are doing with us?
   - infocols:
       title: Our Partners
       id: infocols
@@ -45,17 +56,6 @@ sections:
             in innovation
         - title: Investors and VC Firms
           description: Nurturing the startups and supporting their growth
-  - textcards:
-      title: Find out what our partners<br>are doing with us
-      id: textcards
-      cards:
-        - title: Read more about our success stories here!
-          description: ""
-          linktext: Learn more
-          url: /success-stories/
-      description: Keen to find out what our partners, including tech solution
-        providers, trade and industry associations, accelerators, incubators,
-        investors, Venture Capital firms, are doing with us?
   - infobar:
       title: Connect with us on Linkedin!
       id: infobar

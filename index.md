@@ -34,7 +34,6 @@ sections:
   - infocols:
       title: Our Partners
       id: infocols
-      linktext: Learn more
       infoboxes:
         - title: Tech companies
           description: Creating good jobs for Singapore and pushing the envelope of global
@@ -46,7 +45,6 @@ sections:
             in innovation
         - title: Investors and VC Firms
           description: Nurturing the startups and supporting their growth
-      url: /success-stories/
   - textcards:
       title: Find out what our partners<br>are doing with us
       id: textcards

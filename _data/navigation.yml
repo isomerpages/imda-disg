@@ -1,0 +1,17 @@
+logo: /images/Logos/disg logo 1 (colour).png
+links:
+  - title: About Us
+    url: /about-us/visionandmission/
+    sublinks:
+      - title: Our Vision & Mission
+        url: /about-us/visionandmission/
+      - title: Our Leadership
+        url: /about-us/leadership/
+      - title: Our Team
+        url: /about-us/team/
+  - title: I&C ITM
+    url: /itm/
+  - title: Success Stories
+    url: /success-stories/
+  - title: Contact Us
+    url: /contact-us/

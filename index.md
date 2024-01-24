@@ -31,19 +31,8 @@ sections:
       alt: ITM stats
       image: /images/itm image.png
       url: /itm/
-  - textcards:
-      title: Find out what our partners<br>are doing with us
-      id: textcards
-      cards:
-        - title: Read more about our success stories here!
-          description: ""
-          linktext: Learn more
-          url: /success-stories/
-      description: Keen to find out what our partners, including tech solution
-        providers, trade and industry associations, accelerators, incubators,
-        investors, Venture Capital firms, are doing with us?
   - infocols:
-      title: Our Partners
+      title: Find out what our partners<br>are doing with us
       id: infocols
       infoboxes:
         - title: Tech companies
@@ -56,6 +45,28 @@ sections:
             in innovation
         - title: Investors and VC Firms
           description: Nurturing the startups and supporting their growth
+      url: /success-stories/
+      linktext: Learn more
+  - textcards:
+      title: Read some of our<br>success stories here
+      id: textcards
+      cards:
+        - title: Tech firms can play a part
+          description: with sustainable solutions powered by blockchain, IoT and AI
+          linktext: Learn more
+          url: https://www.businesstimes.com.sg/startups-tech/imda-tackling-climate-change-tech-firms-can-play-a-part-with-sustainable-solutions-powered-by-blockchain-IoT-and-AI
+        - title: How S'pore tech firms boost growth
+          description: with strategic industry-player partnerships
+          linktext: Learn more
+          url: https://www.businesstimes.com.sg/startups-tech/technology/imda-from-local-to-global-how-singapore-tech-firms-boost-growth-with-strategic-industry-player-partnerships
+        - title: New AI initiative to identify and explore
+          description: 100 AI use cases in the next 100 days
+          linktext: Learn more
+          url: https://www.straitstimes.com/tech/new-ai-initiative-to-identify-and-address-100-ai-use-cases-in-the-next-100-days
+        - title: Ant Group sets up in SG,
+          description: partners IMDA to push sustainable digital consumption
+          linktext: Learn more
+          url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
   - infobar:
       title: Connect with us on Linkedin!
       id: infobar

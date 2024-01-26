@@ -10,7 +10,7 @@ Here are some ways we work with our partners to grow the tech ecosystem:
 <table>
 	<tbody><tr>
 		<td style="background:transparent; color:black; text-align: center; border: 15px solid white; width:25%;">
-			<b>Tech companies</b>
+			<h5>Tech companies</h5>
 			<br><br><img style="max-width: 35%" src="/images/Stickers/techcompanies.png"><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
 		</td>
 		<td style="background:transparent; color:black; text-align: center; border: 15px solid white; width:25%;">

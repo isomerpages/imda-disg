@@ -31,24 +31,8 @@ sections:
       alt: ITM stats
       image: /images/itm image.png
       url: /itm/
-  - infocols:
-      title: Find out what our partners<br>are doing with us
-      id: infocols
-      infoboxes:
-        - title: Tech companies
-          description: Creating good jobs for Singapore and pushing the envelope of global
-            competitiveness
-        - title: Tech enablers
-          description: Uplifting the tech ecosystem
-        - title: Accelerators
-          description: Grooming the next wave of startups, giving them a boost especially
-            in innovation
-        - title: Investors and VC Firms
-          description: Nurturing the startups and supporting their growth
-      url: /success-stories/
-      linktext: Learn more
   - textcards:
-      title: Read some of our<br>success stories here
+      title: Find out what our partners<br>are doing with us
       id: textcards
       cards:
         - title: Tech firms can play a part
@@ -67,6 +51,9 @@ sections:
           description: partners IMDA to push sustainable digital consumption
           linktext: Learn more
           url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
+      subtitle: Our Partners
+      description: |
+        Read about our success stories <a href="/success-stories/">here</a>.
   - infobar:
       title: Connect with us on Linkedin!
       id: infobar

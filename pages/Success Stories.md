@@ -11,19 +11,19 @@ Here are some ways we work with our partners to grow the tech ecosystem:
 	<tbody><tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Tech companies</b>
-			<br><br><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
+			<br><br><img style="max-width: 40%" src="/images/Stickers/techcompanies.png"><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Tech enablers</b>
-			<br><br><span style="font-size:0.9em;">Uplifting the tech ecosystem</span>
+			<br><br><img style="max-width: 55%" src="/images/Stickers/techenablers.png"><span style="font-size:0.9em;">Uplifting the tech ecosystem</span>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Accelerators</b>
-			<br><br><span style="font-size:0.9em;">Grooming the next wave of startups, giving them a boost especially in innovation</span>
+			<br><br><img style="max-width: 50%" src="/images/Stickers/accelerators.png"><span style="font-size:0.9em;">Grooming the next wave of startups, giving them a boost especially in innovation</span>
 		</td>
 		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Investors and VC Firms</b>
-			<br><br><span style="font-size:0.9em;">Nurturing the startups and supporting their growth </span>
+			<br><br><img style="max-width: 45%" src="/images/Stickers/investors.png"><span style="font-size:0.9em;">Nurturing the startups and supporting their growth </span>
 		</td>
 	</tr>
 </tbody></table>

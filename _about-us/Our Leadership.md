@@ -72,7 +72,7 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 			<b>Ms Sharon Chiew</b></a>
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">Infocomm Media Development Authority of Singapore</span>
-     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a>
+     <br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a>
 		</td>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/john-lu-234b6720/">	

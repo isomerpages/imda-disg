@@ -4,6 +4,31 @@ permalink: /success-stories/
 variant: markdown
 description: ""
 ---
+As part of DISG’s efforts to establish Singapore as a global-Asia technology hub, and a vibrant ecosystem of local and global enterprises, we work very closely with industry partners from diverse backgrounds.  
+
+Here are some ways we work with our partners to grow the tech ecosystem:  
+<table>
+	<tbody><tr>
+		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
+			<b>Tech companies</b>
+			<br><br><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
+		</td>
+		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
+			<b>Tech enablers</b>
+			<br><br><span style="font-size:0.9em;">Uplifting the tech ecosystem</span>
+		</td>
+		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
+			<b>Accelerators</b>
+			<br><br><span style="font-size:0.9em;">Grooming the next wave of startups, giving them a boost especially in innovation</span>
+		</td>
+		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
+			<b>Investors and VC Firms</b>
+			<br><br><span style="font-size:0.9em;">Nurturing the startups and supporting their growth </span>
+		</td>
+	</tr>
+</tbody></table>
+Read more about our success stories below! 
+<br><br>
 <table>
 	<!-- 1ST OR MIDDLE ROWS -->
 	<tbody><tr>

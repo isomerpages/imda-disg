@@ -9,19 +9,19 @@ As part of DISG’s efforts to establish Singapore as a global-Asia technology h
 Here are some ways we work with our partners to grow the tech ecosystem:  
 <table>
 	<tbody><tr>
-		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
+		<td style="background:#403E86; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Tech companies</b>
 			<br><br><img style="max-width: 35%" src="/images/Stickers/techcompanies.png"><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
 		</td>
-		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
+		<td style="background:#23B9DB; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Tech enablers</b>
 			<br><br><img style="max-width: 50%" src="/images/Stickers/techenablers.png"><span style="font-size:0.9em;">Uplifting the tech ecosystem</span>
 		</td>
-		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
+		<td style="background:#E30613; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Accelerators</b>
 			<br><br><img style="max-width: 50%" src="/images/Stickers/accelerators.png"><span style="font-size:0.9em;">Grooming the next wave of startups, giving them a boost especially in innovation</span>
 		</td>
-		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
+		<td style="background:#353534; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>Investors and VC Firms</b>
 			<br><br><img style="max-width: 45%" src="/images/Stickers/investors.png"><span style="font-size:0.9em;">Nurturing the startups and supporting their growth </span>
 		</td>

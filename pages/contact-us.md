@@ -8,7 +8,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: Follow us for the latest tech buzz in Singapore <a
-          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/"><u>here.</u></a>
+          href="https://www.linkedin.com/company/digital-industry-singapore/mycompany/"><u>here</u></a>.
     title: We're on LinkedIn!
 feedback: https://form.gov.sg/65a0aca3e9fe66001267a0c6
 locations:

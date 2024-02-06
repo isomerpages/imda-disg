@@ -27,7 +27,7 @@ Here are some ways we work with our partners to grow the tech ecosystem:
 		<td style="background:#353534; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<img style="max-width: 50%" src="/images/Stickers/investors.png"><br>
 			<b>Investors and VC Firms</b>
-			<br><br><span style="font-size:0.9em;">Nurturing the startups and supporting their growth </span>
+			<br><br><span style="font-size:0.9em;">Nurturing startups and identifying emerging tech areas </span>
 		</td>
 	</tr>
 </tbody></table>

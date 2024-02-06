@@ -12,12 +12,12 @@ Here are some ways we work with our partners to grow the tech ecosystem:
 		<td style="background:#403e86; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<img style="max-width: 40%" src="/images/Stickers/techcompanies.png"><br>
 			<b>Tech companies</b>
-			<br><br><span style="font-size:0.9em;">Creating good jobs for Singapore and pushing the envelope of global competitiveness </span>
+			<br><br><span style="font-size:0.9em;">Growing products and skillsets from Singapore </span>
 		</td>
 		<td style="background:#23b9db; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<img style="max-width: 60%" src="/images/Stickers/techenablers.png"><br>
 			<b>Tech enablers</b>
-			<br><br><span style="font-size:0.9em;">Uplifting the tech ecosystem</span>
+			<br><br><span style="font-size:0.9em;">Uplifting the tech ecosystem through partnerships, training and opportunities</span>
 		</td>
 		<td style="background:#e30613; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<img style="max-width: 60%" src="/images/Stickers/accelerators.png"><br>

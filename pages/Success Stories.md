@@ -35,7 +35,16 @@ Read more about our success stories below!
 <br><br>
 <table>
 	<!-- 1ST OR MIDDLE ROWS -->
-	<tbody><tr>
+	<tbody>
+		    <tr>
+    <td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+      <img src="/images/Success%20Stories%20Images/story9.PNG">
+    </td>
+    <td style="vertical-align:middle;">Google, EnterpriseSG launch accelerator for generative AI startups in Singapore
+      <br><b><a target="_blank" href="https://www.businesstimes.com.sg/startups-tech/startups/google-enterprisesg-launch-accelerator-generative-ai-startups-singapore">Learn more</a></b>
+    </td>
+    </tr>
+		<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20Stories%20Images/story1.jpg">
 		</td>

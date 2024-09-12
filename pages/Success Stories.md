@@ -38,7 +38,7 @@ Read more about our success stories below!
 	<tbody>
 				    <tr>
     <td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
-      <img src="/images/Success%20Stories%20Images/story10.PNG">
+      <img src="/images/Success%20Stories%20Images/story10.png">
     </td>
     <td style="vertical-align:middle;">DISG and AI Singapore to support digital upskilling programme for SMBs
       <br><b><a target="_blank" href="https://govinsider.asia/intl-en/article/disg-and-ai-singapore-to-support-digital-upskilling-programme-for-smbs">Learn more</a></b>

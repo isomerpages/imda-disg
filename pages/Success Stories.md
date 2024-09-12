@@ -34,8 +34,16 @@ Here are some ways we work with our partners to grow the tech ecosystem:
 Read more about our success stories below! 
 <br><br>
 <table>
-	<!-- 1ST OR MIDDLE ROWS -->
+	
 	<tbody>
+				    <tr>
+    <td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+      <img src="/images/Success%20Stories%20Images/story10.PNG">
+    </td>
+    <td style="vertical-align:middle;">DISG and AI Singapore to support digital upskilling programme for SMBs
+      <br><b><a target="_blank" href="https://govinsider.asia/intl-en/article/disg-and-ai-singapore-to-support-digital-upskilling-programme-for-smbs">Learn more</a></b>
+    </td>
+    </tr>
 		    <tr>
     <td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
       <img src="/images/Success%20Stories%20Images/story9.PNG">
@@ -100,7 +108,7 @@ Read more about our success stories below!
 			<br><b><a target="_blank" href="https://www.techinasia.com/tech-companies-talent-told-3-singaporean-firms">Learn more</a></b>
 		</td>
     </tr>
-	<!-- LAST ROW -->
+	
 	<tr>
 		<td style="width:30%; vertical-align:middle;">
 			<img src="/images/Success%20Stories%20Images/story8.png">

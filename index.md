@@ -36,7 +36,7 @@ sections:
       title: Find out what our partners<br>are doing with us
       id: textcards
       cards:
-        - title: CardDISG and AI Singapore
+        - title: DISG and AI Singapore
           description: to support digital upskilling programme for SMBs
           linktext: Read more
           url: https://govinsider.asia/intl-en/article/disg-and-ai-singapore-to-support-digital-upskilling-programme-for-smbs

@@ -53,23 +53,23 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 				</tr>
 			</tbody></table>
 			<b>Ms Sharon Chiew</b></a>
-			<br><span style="font-size:0.9em;">Designation</span>
-			<br><span style="font-size:0.9em;">Company</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+			<br><span style="font-size:0.9em;">Director</span>
+			<br><span style="font-size:0.9em;">Infocomm Media Development Authority of Singapore</span>
+			<br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">		
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/">	
+			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/john-lu-234b6720/">	
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="img.jpg"></td>
+					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/john_lu.PNG"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
-			<b>PERSON 3</b></a>
-			<br><span style="font-size:0.9em;">Designation</span>
-			<br><span style="font-size:0.9em;">Company</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+			<b>Mr John Lu</b></a>
+			<br><span style="font-size:0.9em;">Director, Info-Comm, Media</span>
+			<br><span style="font-size:0.9em;">Enterprise Singapore</span>
+<br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_John_Lu.pdf">Business Profile</a><br>
 		</td>
 	</tr>
 </tbody></table>

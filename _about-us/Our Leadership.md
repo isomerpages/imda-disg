@@ -13,37 +13,23 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/ihming/">	
-			<table>
-				<tbody><tr>
-					<td></td>
-					<td><img style="border-radius:50%; max-width:42%; border:8px solid white;" src="/images/DISG%20Pictures/chan-ih-ming.png"></td>
-					<td></td>
-				</tr>
-			</tbody></table>
-			<b>Mr Chan Ih-Ming</b></a>
-			<br><span style="font-size:0.9em;">Executive Director and Head</span>
-			<br><span style="font-size:0.9em;">Economic Development Board</span>
-     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Chan_Ih_Ming.pdf">Business Profile</a><br>
-		</td>
-</tr></tbody></table>
-<table>
-	<tbody><tr>
-		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/philbert-gomez-55426027/">	
 			<table>
 				<tbody><tr>
 					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/philbert_gomez.jpg"></td>
+					<td><img style="border-radius:50%; max-width:42%; border:8px solid white;" src="/images/DISG%20Pictures/philbert_gomez.jpg"></td>
 					<td></td>
 				</tr>
 			</tbody></table>
 			<b>Mr Philbert Gomez</b></a>
-			<br><span style="font-size:0.9em;">Vice President and Head</span>
+			<br><span style="font-size:0.9em;">Executive Director,<br>Vice President and Head</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
-     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Philbert_Gomez.pdf">Business Profile</a><br>
+     <br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Philbert_Gomez.pdf">Business Profile</a><br>
 		</td>
-		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
+</tr></tbody></table>
+<table>
+	<tbody><tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/pei-sheng-goh-472342137/">	
 			<table>
 				<tbody><tr>
@@ -55,12 +41,9 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 			<b>Mr Goh Pei Sheng</b></a>
 			<br><span style="font-size:0.9em;">Vice President</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
-			     <br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Goh_Pei_Sheng.pdf">Business Profile</a><br>
+			<br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Goh_Pei_Sheng.pdf">Business Profile</a><br>
 		</td>
-</tr></tbody></table>
-<table>
-	<tbody><tr>
-		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/sharon-chiew-9409b078/">	
 			<table>
 				<tbody><tr>
@@ -72,9 +55,9 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 			<b>Ms Sharon Chiew</b></a>
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">Infocomm Media Development Authority of Singapore</span>
-     <br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a>
+			<br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Ms_Sharon_Chiew.pdf">Business Profile</a>
 		</td>
-		<td style="background:#F7F7F7; border: 8px solid white; width:33%; text-align: center;">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">		
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/john-lu-234b6720/">	
 			<table>
 				<tbody><tr>
@@ -86,6 +69,7 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 			<b>Mr John Lu</b></a>
 			<br><span style="font-size:0.9em;">Director, Info-Comm, Media</span>
 			<br><span style="font-size:0.9em;">Enterprise Singapore</span>
-			     <br><br><br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_John_Lu.pdf">Business Profile</a><br>
+<br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_John_Lu.pdf">Business Profile</a><br>
 		</td>
-</tr></tbody></table>
+	</tr>
+</tbody></table>

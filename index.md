@@ -36,6 +36,10 @@ sections:
       title: Find out what our partners<br>are doing with us
       id: textcards
       cards:
+        - title: DISG and AI Singapore
+          description: to support digital upskilling programme for SMBs
+          linktext: Read more
+          url: https://govinsider.asia/intl-en/article/disg-and-ai-singapore-to-support-digital-upskilling-programme-for-smbs
         - title: Tech firms can play a part
           description: with sustainable solutions powered by blockchain, IoT and AI
           linktext: Read more
@@ -48,10 +52,6 @@ sections:
           description: 100 AI use cases in the next 100 days
           linktext: Read more
           url: https://www.straitstimes.com/tech/new-ai-initiative-to-identify-and-address-100-ai-use-cases-in-the-next-100-days
-        - title: Ant Group sets up in SG,
-          description: partners IMDA to push sustainable digital consumption
-          linktext: Read more
-          url: https://www.marketing-interactive.com/ant-group-sets-up-in-sg-partners-imda-to-push-sustainable-digital-consumption
       subtitle: Our Partners
       description: Read about our success stories <a href="/success-stories/">here</a>.
   - infobar:

@@ -30,20 +30,6 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 <table>
 	<tbody><tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">	
-			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/pei-sheng-goh-472342137/">	
-			<table>
-				<tbody><tr>
-					<td></td>
-					<td><img style="border-radius:50%; border:8px solid white;" src="/images/DISG%20Pictures/pei_sheng.jpg"></td>
-					<td></td>
-				</tr>
-			</tbody></table>
-			<b>Mr Goh Pei Sheng</b></a>
-			<br><span style="font-size:0.9em;">Vice President</span>
-			<br><span style="font-size:0.9em;">Economic Development Board</span>
-			<br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Goh_Pei_Sheng.pdf">Business Profile</a><br>
-		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center;">	
 			<a style="text-decoration: none; color:black;" target="_blank" href="https://www.linkedin.com/in/sharon-chiew-9409b078/">	
 			<table>
 				<tbody><tr>

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero2.png">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/hero2.png">
 </div>
 <p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
 you’re a tech titan, a business with AI ambitions, or a budding startup,

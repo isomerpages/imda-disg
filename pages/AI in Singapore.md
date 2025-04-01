@@ -7,11 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero2.png">
 </div>
-<h1><strong>AI in Singapore, for the world.</strong></h1>
 <p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
 you’re a tech titan, a business with AI ambitions, or a budding startup,
 our dynamic ecosystem is your launchpad. Come explore, expand and scale
 AI opportunities effectively from Singapore.</p>
+<p></p>
 <h1>An Ecosystem of Support</h1>
 <p>Whether you’re a bold startup, a scaling SME, or a global MNC, Singapore
 offers a powerful network to help you grow.</p>

@@ -10,7 +10,10 @@ description: ""
 </div>
 <h1>AI in Singapore, For the World.</h1>
 <p></p>
-<p>Learn more about Singapore's vision for AI.</p>
+<p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
+you’re a tech titan, a business with AI ambitions, or a budding startup,
+our dynamic ecosystem is your launchpad. Come explore, expand and scale
+AI opportunities effectively from Singapore.</p>
 <p></p>
 <p></p>
 <hr>
@@ -33,6 +36,8 @@ description: ""
 <hr>
 <h3>Discover Singapore's AI Events</h3>
 <div class="iframe-wrapper">
-<iframe style="border-width:0" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=450&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=MONTH&amp;showCalendars=0&amp;showTz=0&amp;showDate=0&amp;showNav=0&amp;showTitle=0&amp;showTabs=0&amp;src=cDI1ZmY4NTY2NmI0aWNlbzBsajhiNDF2b3Azb2trZWxAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5"></iframe>
+<iframe style="border-width:0" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=450&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=MONTH&amp;showCalendars=0&amp;showTz=0&amp;showDate=0&amp;showNav=0&amp;showTitle=0&amp;showTabs=0&amp;src=cDI1ZmY4NTY2NmI0aWNlbzBsajhiNDF2b3Azb2trZWxAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5"></iframe>
 </div>
+<p></p>
+<p></p>
 <p></p>

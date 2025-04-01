@@ -4,8 +4,9 @@ permalink: /aisg/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/be36eeb6_47d7_4952_b315_74634176fab5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero.png">
 </div>
 <h1>AI in Singapore, For the World.</h1>
 <p></p>

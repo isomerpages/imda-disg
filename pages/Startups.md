@@ -59,4 +59,20 @@ trajectory to catalyse their growth opportunities.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://aws.amazon.com/startups/programs/genai-spotlight-apj" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AWS GenAI Spotlight" src="/images/awslogo_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AWS GenAI Spotlight</div><div class="isomer-card-description">Fast track your GenAI startup in four weeks. For pre-seed and seed-stage ready startups.&nbsp;</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
+<h3>Talent</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sginnovate.com/power-x-organisation" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PowerX" src="/images/images.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PowerX</div><div class="isomer-card-description">Support for 12-month on-the-job traineeships for deep tech startups.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.sginnovate.com/apprenticeship/organisations" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Summation" src="/images/images.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Summation</div>
+<div class="isomer-card-description">Support for 3 to 6-month tech internship for deep tech startups.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.startupsg.gov.sg/programmes/30813/entrepass" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EntrePass" src="/images/asc_etpr_img_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EntrePass</div><div class="isomer-card-description">Work pass intended for serial entrepreneurs, high-calibre innovators, and experienced investors.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>

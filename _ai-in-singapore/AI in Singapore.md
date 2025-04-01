@@ -15,7 +15,7 @@ AI opportunities effectively from Singapore.</p>
 <h1>An Ecosystem of Support</h1>
 <p>Whether you’re a bold startup, a scaling SME, or a global MNC, Singapore
 offers a powerful network to help you grow.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Startup2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Startups</div><div class="isomer-card-description">Access funding, accelerators, and testbeds to scale.</div><div class="isomer-card-link">Resources</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/startups/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Startup2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Startups</div><div class="isomer-card-description">Access funding, accelerators, and testbeds to scale.</div><div class="isomer-card-link">Resources</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

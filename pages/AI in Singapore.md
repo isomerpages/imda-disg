@@ -39,7 +39,7 @@ platforms—tailored to your needs.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/MNCs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MNCs</div><div class="isomer-card-description">Build and scale your AI operations from Singapore.</div><div class="isomer-card-link">Resources</div></div></a>
 </div>
 <hr>
-<h2><strong>What’s Happening in AI Singapore</strong></h2>
+<h2><strong>What’s Happening in Singapore AI?</strong></h2>
 <p>From cutting-edge conferences and hackathons to intimate meetups and policy
 roundtables, Singapore’s AI scene is buzzing with activity. Stay in the
 loop with upcoming events where startups, researchers, corporates, and

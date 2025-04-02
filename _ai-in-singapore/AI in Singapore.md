@@ -38,7 +38,15 @@ AI that is inclusive, trusted, and globally relevant, we aim to solve real-world
 challenges for Singaporeans, and for the world. Learn more about our vision:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/national-ai-strategy/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The National AI Strategy 2.0</div><div class="isomer-card-description">Singapore’s updated AI roadmap focuses on using AI to drive impact in key sectors, nurture talent, and strengthen digital infrastructure, anchoring Singapore as a hub for trusted and transformative AI.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Scaling Responsibly</div><div class="isomer-card-description">Responsible AI is a collective effort. Singapore works closely with global partners, startups, MNCs, and researchers to build and deploy AI systems that are fair, transparent, and human-centric.</div><div class="isomer-card-link">Learn More</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Scaling Responsibly</div>
+<div class="isomer-card-description">Responsible AI is a collective effort. Singapore works closely with global
+partners, startups, MNCs, and researchers to build and deploy AI systems
+that are fair, transparent, and human-centric. Learn More</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>

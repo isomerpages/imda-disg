@@ -9,6 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1181.jpg">
 </div>
+<h2><strong>Singapore AI at a Glance</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,23 +19,45 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <h1>&gt;150</h1>
 <p>AI R&amp;D teams in Singapore (2023)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <h1>1,100</h1>
 <p>AI Startups in Singapore (2023)&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <h1>8,000</h1>
 <p>Students in AI-related courses (2023)</p>
 </th>
 </tr>
 </tbody>
 </table>
+<p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
+you’re a tech titan, a business with AI ambitions, or a budding startup,
+our dynamic ecosystem is your launchpad. Come explore, expand and scale
+AI opportunities effectively from Singapore.</p>
+<h2><strong>Singapore AI at a Glance</strong></h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">&gt;150</div>
+<div class="isomer-card-description">AI R&amp;D teams in Singapore (2023)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">1,100</div>
+<div class="isomer-card-description">AI Startups in Singapore (2023)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">8,000</div>
+<div class="isomer-card-description">Students in AI-related courses (2023)</div>
+</div>
+</div>
+</div>
 <p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
 you’re a tech titan, a business with AI ambitions, or a budding startup,
 our dynamic ecosystem is your launchpad. Come explore, expand and scale
@@ -63,6 +86,7 @@ roundtables, Singapore’s AI scene is buzzing with activity.</p>
 <div class="iframe-wrapper">
 <iframe style="border-width:0" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=450&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=AGENDA&amp;showCalendars=0&amp;showTz=0&amp;showDate=0&amp;showNav=0&amp;showTitle=0&amp;showTabs=0&amp;src=cDI1ZmY4NTY2NmI0aWNlbzBsajhiNDF2b3Azb2trZWxAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5"></iframe>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

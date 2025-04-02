@@ -2,9 +2,9 @@ collections:
   ai-in-singapore:
     output: true
     order:
-      - Centers of Excellence.md
       - AI in Singapore.md
       - MNCs.md
       - SMEs.md
       - Startups.md
       - National AI Strategy.md
+      - Centers of Excellence.md

@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero4.png">
 </div>
-<h1><strong>AI in Singapore. For the World. </strong></h1>
+<h1><strong>AI in Singapore. For the World.</strong></h1>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">

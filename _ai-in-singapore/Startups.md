@@ -58,6 +58,19 @@ trajectory to catalyse their growth opportunities.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://aws.amazon.com/startups/programs/genai-spotlight-apj" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AWS GenAI Spotlight" src="/images/awslogo_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AWS GenAI Spotlight</div><div class="isomer-card-description">Fast track your GenAI startup in four weeks. For pre-seed and seed-stage ready startups.&nbsp;</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://smc.co/accelerator" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GreenFutures Accelerator" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GreenFutures Accelerator</div>
+<div class="isomer-card-description">GreenFutures is SMC’s accelerator program that brings people, knowledge,
+and GPU resources to jointly accelerate AI development sustainably.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
 </div>
 <h3>Talent</h3>
 <p></p>

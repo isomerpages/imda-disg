@@ -47,10 +47,7 @@ adapt, grow, and thrive in an AI-enabled economy.</p>
 <h3><strong>How We’ll Get There</strong></h3>
 <p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/nais_2_0_plan_1.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://file.go.gov.sg/infographic-nais2023.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/nais_2_0_plan_1.png"></a>
 <p>NAIS 2.0 will mobilise efforts across three core Systems—Innovation, Infrastructure,
 and People—and ten strategic Enablers to drive impact.</p>
 <p>From <strong>industry partnerships</strong> and cutting-edge research to <strong>open innovation platforms</strong> and <strong>global collaboration</strong>,

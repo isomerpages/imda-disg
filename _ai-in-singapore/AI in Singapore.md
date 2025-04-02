@@ -26,41 +26,16 @@ or leading global transformation.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/mncs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/MNCs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MNCs</div><div class="isomer-card-description">Build and scale your AI operations from Singapore.</div><div class="isomer-card-link">Resources</div></div></a>
 </div>
-<hr>
-<h2><strong>Our Vision for AI</strong></h2>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The National AI Strategy 2.0</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Scaling Responsibly</div><div class="isomer-card-description">Singapore is actively involved in establishing frameworks to promote trust and accountability.</div><div class="isomer-card-link">Learn More</div></div></a>
-</div>
-<hr>
 <h2><strong>What’s Happening in Singapore AI?</strong></h2>
 <p>Singapore’s AI ecosystem is always in motion. From global conferences
 to hands-on workshops, there’s something happening every week.</p>
 <div class="iframe-wrapper">
 <iframe style="border-width:0" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=450&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=AGENDA&amp;showCalendars=0&amp;showTz=0&amp;showDate=0&amp;showNav=0&amp;showTitle=0&amp;showTabs=0&amp;src=cDI1ZmY4NTY2NmI0aWNlbzBsajhiNDF2b3Azb2trZWxAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5"></iframe>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">&gt;150</div>
-<div class="isomer-card-description">AI R&amp;D teams in Singapore (2023)</div>
+<h2><strong>Learn about Singapore's AI Vision</strong></h2>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The National AI Strategy 2.0</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Scaling Responsibly</div><div class="isomer-card-description">Singapore is actively involved in establishing frameworks to promote trust and accountability.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">1,100</div>
-<div class="isomer-card-description">AI Startups in Singapore (2023)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">8,000</div>
-<div class="isomer-card-description">Students in AI-related courses (2023)</div>
-</div>
-</div>
-</div>
-<p></p>
-<p></p>
 <p></p>
 <p></p>

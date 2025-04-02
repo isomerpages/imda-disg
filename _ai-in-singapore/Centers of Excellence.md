@@ -233,3 +233,7 @@ Singapore’s Smart Nation and Industry 4.0 ambitions.</p>
 </details>
 </div>
 <p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.edb.gov.sg/en/contact/contact-us.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ready to Build with Singapore?</div><div class="isomer-card-description">Reach out to the Singapore Economic Development Board (EDB) to explore partnership opportunities.</div><div class="isomer-card-link">Contact EDB</div></div></a>
+</div>
+<p></p>

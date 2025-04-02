@@ -7,7 +7,7 @@ description: ""
 <h2><strong>National AI Strategy 2.0</strong></h2>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6qHBTi3YQIQ?si=gYx6JQEjGyHDb0VO"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6qHBTi3YQIQ?si=gYx6JQEjGyHDb0VO"></iframe>
 </div>
 <h4><strong>AI for the Public Good — for Singapore and the World</strong></h4>
 <p>Singapore’s National AI Strategy 2.0 (NAIS 2.0) sets out an ambitious,

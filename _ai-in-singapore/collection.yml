@@ -2,6 +2,7 @@ collections:
   ai-in-singapore:
     output: true
     order:
+      - National AI Strategy.md
       - AI in Singapore.md
       - MNCs.md
       - SMEs.md

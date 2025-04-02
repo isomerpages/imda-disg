@@ -7,36 +7,8 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1181.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero4.png">
 </div>
-<h2><strong>Singapore AI at a Glance</strong></h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h1>&gt;150</h1>
-<p>AI R&amp;D teams in Singapore (2023)</p>
-</th>
-<th rowspan="1" colspan="1">
-<h1>1,100</h1>
-<p>AI Startups in Singapore (2023)&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<h1>8,000</h1>
-<p>Students in AI-related courses (2023)</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Singapore is on a mission to be the world’s most AI-powered economy. Whether
-you’re a tech titan, a business with AI ambitions, or a budding startup,
-our dynamic ecosystem is your launchpad. Come explore, expand and scale
-AI opportunities effectively from Singapore.</p>
 <h2><strong>Singapore AI at a Glance</strong></h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">

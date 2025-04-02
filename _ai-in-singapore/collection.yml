@@ -2,5 +2,6 @@ collections:
   ai-in-singapore:
     output: true
     order:
+      - MNCs.md
       - AI in Singapore.md
       - Startups.md

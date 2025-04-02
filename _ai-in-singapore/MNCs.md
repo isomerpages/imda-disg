@@ -20,17 +20,17 @@ first international AI research hub. With 59% of Asian Regional Headquarters
 of global MNCs based here, Singapore offers unparalleled opportunities
 for collaboration and innovation.</p>
 <h3><strong>Partner with Singapore</strong></h3>
-<p>The Singapore Economic Development Board (EDB) actively collaborates with
-companies to accelerate their AI journey. We support organisations in rapidly
-prototyping and scaling AI applications that address real-world, industry-specific
+<p>The Singapore Economic Development Board (EDB) <a href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/centers-of-excellence/" rel="noopener noreferrer nofollow" target="_blank">actively collaborates with companies</a> to
+accelerate their AI journey. We support organisations in rapidly prototyping
+and scaling AI applications that address real-world, industry-specific
 challenges</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.edb.gov.sg/en/contact/contact-us.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Talk to EDB</div><div class="isomer-card-description">Get support to supercharge your AI adoption plans.</div><div class="isomer-card-link">Contact</div></div></a>
 </div>
 <h3>Support</h3>
 <h4><strong>Funding</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Centers of Excellence" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Centers of Excellence</div><div class="isomer-card-description">Build your AI R&amp;D powerhouse in Singapore. Partner with EDB to establish to establish an AI Center of Excellence.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/centers-of-excellence/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Centers of Excellence" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Centers of Excellence</div><div class="isomer-card-description">Build your AI R&amp;D powerhouse in Singapore. Partner with EDB to establish to establish an AI Center of Excellence.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/centers-of-excellence/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Industry-Academia AI Labs" src="https://placehold.co/600x400">

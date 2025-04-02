@@ -27,16 +27,12 @@ or leading global transformation.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/mncs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/MNCs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MNCs</div><div class="isomer-card-description">Build and scale your AI operations from Singapore.</div><div class="isomer-card-link">Resources</div></div></a>
 </div>
 <hr>
-<h2><strong>AI, the Singapore Way</strong></h2>
+<h2><strong>Our Vision for AI</strong></h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The National AI Strategy</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scaling Responsibly" src="/images/blueishgreen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scaling Responsibly</div><div class="isomer-card-description">Singapore is actively involved in establishing frameworks to promote trust and accountability.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<hr>
 <h2><strong>What’s Happening in Singapore AI?</strong></h2>
 <p>Singapore’s AI ecosystem is always in motion. From global conferences
 to hands-on workshops, there’s something happening every week.</p>

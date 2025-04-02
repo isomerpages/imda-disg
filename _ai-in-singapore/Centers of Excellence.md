@@ -7,8 +7,8 @@ description: ""
 <h3><strong>Accelerate Your AI Ambitions from Singapore</strong></h3>
 <p>Singapore is where AI innovation meets real-world application—and where
 global companies come to build, scale, and lead.</p>
-<p>The Singapore Economic Development Board (EDB) partners with industry
-leaders to drive AI excellence through two key pathways:</p>
+<p>The government partners with industry leaders to drive AI excellence through
+two key pathways:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Establishing <strong>AI Centers of Excellence (CoEs)</strong>
@@ -140,15 +140,15 @@ Your Customer (KYC) services for improved financial product recommendations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/770x435_American_Express_expands_Singapore_Decision_Science_Center_of_Excellence.jpg">
 </div>
 <p></p>
-<p><strong>American Express</strong> has expanded its <strong>Decision Science Center of Excellence</strong> in
-Singapore, building on its strong foundation in credit decisioning and
+<p>American Express has expanded its Decision Science Center of Excellence
+in Singapore, building on its strong foundation in credit decisioning and
 fraud prevention.</p>
 <p></p>
 <p>The CoE now leads AI and machine learning innovation across marketing,
-servicing, and risk. As part of this growth, Amex is also launching a <strong>Generative AI R&amp;D practice</strong> to
-explore next-generation AI applications across servicing, technology, and
-risk management, further cementing Singapore as a hub for its global AI
-capabilities.</p>
+servicing, and risk. As part of this growth, Amex is also launching a Generative
+AI R&amp;D practice to explore next-generation AI applications across servicing,
+technology, and risk management, further cementing Singapore as a hub for
+its global AI capabilities.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -160,16 +160,16 @@ capabilities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP_Labs_Launch_SG_1.jpg">
 </div>
 <p></p>
-<p><strong>SAP</strong>  <a href="https://www.edb.gov.sg/en/business-insights/insights/software-giant-sap-opens-250-million-lab-in-singapore-to-add-500-jobs.html" rel="noopener noreferrer nofollow" target="_blank">launched</a> its
-first <strong>SAP Labs</strong> in Southeast Asia right here in Singapore,
-investing <strong>S$250 million</strong> over five years and creating <strong>500 new jobs</strong> in
-product development, AI, sustainability, and digital supply chains.</p>
+<p>SAP <a href="https://www.edb.gov.sg/en/business-insights/insights/software-giant-sap-opens-250-million-lab-in-singapore-to-add-500-jobs.html" rel="noopener noreferrer nofollow" target="_blank">launched</a> its
+first SAP Labs in Southeast Asia right here in Singapore, investing S$250
+million over five years and creating 500 new jobs in product development,
+AI, sustainability, and digital supply chains.</p>
 <p></p>
 <p>The lab serves as a global innovation hub, building next-gen enterprise
 software while tapping into Singapore’s strong talent pipeline, government
 support, and vibrant startup and university ecosystem. With 1,100 existing
-employees and growing, <strong>SAP Labs Singapore</strong> is a key driver
-of SAP’s AI and sustainability ambitions in Asia and beyond.</p>
+employees and growing, SAP Labs Singapore is a key driver of SAP’s AI and
+sustainability ambitions in Asia and beyond.</p>
 </div>
 </details>
 </div>
@@ -180,9 +180,10 @@ and <strong>SMU</strong> to drive applied AI research and access top-tier
 talent. These labs bridge academic insight with business relevance, delivering
 breakthroughs in areas like machine learning, NLP, computer vision, and
 responsible AI.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>SIT-NVIDIA Centre for AI</summary>
+<summary><strong>SIT-NVIDIA Centre for AI</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
@@ -193,6 +194,41 @@ solutions with partners like <strong>SMRT</strong> and <strong>CTMetrix</strong>
 <p>Co-led by SIT and NVIDIA experts, the Centre also trains students through
 hands-on projects, supporting Singapore’s ambition to <strong>triple its AI workforce</strong> in
 the next five years.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>IBM-NUS AI Research and Innovation Centre</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>IBM and NUS have announced plans to establish a new AI Research and Innovation
+Centre at the NUS School of Computing, featuring IBM’s full-stack AI infrastructure—the
+first of its kind on a university campus in Asia-Pacific.</p>
+<p></p>
+<p>The centre will drive cutting-edge AI research with a focus on open innovation,
+sustainable computing, and trustworthy AI. It will serve as a platform
+for collaboration across academia, industry, and government, and support
+Singapore’s National AI Strategy.</p>
+<p></p>
+<p>Through integration with NUS’ Graduate Research Innovation Programme (GRIP),
+the centre will also help deep-tech startups and SMEs access enterprise-grade
+AI tools to accelerate innovation and adoption.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Alibaba-NTU Singapore Joint Research Institute</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Launched in 2018, the Alibaba–NTU Joint Research Institute (JRI) is Alibaba’s
+first AI research institute outside China. The JRI brings together NTU’s
+human-centric AI capabilities with Alibaba’s strengths in NLP, computer
+vision, machine learning, and cloud computing.</p>
+<p></p>
+<p>Based on NTU’s Smart Campus, the JRI develops and tests AI solutions for
+real-world applications—from healthy ageing to smart mobility. The goal:
+make AI more accessible, inclusive, and impactful for society, while supporting
+Singapore’s Smart Nation and Industry 4.0 ambitions.</p>
 </div>
 </details>
 </div>

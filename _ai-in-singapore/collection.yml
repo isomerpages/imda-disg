@@ -1,4 +1,5 @@
 collections:
   ai-in-singapore:
     output: true
-    order: []
+    order:
+      - AI in Singapore.md

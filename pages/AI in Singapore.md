@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero4.png">
 </div>
-<h2><strong>Singapore AI at a Glance</strong></h2>
+<h1><strong>AI in Singapore. For the World. </strong></h1>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ description: ""
 you’re a tech titan, a business with AI ambitions, or a budding startup,
 our dynamic ecosystem is your launchpad. Come explore, expand and scale
 AI opportunities effectively from Singapore.</p>
-<h1>An Ecosystem of Support</h1>
+<h2>An Ecosystem of Support</h2>
 <p>Whether you’re a bold startup, a scaling SME, or a global MNC, Singapore
 offers a powerful network to help you grow.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2pyxb48llwlei.amplifyapp.com/startups/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Startup2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Startups</div><div class="isomer-card-description">Access funding, accelerators, and testbeds to scale.</div><div class="isomer-card-link">Resources</div></div></a>
@@ -51,7 +51,7 @@ offers a powerful network to help you grow.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/MNCs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MNCs</div><div class="isomer-card-description">Build and scale your AI operations from Singapore.</div><div class="isomer-card-link">Resources</div></div></a>
 </div>
-<h1>What’s Happening in Singapore AI?</h1>
+<h2>What’s Happening in Singapore AI?</h2>
 <p>From cutting-edge conferences and hackathons to intimate meetups and policy
 roundtables, Singapore’s AI scene is buzzing with activity.</p>
 <p></p>

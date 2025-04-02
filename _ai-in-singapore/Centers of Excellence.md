@@ -174,4 +174,26 @@ of SAP’s AI and sustainability ambitions in Asia and beyond.</p>
 </details>
 </div>
 <h3><strong>Industry-Academia AI Labs</strong></h3>
+<p>Through Industry-Academia AI Labs, companies collaborate directly with
+world-class institutions like <strong>NUS</strong>, <strong>NTU</strong>,
+and <strong>SMU</strong> to drive applied AI research and access top-tier
+talent. These labs bridge academic insight with business relevance, delivering
+breakthroughs in areas like machine learning, NLP, computer vision, and
+responsible AI.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>SIT-NVIDIA Centre for AI</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p>As the first of its kind in the region, the Centre supports end-to-end
+AI innovation—from customising generative AI models to deploying real-world
+solutions with partners like <strong>SMRT</strong> and <strong>CTMetrix</strong>.</p>
+<p></p>
+<p>Co-led by SIT and NVIDIA experts, the Centre also trains students through
+hands-on projects, supporting Singapore’s ambition to <strong>triple its AI workforce</strong> in
+the next five years.</p>
+</div>
+</details>
+</div>
 <p></p>

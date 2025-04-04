@@ -102,5 +102,5 @@ image: /images/Logos/disg logo 1 (colour).png
 </details>
 </div>
 <p></p>
-<p><a href="https://www.google.com/" rel="noopener nofollow" target="_blank">Click here to apply</a>
+<p><a href="https://form.gov.sg/admin/form/67ef9a05e8b901fcefbe1433/preview" rel="noopener nofollow" target="_blank">Click here to apply</a>
 </p>

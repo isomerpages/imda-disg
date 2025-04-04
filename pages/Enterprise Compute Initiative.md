@@ -85,19 +85,19 @@ image: /images/Logos/disg logo 1 (colour).png
 <details class="isomer-details">
 <summary>Accordion 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Text for Accordion 1</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Accordion 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Text for Accordion 2</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Accordion 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Text for Accordion 3</p>
 </div>
 </details>
 </div>

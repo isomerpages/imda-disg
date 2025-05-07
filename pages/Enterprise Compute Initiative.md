@@ -104,3 +104,9 @@ image: /images/Logos/disg logo 1 (colour).png
 <p></p>
 <p><a href="https://form.gov.sg/67ef9a05e8b901fcefbe1433" rel="noopener nofollow" target="_blank">Click here to apply</a>
 </p>
+<p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/67ef9a05e8b901fcefbe1433" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/67ef9a05e8b901fcefbe1433"></iframe>
+</div>
+<p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
+</p>

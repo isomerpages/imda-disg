@@ -55,7 +55,7 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <p></p>
 <h3><strong>Explore our Cloud Service Provider (CSP) partners and their services</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Google Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Google Cloud</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CSP Name" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CSP Name</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div><div class="isomer-card-link">More details here </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -70,7 +70,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Amazon Web Services" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Amazon Web Services </div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Amazon Web Services" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Amazon Web Services</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
 <p></p>

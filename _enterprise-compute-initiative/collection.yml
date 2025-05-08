@@ -1,4 +1,5 @@
 collections:
   enterprise-compute-initiative:
     output: true
-    order: []
+    order:
+      - Enterprise Compute Initiative.md

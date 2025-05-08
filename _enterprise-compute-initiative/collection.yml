@@ -2,4 +2,5 @@ collections:
   enterprise-compute-initiative:
     output: true
     order:
+      - Apply here.md
       - Enterprise Compute Initiative.md

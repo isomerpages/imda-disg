@@ -5,6 +5,7 @@ variant: tiptap
 description: Enterprise Compute Initiative
 image: /images/Logos/disg logo 1 (colour).png
 ---
+<p>From AI ambition to action</p>
 <p><strong>&lt;Title&gt;</strong>
 </p>
 <p><strong>&lt;Description&gt;</strong>

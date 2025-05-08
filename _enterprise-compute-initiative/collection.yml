@@ -2,5 +2,6 @@ collections:
   enterprise-compute-initiative:
     output: true
     order:
+      - Cloud Service Providers.md
       - Programme details.md
       - Apply here.md

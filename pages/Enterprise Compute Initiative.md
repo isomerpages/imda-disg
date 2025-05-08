@@ -6,6 +6,10 @@ description: Enterprise Compute Initiative
 image: /images/Logos/disg logo 1 (colour).png
 ---
 <h1><strong>From AI ambition to action</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of participants at Google's pilot AI Cloud Take Off" src="/images/JON_3246.jpg">
+</div>
 <p><strong>Ready to harness AI for your organisation? </strong>Lorem ipsum
 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud

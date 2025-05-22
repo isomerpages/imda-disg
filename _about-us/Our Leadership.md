@@ -22,7 +22,7 @@ The leadership team is instrumental in charting strategic efforts of the joint o
 				</tr>
 			</tbody></table>
 			<b>Mr Philbert Gomez</b></a>
-			<br><span style="font-size:0.9em;">Executive Director,<br>Vice President and Head</span>
+			<br><span style="font-size:0.9em;">Executive Director,<br>Senior Vice President and Head</span>
 			<br><span style="font-size:0.9em;">Economic Development Board</span>
      <br><a style="color: grey;" target="_blank" href="/files/Business_Profile_Mr_Philbert_Gomez.pdf">Business Profile</a><br>
 		</td>

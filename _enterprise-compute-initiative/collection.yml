@@ -2,8 +2,8 @@ collections:
   enterprise-compute-initiative:
     output: true
     order:
-      - ECI Pilot.md
       - Programme details.md
       - Cloud Service Providers.md
+      - ECI Pilot.md
       - Apply here.md
       - FAQs.md

@@ -196,37 +196,42 @@ SG request for information on financial health of the company)</p>
 </li>
 </ul>
 <p></p>
-<p><u>Use Case Assessment</u>
-</p>
+<p><u>Use Case Assessment </u>– applications will be assessed based on the
+impact of use case as well as organisational and infrastructure readiness</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Type of use case: The proposed use case should focus on leveraging AI
+to achieve at least of one of the following objectives: (i) process improvement;
+(ii) new product development; (iii) research and development and/or (iv)
+contribution to the broader ecosystem.</p>
+</li>
+<li>
+<p>Impact: The proposed use case must demonstrate impact to the company and/or
+industry and lead to the establishment of AI team(s) within the company.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Application and Selection Process</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Interested companies who assess that they meet the eligibility criteria
+may apply <a href="https://www.disg.gov.sg/apply-here/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 <p></p>
+<p>Applications will be assessed based on the impact of the use-case to the
+company and the industry, as well as organisational and infrastructure
+readiness. Use-cases that are complex and scalable will be prioritised.&nbsp;</p>
+<p></p>
+<p>Companies will be notified by DISG is their application is successful.&nbsp;
+<br>
+</p>
 </div>
 </details>
 </div>
 <p>
 <br>
 </p>
-<p><strong>As part of the programme, companies are expected to:&nbsp;</strong>
-</p>
-<ol>
-<li>
-<p>Fully commit manpower and technical resources to this project for the
-programme duration (up to a year)&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>Deliver on the outcome which is the MVP and change management processes&nbsp;</p>
-</li>
-</ol>
-<p>For companies that are ready to progress quickly, it is possible to complete
-the programme earlier. Thereafter, if DISG assesses the company to be ready
-for broader and longer-term AI plans, DISG will have a separate discussion
-with the company on support options.&nbsp;</p>
 <p>
 <br>
 </p>

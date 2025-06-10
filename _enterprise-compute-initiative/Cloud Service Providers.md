@@ -29,7 +29,7 @@ governance.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Google</div>
+<div class="isomer-card-title">Google Cloud</div>
 </div>
 </div>
 <div class="isomer-card">

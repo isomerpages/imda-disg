@@ -31,7 +31,7 @@ government support.</p>
 <blockquote>
 <h4>B. Programme offerings</h4>
 </blockquote>
-<p><strong>What consultancy services does the programme support? </strong>
+<p><strong>What consultancy services does the programme support?</strong>
 </p>
 <p>This includes consultancy services aimed at developing an AI roadmap based
 on the submitted use-case, and eventual change management execution plans.
@@ -71,7 +71,7 @@ using.</p>
 <p>No. This is not allowed. We encourage the parent entity to join the programme
 to chart an AI transformation strategy for the entire company group.</p>
 <p></p>
-<p><strong>My company has multiple use cases. Do I need to submit multiple applications?  </strong>
+<p><strong>My company has multiple use cases. Do I need to submit multiple applications?</strong>
 </p>
 <p>No, please submit a single application with your main use case. Should
 the application be approved, your assigned CSP and partner will be happy
@@ -92,4 +92,18 @@ cloud credits and tools. If your application is approved, your assigned
 CSP will get in touch with onboarding information including your assigned
 partner.</p>
 <p></p>
+<blockquote>
+<h4>D. Others</h4>
+</blockquote>
+<p><strong>What happens after the programme?&nbsp;</strong>
+</p>
+<p>The programme will equip companies with a roadmap for AI organisational
+transformation, which could involve change management processes within
+the company.&nbsp;</p>
+<p>
+<br>If there are further queries, companies can reach out to Digital Industry
+Singapore through this <a href="https://www.edb.gov.sg/en/contact/contact-us.html?topic=setting-up-and-expanding-in-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>contact form</u></a>.</p>
+<p>
+<br>
+</p>
 <p></p>

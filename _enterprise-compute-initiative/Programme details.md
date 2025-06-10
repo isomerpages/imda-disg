@@ -8,9 +8,6 @@ image: /images/Logos/disg logo 1 (colour).png
 <h1><strong>Enterprise Compute Initiative:</strong></h1>
 <h2><strong>From AI ambition to action</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Photo of participants at Google's pilot AI Cloud Take Off" src="/images/JON_3246.jpg">
-</div>
 <p><strong>Ready to harness AI for your organisation? </strong>At Budget
 2025, MOF announced that it has set aside up to $150 million for the Enterprise
 Compute Initiative (ECI). The ECI is designed to support Singapore-based

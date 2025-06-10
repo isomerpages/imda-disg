@@ -56,9 +56,7 @@ components:</p>
 <p><strong>CSPs</strong> will provide access to cloud credits, training, and
 AI tools. Details on the support packages and cloud resources offered by
 each CSP can be found <a href="https://www.disg.gov.sg/cloud-service-providers/" rel="noopener nofollow" target="_blank">here</a>.
-This component is fully funded by the CSPs.&nbsp;
-<br>
-</p>
+This component is fully funded by the CSPs.&nbsp;</p>
 </li>
 <li>
 <p><strong>Consulting partners/ System Integrators (SIs) </strong>will provide
@@ -73,16 +71,162 @@ companies.&nbsp;</p>
 are expected to commit 30% of the overall consulting cost, up to S$45,000.
 Details on the co-funding component are as follows:</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Share of costs for successful project* (%)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Share of costs for unsuccessful project (%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Government</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70</p>
+<p><em>(capped at $105,000 per company)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50</p>
+<p><em>(capped at $75,000 per company)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Consultant Partner/SI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Company</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>* Defined as a project that results in a Minimum Viable Product (MVP), as assessed by DISG with participating company’s inputs.</em>
+</p>
+<p>
+<br><strong>As part of the programme, companies are expected to:&nbsp;</strong>
+</p>
 <p></p>
-<p></p>
+<ol>
+<li>
+<p>Fully commit manpower and technical resources to this project for the
+programme duration (up to a year)&nbsp;
+<br>
+</p>
+</li>
+<li>
+<p>Deliver on the outcome which is the MVP and change management processes&nbsp;
+<br>
+</p>
+</li>
+</ol>
+<p>For companies that are ready to progress quickly, it is possible to complete
+the programme earlier. Thereafter, if DISG assesses the company to be ready
+for broader and longer-term AI plans, DISG will have a separate discussion
+with the company on support options.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Eligibility and Selection Process</summary>
+<summary>Eligibility Criteria</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Companies registered or incorporated and are physically present in Singapore
+are eligible for this programme, subject to meeting the following criteria:</p>
+<p></p>
+<p><u>Baseline Criteria</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A business entity registered or incorporated and is physically present
+in Singapore</p>
+</li>
+<li>
+<p>CEO or equivalent-level sponsorship</p>
+</li>
+<li>
+<p>Total organisation headcount based in Singapore should be at least 10
+pax</p>
+</li>
+<li>
+<p>Software/AI &amp; data capabilities: The organisation should have a tech
+team of 2 or more pax. The Tech team can comprise of software engineers,
+AI engineers, and/or data scientists roles.&nbsp;</p>
+</li>
+<li>
+<p>Organisation has experience in building a custom AI solution for a proof
+of concept and/or wider deployment.&nbsp;</p>
+</li>
+<li>
+<p>Organisation has accessible data sets to be worked on for the use case&nbsp;</p>
+</li>
+<li>
+<p>Financial ability to ensure project completion (e.g. typical EDB and Enterprise
+SG request for information on financial health of the company)</p>
+</li>
+</ul>
+<p></p>
+<p><u>Use Case Assessment</u>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-<p></p>
+<p>
+<br>
+</p>
+<p><strong>As part of the programme, companies are expected to:&nbsp;</strong>
+</p>
+<ol>
+<li>
+<p>Fully commit manpower and technical resources to this project for the
+programme duration (up to a year)&nbsp;</p>
+</li>
+</ol>
+<ol start="2">
+<li>
+<p>Deliver on the outcome which is the MVP and change management processes&nbsp;</p>
+</li>
+</ol>
+<p>For companies that are ready to progress quickly, it is possible to complete
+the programme earlier. Thereafter, if DISG assesses the company to be ready
+for broader and longer-term AI plans, DISG will have a separate discussion
+with the company on support options.&nbsp;</p>
+<p>
+<br>
+</p>

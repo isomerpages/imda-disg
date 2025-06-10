@@ -220,7 +220,7 @@ may apply <a href="https://www.disg.gov.sg/apply-here/" rel="noopener nofollow" 
 company and the industry, as well as organisational and infrastructure
 readiness. Use-cases that are complex and scalable will be prioritised.&nbsp;</p>
 <p></p>
-<p>Companies will be notified by DISG is their application is successful.&nbsp;
+<p>Companies will be notified by DISG if their application is successful.&nbsp;
 <br>
 </p>
 </div>

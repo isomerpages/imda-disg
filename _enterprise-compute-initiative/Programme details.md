@@ -18,10 +18,10 @@ The ECI is a short-term programme meant to catalyse the value creation
 of AI across the economy. It contributes to the broader goal stated in
 the National AI Strategy 2.0 of anchoring AI teams across Singapore.</p>
 <p>The programme will run from FY2025 to 2026, with multiple cohorts launched
-by various CSPs on a rolling basis. Done well, participating companies
-will be well-placed to grow AI teams within their organisations.&nbsp;</p>
+by various CSPs on a rolling basis. Done well, these companies could gain
+the mandate to establish a dedicated AI team in Singapore.</p>
 <p>
-<br><strong>For more information:</strong>  <a href="/files/ECI_Factsheet__10_June_.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
+<br><strong>For more information:</strong>  <a href="/files/Enterprise_Compute_Initiative_Factsheet__10_June__.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative_Factsheet</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -35,9 +35,17 @@ to develop a Minimum Viable Product (MVP).&nbsp;</p>
 with the CSPs’ cloud platforms, with Government supporting part of the
 cost of consultancy services needed to create an MVP or conduct change
 management.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECI_Structure.png">
 </div>
+</details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enterprise_Compute_Initiative_Structure.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">

@@ -5,18 +5,18 @@ variant: tiptap
 description: Enterprise Compute Initiative
 image: /images/Logos/disg logo 1 (colour).png
 ---
-<h1><strong>Enterprise Compute Initiative:</strong></h1>
+<h1><strong>Enterprise Compute Initiative</strong></h1>
 <h2><strong>From AI ambition to action</strong></h2>
 <p></p>
 <p><strong>Ready to harness AI for your organisation? </strong>At Budget
-2025, MOF announced that it has set aside up to $150 million for the Enterprise
-Compute Initiative (ECI). The ECI is designed to support Singapore-based
-companies with their AI transformation projects by making available (i)
-cloud credits and related tools and (ii) consultancy services to develop
-a Minimum Viable Product (MVP) and change management. The ECI is a short-term
-programme meant to catalyse the value creation of AI across the economy.
-It contributes to the broader goal stated in the National AI Strategy 2.0
-of anchoring AI teams across Singapore.</p>
+2025, the Ministry of Finance announced that it has set aside up to $150
+million for the Enterprise Compute Initiative (ECI). The ECI is designed
+to support Singapore-based companies with their AI transformation projects
+by making available (i) cloud credits and related tools and (ii) consultancy
+services to develop a Minimum Viable Product (MVP) and change management.
+The ECI is a short-term programme meant to catalyse the value creation
+of AI across the economy. It contributes to the broader goal stated in
+the National AI Strategy 2.0 of anchoring AI teams across Singapore.</p>
 <p>The programme will run from FY2025 to 2026, with multiple cohorts launched
 by various CSPs on a rolling basis. Done well, participating companies
 will be well-placed to grow AI teams within their organisations.&nbsp;</p>
@@ -36,9 +36,8 @@ with the CSPs’ cloud platforms, with Government supporting part of the
 cost of consultancy services needed to create an MVP or conduct change
 management.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="362" width="482" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9ESbaTBHZM8vxnHc-kI56VGqISHSsmH87hhujb8-l_QF2klLLE7erJTfitGOzx4pifsK38HerwmWikf4j195_nndKlZ_9YHMvR-fQY2ojR6QOg9n9DQsI_nPfyOalx47x8Jp3TS9k0worMOGbJrM?key=a2Bi_VQaRFeIroPCbG1qNg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECI_Structure.png">
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -119,8 +118,8 @@ of concept and/or wider deployment.&nbsp;</p>
 <p>Organisation has accessible data sets to be worked on for the use case&nbsp;</p>
 </li>
 <li>
-<p>Financial ability to ensure project completion (e.g. typical EDB and Enterprise
-SG request for information on financial health of the company)</p>
+<p>Financial ability to ensure project completion (e.g. stakeholder’s equity
+etc.)</p>
 </li>
 </ul>
 <p></p>

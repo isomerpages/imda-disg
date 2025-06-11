@@ -52,86 +52,17 @@ components:</p>
 <li>
 <p><strong>CSPs</strong> will provide access to cloud credits, training, and
 AI tools. Details on the support packages and cloud resources offered by
-each CSP can be found <a href="https://www.disg.gov.sg/cloud-service-providers/" rel="noopener nofollow" target="_blank">here</a>.
-This component is fully funded by the CSPs.&nbsp;</p>
+each CSP can be found <a href="https://www.disg.gov.sg/cloud-service-providers/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p><strong>Consulting partners/ System Integrators (SIs) </strong>will provide
 services for AI strategy consulting, technical implementation, and process
-redesign/change management. These services will be co-funded by government
-(up to 70% support of S$150,000), with the remaining co-payment by participating
-companies.&nbsp;</p>
+redesign/change management.</p>
 </li>
 </ol>
 <p></p>
-<p>The maximum consulting cost is capped at S$150,000. As such, Companies
-are expected to commit 30% of the overall consulting cost, up to S$45,000.
-Details on the co-funding component are as follows:</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Share of costs for successful project* (%)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Share of costs for unsuccessful project (%)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Government</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70</p>
-<p><em>(capped at $105,000 per company)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>50</p>
-<p><em>(capped at $75,000 per company)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Consultant Partner/SI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Company</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>* Defined as a project that results in a Minimum Viable Product (MVP), as assessed by DISG with participating company’s inputs.</em>
-</p>
+<p>The maximum consulting cost is capped at S$150,000. Companies are expected
+to commit 30% of the overall consulting cost, up to S$45,000.</p>
 <p>
 <br><strong>As part of the programme, companies are expected to:&nbsp;</strong>
 </p>

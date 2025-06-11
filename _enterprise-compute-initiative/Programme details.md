@@ -21,7 +21,7 @@ of anchoring AI teams across Singapore.</p>
 by various CSPs on a rolling basis. Done well, participating companies
 will be well-placed to grow AI teams within their organisations.&nbsp;</p>
 <p>
-<br><strong>For more information:</strong>  <a href="/files/ECI_Factsheet__28_May_.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
+<br><strong>For more information:</strong>  <a href="/files/ECI_Factsheet__10_June_.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

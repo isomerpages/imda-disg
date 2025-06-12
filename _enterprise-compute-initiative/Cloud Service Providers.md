@@ -25,7 +25,7 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_Logo_PNG_Free_File_Download.png">
+<img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_logo_rgb_c_gray.png">
 </div>
 </div>
 <div class="isomer-card-body">

@@ -50,7 +50,7 @@ and training programme.</p>
 </blockquote>
 <p><strong>How and when can I apply for ECI?</strong>
 </p>
-<p>Companies may apply for ECI through &lt;insert website name&gt;. The launch
+<p>Companies may apply for ECI through <a href="https://www.disg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Digital Industry Singapore</a>. The launch
 dates of each cohort will be announced by DISG and the respective CSPs
 from Q2 2025.</p>
 <p></p>

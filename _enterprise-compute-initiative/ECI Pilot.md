@@ -13,6 +13,7 @@ description: ""
 <p>DISG launched a pilot with Google Cloud in Oct 2024 with 30 companies
 supported by Consultant Partners Cloudmile, Searce and Kyndryl.</p>
 <p></p>
+<p></p>
 <p><strong>The programme focused on 3 pillars:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -26,6 +27,7 @@ supported by Consultant Partners Cloudmile, Searce and Kyndryl.</p>
 <p>Building a Minimally Viable Product</p>
 </li>
 </ol>
+<p></p>
 <p></p>
 <p><strong>Case studies:</strong>
 </p>

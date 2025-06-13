@@ -14,7 +14,7 @@ description: ""
 supported by Consultant Partners Cloudmile, Searce and Kyndryl.</p>
 <p></p>
 <p></p>
-<p><strong>The programme focused on 3 pillars:</strong>
+<p><strong>The programme is anchored on 3 pillars:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>

@@ -14,6 +14,3 @@ receive an acceptance email and be directed to the CSP of their choice
 to be onboarded to the programme and allocated to a partner. The allocated
 partner will introduce themselves to the participating company and provide
 an overview of the timeline of the programme, and next steps.</p>
-<p></p>
-<p>Powered by <a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Form</u></a>
-</p>

@@ -39,10 +39,8 @@ supported by Consultant Partners Cloudmile, Searce and Kyndryl.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Embed: Gen AI for game-changing experiences at family entertainment centers</div>
-<div class="isomer-card-description">Embed’s new Sidequest AI brings a personalized layer to arcades by using
-gameplay data to create fun, goal-based challenges and rewards, making
-visits more engaging and tailored to each player’s habits and preferences.</div>
+<div class="isomer-card-title">Embed</div>
+<div class="isomer-card-description">Gen AI for game-changing experiences at family entertainment centers</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -52,10 +50,8 @@ visits more engaging and tailored to each player’s habits and preferences.</di
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Seaco: Multilingual, multimodal AI shores up container depot operations</div>
-<div class="isomer-card-description">Seaco’s new AI agent streamlines container inspections by analyzing photos
-and voice notes to detect damage and automate repair steps, streamlining
-inspections and speeding up global cargo redeployment.</div>
+<div class="isomer-card-title">Seaco</div>
+<div class="isomer-card-description">Multilingual, multimodal AI shores up container depot operations</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -65,10 +61,8 @@ inspections and speeding up global cargo redeployment.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">YCH Group: Custom AI agents to be deployed first at Vietnam SuperPort</div>
-<div class="isomer-card-description">YCH have created a customised object detection AI agent which is trained
-to recognise prohibited goods through X-ray cargo screening alerting administrators
-of when to halt cargo movements and address identified issues.</div>
+<div class="isomer-card-title">YCH Group</div>
+<div class="isomer-card-description">Custom AI agents to be deployed first at Vietnam SuperPort</div>
 </div>
 </div>
 </div>

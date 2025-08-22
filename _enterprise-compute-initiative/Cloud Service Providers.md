@@ -23,4 +23,27 @@ AI Centre of Excellence blueprint, and bring AI use cases to production.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://news.microsoft.com/source/asia/features/become-a-frontier-firm-scale-ai-with-the-enterprise-compute-initiative/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_logo_rgb_c_gray.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Microsoft</div><div class="isomer-card-description">Through the ECI, Microsoft offers bespoke AI solutions with its technology partners to help businesses solve challenges, transform their operations, and unlock real value through agentic AI. Choose Microsoft for access to cutting-edge tech and tools including Azure Cloud, Copilot and Copilot Studio.</div><div class="isomer-card-link">ECI-Microsoft</div></div></a>
 </div>
+<p><strong><u>List Of Cloud Service Provider (CSP) Partners:</u></strong>
+<br>*In alphabetical order</p>
+<p><strong>Amazon Web Services (AWS) Partners</strong>
+<br>AiRTS
+<br>Cloud Kinetics
+<br>eCloudValley
+<br>SoftwareOne
+<br>
+<br><strong>Google Partners</strong>
+<br>Accenture
+<br>Aimazing
+<br>Asiapac
+<br>CloudAce
+<br>Cloudmile
+<br>GroupOnePoint
+<br>Kyndryl
+<br>Onigroup
+<br>Pointstar
+<br>Searce
+<br>Tridorian</p>
+<p><strong>Microsoft Partners</strong>
+<br><em>To be updated</em>
+</p>
 <p></p>

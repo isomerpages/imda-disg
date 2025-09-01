@@ -41,7 +41,7 @@ AI Centre of Excellence blueprint, and bring AI use cases to production.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">MSFT's ECI Partners</div>
-<div class="isomer-card-description">Coming Soon</div>
+<div class="isomer-card-description">Avepoint Singapore</div>
 </div>
 </div>
 </div>

@@ -45,12 +45,4 @@ AI Centre of Excellence blueprint, and bring AI use cases to production.</div>
 </div>
 </div>
 </div>
-<h2>Our Partner Network</h2>
-<h3>Amazon Web Services Partners</h3>
-<p>AiRTS | Cloud Kinetics | eCloudValley | SoftwareOne</p>
-<h3>Google Partners</h3>
-<p>Accenture | Aimazing | Asiapac | CloudAce | Cloudmile | GroupOnePoint
-| Kyndryl | Onigroup | Pointstar | Searce | Tridorian</p>
-<h3>Microsoft Partners</h3>
-<p><em>Coming Soon</em>
-</p>
+<p></p>

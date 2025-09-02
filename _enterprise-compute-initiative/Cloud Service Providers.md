@@ -27,20 +27,20 @@ AI Centre of Excellence blueprint, and bring AI use cases to production.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">AWS's ECI Partner</div>
+<div class="isomer-card-title">AWS ECI Partner</div>
 <div class="isomer-card-description">AiRTS | Cloud Kinetics | eCloudValley | PWC Consulting | SoftwareOne</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Google Cloud's ECI Partners</div>
+<div class="isomer-card-title">Google Cloud ECI Partners</div>
 <div class="isomer-card-description">Accenture | Aimazing | Asiapac | CloudAce | Cloudmile | GroupOnePoint
 | Kyndryl | Onigroup | Pointstar | Searce | Tridorian</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">MSFT's ECI Partners</div>
+<div class="isomer-card-title">Microsoft ECI Partners</div>
 <div class="isomer-card-description">Avepoint Singapore</div>
 </div>
 </div>

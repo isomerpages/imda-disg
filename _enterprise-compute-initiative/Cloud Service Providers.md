@@ -35,7 +35,7 @@ governance.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">AWS ECI Partner</div>
+<div class="isomer-card-title">AWS ECI Partners</div>
 <div class="isomer-card-description">AiRTS | Cloud Kinetics | eCloudValley | PWC Consulting | SoftwareOne</div>
 </div>
 </div>

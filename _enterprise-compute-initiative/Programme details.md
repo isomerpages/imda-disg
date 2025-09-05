@@ -17,9 +17,10 @@ services to develop a Minimum Viable Product (MVP) and change management.
 The ECI is a short-term programme meant to catalyse the value creation
 of AI across the economy. It contributes to the broader goal stated in
 the National AI Strategy 2.0 of anchoring AI teams across Singapore.</p>
-<p>The programme will run until 31 March 2026, with multiple cohorts launched
-by various CSPs on a rolling basis. Done well, these companies could gain
-the mandate to establish a dedicated AI team in Singapore.</p>
+<p>The programme will run for one year from the respective launch dates of
+each CSP, with multiple cohorts being deployed by different CSPs on a staggered
+timeline. Done well, these companies may secure the mandate to establish
+a dedicated AI team in Singapore.</p>
 <p>
 <br><strong>For more information: </strong><a href="/files/Enterprise_Compute_Initiative_Factsheet.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
 </p>

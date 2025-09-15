@@ -42,7 +42,7 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">Avepoint Singapore</div>
+<div class="isomer-card-description">Avepoint Singapore | Ernst &amp; Young Advisory Pte Ltd</div>
 </div>
 </div>
 </div>

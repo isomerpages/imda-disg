@@ -28,7 +28,7 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Google Cloud ECI Partners</div>
-<div class="isomer-card-description">Accenture | Aimazing | Asiapac | CloudAce | Cloudmile | GroupOnePoint
+<div class="isomer-card-description">Accenture | Aimazing | Asiapac Technology | CloudAce | Cloudmile | GroupOnePoint
 | Kyndryl | Onigroup | Pointstar | Searce | Tridorian</div>
 </div>
 </div>
@@ -42,7 +42,8 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">Avepoint Singapore | Ernst &amp; Young Advisory Pte Ltd</div>
+<div class="isomer-card-description">Asiapac Technology | Avepoint Singapore | Ernst &amp; Young Advisory Pte
+Ltd</div>
 </div>
 </div>
 </div>

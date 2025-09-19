@@ -43,7 +43,7 @@ governance.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
 <div class="isomer-card-description">Asiapac Technology | Avepoint Singapore | Ernst &amp; Young Advisory |
-SoftwareOne</div>
+PwC Consulting | SoftwareOne</div>
 </div>
 </div>
 </div>

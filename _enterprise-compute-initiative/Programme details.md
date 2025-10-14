@@ -45,9 +45,8 @@ management.</p>
 <details class="isomer-details">
 <summary>Funding and Commitment Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each participating company can receive up to S$555,000 of support in the
-form of cloud compute credits and consulting services. This comprises two
-components:</p>
+<p>Each participating company can receive support in the form of cloud compute
+credits and consulting services. This comprises two components:</p>
 <p></p>
 <ol>
 <li>

@@ -45,8 +45,8 @@ Services | SoftwareOne | Temus | 1CloudHub</div>
 <div class="isomer-card-title">Microsoft ECI Partners</div>
 <div class="isomer-card-description">AsiaPac Technology | Avepoint Singapore | Cloud4C Services | Cloud Kinetics
 Services | Educlass Global | Ernst &amp; Young Advisory | FPT Asia | iNextLabs
-| NTT Singapore | Premier Group | PwC Consulting | SoftwareOne | Tiger
-Analytics</div>
+| NCS Pte Ltd | NTT Singapore | Premier Group | PwC Consulting | SoftwareOne
+| Tiger Analytics</div>
 </div>
 </div>
 </div>

@@ -43,10 +43,10 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">AsiaPac Technology | Avepoint Singapore | Cloud4C Services | Cloud Kinetics
-Services | Educlass Global | Ernst &amp; Young Advisory | FPT Asia | iNextLabs
-| NCS Pte Ltd | NTT Singapore | Premier Group | PwC Consulting | SoftwareOne
-| Tiger Analytics</div>
+<div class="isomer-card-description">AiRTS | AsiaPac Technology | Avepoint Singapore | Cloud4C Services | Cloud
+Kinetics Services | Educlass Global | Ernst &amp; Young Advisory | FPT
+Asia | iNextLabs | NCS Pte Ltd | NTT Singapore | Premier Group | PwC Consulting
+| SoftwareOne | Tiger Analytics</div>
 </div>
 </div>
 </div>

@@ -128,7 +128,7 @@ etc.)</p>
 </li>
 </ul>
 <p></p>
-<p><u>Use Case Assessment </u> 
+<p><u>Use Case Assessment</u>
 </p>
 <p>Applications will be assessed based on the impact of use case as well
 as organisational and infrastructure readiness</p>

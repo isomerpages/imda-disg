@@ -22,7 +22,7 @@ each CSP, with multiple cohorts being deployed by different CSPs on a staggered
 timeline. Done well, these companies may secure the mandate to establish
 a dedicated AI team in Singapore.</p>
 <p>
-<br><strong>For more information: </strong><a href="/files/Enterprise_Compute_Initiative_Factsheet.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
+<br><strong>For more information: </strong><a href="/files/Enterprise_Compute_Initiative_Factsheet_Updated_27_Oct_2025.pdf" rel="noopener nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -45,8 +45,10 @@ management.</p>
 <details class="isomer-details">
 <summary>Funding and Commitment Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each participating company can receive support in the form of cloud compute
-credits and consulting services. This comprises two components:</p>
+<p>Each Participating Company will receive support in the form of (i) cloud
+credits and related tools from CSPs and (ii) consultancy services from
+Partners aimed at developing a Minimum Viable Product (MVP) and eventual
+change management.</p>
 <p></p>
 <ol>
 <li>
@@ -55,14 +57,16 @@ AI tools. Details on the support packages and cloud resources offered by
 each CSP can be found <a href="https://www.disg.gov.sg/cloud-service-providers/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p><strong>Consulting partners/ System Integrators (SIs) </strong>will provide
-services for AI strategy consulting, technical implementation, and process
-redesign/change management.</p>
+<p><strong>Consulting partners/ System Integrators (SIs) </strong>will deliver
+consulting services for AI strategy development, technical implementation,
+and process redesign/change management.</p>
 </li>
 </ol>
 <p></p>
-<p>The maximum consulting cost is capped at S$150,000. Companies are expected
-to commit 30% of the overall consulting cost, up to S$45,000.</p>
+<p>The total supportable consulting cost is capped at S$150,000, with DISG
+supporting 70% of actual costs, capped at S$105,000 per company. Participating
+Companies are required to pay the remaining 30% of the actual consulting
+cost.</p>
 <p>
 <br><strong>As part of the programme, companies are expected to:&nbsp;</strong>
 </p>
@@ -80,7 +84,7 @@ programme duration (up to six months)&nbsp;
 </p>
 </li>
 </ol>
-<p>For companies that are ready to progress quickly, it is possible to complete
+<p>For companies that are able to progress quickly, it is possible to complete
 the programme earlier. Thereafter, if DISG assesses the company to be ready
 for broader and longer-term AI plans, DISG will have a separate discussion
 with the company on support options.</p>
@@ -124,8 +128,10 @@ etc.)</p>
 </li>
 </ul>
 <p></p>
-<p><u>Use Case Assessment </u>– applications will be assessed based on the
-impact of use case as well as organisational and infrastructure readiness</p>
+<p><u>Use Case Assessment</u>
+</p>
+<p>Applications will be assessed based on the impact of use case as well
+as organisational and infrastructure readiness</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>

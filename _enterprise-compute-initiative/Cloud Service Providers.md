@@ -50,5 +50,33 @@ Asia | iNextLabs | NCS | NTT Singapore | Premier Group | PwC Consulting
 </div>
 </div>
 </div>
-<h2></h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Google Cloud ECI Offerings</div>
+<div class="isomer-card-description">1. Up to S$200,000 worth of on-demand training licences and additional
+financial incentives 2. AI workshops and enablement: 2-week interactive
+technical workshops on various aspects of AI 3. Upskilling and Certification
+on AI and GenAI 4. AI showcase to industry players and the public.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">AWS ECI Offering</div>
+<div class="isomer-card-description">1. Baseline of S$350,000 in dedicated AI Springboard cloud credits and
+training 2. Support of up to S$600,000 through complementary AWS support
+programmes for qualifying companies, such as AWS Migration Acceleration
+Program and AWS Lift</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Microsoft ECI Offering</div>
+<div class="isomer-card-description">1. Support of up to S$250,000 of Azure cloud credits, AI training and
+tools. 2. Support of up to S$700,000 in services to help select businesses
+co-develop their agentic AI roadmap with Microsoft technology partners,
+subject to approval.</div>
+</div>
+</div>
+</div>
 <p></p>

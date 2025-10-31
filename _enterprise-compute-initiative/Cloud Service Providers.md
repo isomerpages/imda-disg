@@ -36,16 +36,16 @@ governance.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">AWS ECI Partners</div>
 <div class="isomer-card-description">AiRTS | Accenture | Axrail | AWS Professional Services | AsiaPac Technology
-| Cloud Kinetics | Cloudmile | eCloudValley | NCS | PwC Consulting | PwC
-Risk Services | SoftwareOne | Temus | 1CloudHub</div>
+| Cloud Kinetics | Cloudmile | Crayon | eCloudValley | NCS | PwC Consulting
+| PwC Risk Services | SoftwareOne | Temus | 1CloudHub</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
 <div class="isomer-card-description">AiRTS | AsiaPac Technology | Avepoint Singapore | Cloud4C Services | Cloud
-Kinetics Services | Educlass Global | Ernst &amp; Young Advisory | FPT
-Asia | iNextLabs | NCS | NTT Singapore | Premier Group | PwC Consulting
+Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young Advisory
+| FPT Asia | iNextLabs | NCS | NTT Singapore | Premier Group | PwC Consulting
 | SoftwareOne | Tiger Analytics</div>
 </div>
 </div>

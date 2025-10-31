@@ -75,22 +75,20 @@ a thriving, robust and growing industry.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile_Pic_Herman_LOH.jpg">
+<img style="border-radius:50%; max-width:42%; border:8px solid white;" height="auto" width="100%" src="/images/Profile_Pic_Herman_LOH.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+
+</th><td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.linkedin.com/in/herman-loh/?originalSubdomain=sg" rel="noopener nofollow" target="_blank">Mr Herman Loh</a>
-</p>
-<p>Deputy Executive Director,</p>
-<p>Senior Vice-President,</p>
-<p>Head of Region (SEA and Oceania)</p>
-<p>Economic Development Board</p>
-<p><a href="/files/Business_Profile___Mr_Herman_Loh.pdf" rel="noopener nofollow" target="_blank">Business Profile</a>
+<p><strong><a href="https://www.linkedin.com/in/herman-loh/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Mr Herman Loh</a></strong> 
+<br> Deputy Executive Director,
+<br>Senior Vice President and Head of Region
+<br>Economic Development Board
+<br><a href="/files/Business_Profile___Mr_Herman_Loh.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Profile</a>
 </p>
 </td>
 </tr>

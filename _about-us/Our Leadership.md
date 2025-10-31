@@ -96,8 +96,9 @@ a thriving, robust and growing industry.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -126,11 +127,32 @@ a thriving, robust and growing industry.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><a href="https://www.linkedin.com/in/sharon-chiew-9409b078/" rel="noopener noreferrer nofollow" target="_blank">Ms Sharon Chiew</a></strong> 
-<br>Director
-<br>Infocomm Media Development Authority of Singapore
-<br><a href="/files/Business_Profile_Ms_Sharon_Chiew.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Profile</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yvonne.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 </td>
 <td rowspan="1" colspan="1">
 <table style="minWidth: 75px">

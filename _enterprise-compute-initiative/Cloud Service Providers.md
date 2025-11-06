@@ -28,8 +28,9 @@ governance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Google Cloud ECI Partners</div>
-<div class="isomer-card-description">Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | GroupOnePoint
-| Kyndryl | NCS | Onigroup | Pointstar | Searce | Tridorian</div>
+<div class="isomer-card-description">Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
+| Endava | GroupOnePoint | Kyndryl | NTT | NCS | Onigroup | Pointstar |
+Searce | TCS | Tatvic Analytics | Tridorian</div>
 </div>
 </div>
 <div class="isomer-card">

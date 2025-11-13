@@ -77,7 +77,7 @@ a thriving, robust and growing industry.</p>
 
   
   <div style="width:300px; text-align:center;">
-    <img style="border-radius:50%; border:6px solid white; object-fit:cover;" height="90" width="120" src="/images/Yvonne.jpg">
+    <img style="border-radius:50%; border:6px solid white; object-fit:cover;" height="90" width="90" src="/images/Yvonne.jpg">
     <div style="line-height:1.3; margin-top:8px;">
       <div><strong><a href="https://www.linkedin.com/in/yvonne-lim-8491822/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUi%2BkZF9GRSm2DspcAnjSdg%3D%3D" target="_blank">Yvonne Lim</a></strong></div>
       <div>Cluster Director ATx and Digital Industry Singapore</div>
@@ -89,12 +89,12 @@ a thriving, robust and growing industry.</p>
 
   
   <div style="width:300px; text-align:center;">
-    <img style="border-radius:50%; border:6px solid white; object-fit:cover;" height="120" width="120" src="/images/placeholder2.jpg">
+    <img style="border-radius:50%; border:6px solid white; object-fit:cover;" height="120" width="120" src="/images/Yueh_Chinn.jpg">
     <div style="line-height:1.3; margin-top:8px;">
       <div><strong><a href="https://www.linkedin.com/in/yueh-chinn-seah-67791131/overlay/about-this-profile/" target="_blank">Yueh Chinn Seah</a></strong></div>
       <div>Vice President, Digital Industry Singapore</div>
       <div>Economic Development Board</div>
-      <a href="BUSINESS_PROFILE_LINK_2" target="_blank">Business Profile</a>
+      <a href="/files/Yueh_Chinn_Bio.pdf" target="_blank">Business Profile</a>
     </div>
   </div>
 

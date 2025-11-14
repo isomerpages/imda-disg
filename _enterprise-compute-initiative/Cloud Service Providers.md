@@ -44,10 +44,10 @@ Searce | Tatvic Analytics | TCS | Tridorian</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">AiRTS | AsiaPac Technology | Avepoint Singapore | Cloud4C Services | Cloud
-Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young Advisory
-| FPT Asia | iNextLabs | NCS | NTT Singapore | Premier Group | PwC Consulting
-| PwC Risk Services | SoftwareOne | Tiger Analytics</div>
+<div class="isomer-card-description">AiRTS | AsiaPac Technology | Avanade Asia | Avepoint Singapore | Cloud4C
+Services | Cloud Kinetics Services | Crayon | Educlass Global | Ernst &amp;
+Young Advisory | FPT Asia | iNextLabs | NCS | NTT Singapore | Premier Group
+| PwC Consulting | PwC Risk Services | SoftwareOne | Tiger Analytics</div>
 </div>
 </div>
 </div>

@@ -49,7 +49,7 @@ a thriving, robust and growing industry.</p>
 <img style="width:120; height:100; border-radius:50%; border:6px solid white; object-fit:cover;" src="/images/Profile_Pic_Herman_LOH.jpg">
         <p style="text-align:center; max-width:350px; margin:auto; word-wrap:break-word;">
           <strong><a href="https://www.linkedin.com/in/herman-loh/?originalSubdomain=sg" target="_blank">Mr Herman Loh</a></strong>
-          <span style="display:block;">Deputy Executive Director,</span>
+          <span style="display:block;">Deputy Executive Director &amp; Senior Vice President, DISG</span>
           <span style="display:block;">Senior Vice President and Head of Region</span>
           <span style="display:block;">Economic Development Board</span>
           <a href="/files/Business_Profile___Mr_Herman_Loh.pdf" target="_blank">Business Profile</a>

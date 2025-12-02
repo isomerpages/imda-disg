@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Our Vision & Mission.md
+      - Our Resources.md
       - Our Leadership.md
       - Our Team.md

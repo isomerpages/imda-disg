@@ -24,33 +24,36 @@ governance.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://news.microsoft.com/source/asia/features/become-a-frontier-firm-scale-ai-with-the-enterprise-compute-initiative/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_logo_rgb_c_gray.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Microsoft Agentic AI Accelerator</div><div class="isomer-card-description">Through the ECI, Microsoft offers bespoke AI solutions with its technology partners to help businesses solve challenges, transform their operations, and unlock real value through agentic AI. Choose Microsoft for access to cutting-edge tech and tools including Azure Cloud, Copilot and Copilot Studio.</div><div class="isomer-card-link">ECI-Microsoft</div></div></a>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Google Cloud ECI Partners</div>
-<div class="isomer-card-description">Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Google Cloud ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
 | Endava | GroupOnePoint | Kyndryl | NCS | NTT | Onigroup | Pointstar |
-Searce | Tatvic Analytics | TCS | Tridorian</div>
+Searce | Tatvic Analytics | TCS | Tridorian</p>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">AWS ECI Partners</div>
-<div class="isomer-card-description">AiRTS | Accenture | Axrail | AWS Professional Services | AsiaPac Technology
+</details>
+<details class="isomer-details">
+<summary><strong>AWS ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AiRTS | Accenture | Axrail | AWS Professional Services | AsiaPac Technology
 | Cloud Kinetics | Cloudmile | Crayon | eCloudValley | NCS | PwC Consulting
-| PwC Risk Services | SoftwareOne | Temus | 1CloudHub</div>
+| PwC Risk Services | SoftwareOne | Temus | 1CloudHub</p>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
+</details>
+<details class="isomer-details">
+<summary><strong>Microsoft ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
 | Cloud Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young
-Advisory | FPT Asia | Hosho Digital | iNextLabs | NCS | NTT Singapore |
-Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne | Tiger
-Analytics</div>
+Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
+NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
+| Tiger Analytics</p>
 </div>
-</div>
+</details>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">

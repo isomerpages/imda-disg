@@ -27,34 +27,6 @@ governance.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Google Cloud ECI Partners</div>
-<div class="isomer-card-description">Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
-| Endava | GroupOnePoint | Kyndryl | NCS | NTT | Onigroup | Pointstar |
-Searce | Tatvic Analytics | TCS | Tridorian</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">AWS ECI Partners</div>
-<div class="isomer-card-description">AiRTS | Accenture | Axrail | AWS Professional Services | AsiaPac Technology
-| Cloud Kinetics | Cloudmile | Crayon | eCloudValley | NCS | PwC Consulting
-| PwC Risk Services | SoftwareOne | Temus | 1CloudHub</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Microsoft ECI Partners</div>
-<div class="isomer-card-description">AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
-| Cloud Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young
-Advisory | FPT Asia | Hosho Digital | iNextLabs | NCS | NTT Singapore |
-Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne | Tiger
-Analytics</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
 <div class="isomer-card-title">Google Cloud ECI Offerings</div>
 <div class="isomer-card-description">Up to S$200,000 worth of on-demand training licences and additional financial
 incentives, AI workshops and enablement: 2-week interactive technical workshops
@@ -79,5 +51,36 @@ of up to S$700,000 in services to help select businesses co-develop their
 agentic AI roadmap with Microsoft technology partners, subject to approval.</div>
 </div>
 </div>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Google Cloud ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
+| Endava | GroupOnePoint | Kyndryl | NCS | NTT | Onigroup | Pointstar |
+Searce | Tatvic Analytics | TCS | Tridorian</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>AWS ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AiRTS | Accenture | Axrail | AWS Professional Services | AsiaPac Technology
+| Cloud Kinetics | Cloudmile | Crayon | eCloudValley | NCS | PwC Consulting
+| PwC Risk Services | SoftwareOne | Temus | 1CloudHub</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Microsoft ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
+| Cloud Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young
+Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
+NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
+| Tiger Analytics</p>
+</div>
+</details>
 </div>
 <p></p>

@@ -76,7 +76,7 @@ Searce | Tatvic Analytics | TCS | Tridorian</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
-| Cloud Kinetics Services | Crayon | Educlass Global | Ernst &amp; Young
+| Cloud Kinetics Services | Crayon | Educlaas Global | Ernst &amp; Young
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 | Tiger Analytics</p>

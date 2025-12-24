@@ -58,8 +58,8 @@ agentic AI roadmap with Microsoft technology partners, subject to approval.</div
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
-| Endava | GroupOnePoint | Kyndryl | NCS | NTT | Onigroup | Pointstar |
-Searce | Tatvic Analytics | TCS | Tridorian</p>
+| Endava | GroupOnePoint | Jellyfish | Kyndryl | NCS | NTT | Onigroup |
+Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">

@@ -101,8 +101,7 @@ partner.</p>
 transformation, which could involve change management processes within
 the company.&nbsp;</p>
 <p>
-<br>If there are further queries, companies can reach out to Digital Industry
-Singapore through this <a href="https://www.edb.gov.sg/en/contact/contact-us.html?topic=setting-up-and-expanding-in-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>contact form</u></a>.</p>
+<br>If there are further queries, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a>.</p>
 <p>
 <br>
 </p>

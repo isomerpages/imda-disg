@@ -79,7 +79,7 @@ Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 | Cloud Kinetics Services | Crayon | Educlaas Global | Ernst &amp; Young
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
-| Tiger Analytics</p>
+| The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions</p>
 </div>
 </details>
 </div>

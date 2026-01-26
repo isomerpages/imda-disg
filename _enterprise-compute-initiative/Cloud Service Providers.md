@@ -23,6 +23,21 @@ governance.</div>
 <div class="isomer-card-link">AWS AI Springboard</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://news.microsoft.com/source/asia/features/become-a-frontier-firm-scale-ai-with-the-enterprise-compute-initiative/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_logo_rgb_c_gray.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Microsoft Agentic AI Accelerator</div><div class="isomer-card-description">Through the ECI, Microsoft offers bespoke AI solutions with its technology partners to help businesses solve challenges, transform their operations, and unlock real value through agentic AI. Choose Microsoft for access to cutting-edge tech and tools including Azure Cloud, Copilot and Copilot Studio.</div><div class="isomer-card-link">ECI-Microsoft</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.oracle.com/asean/artificial-intelligence/ai-customer-excellence-center/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oracle ECI Program" src="/images/Oracle_DISG_website_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Oracle ECI Program</div>
+<div class="isomer-card-description">The Oracle ECI program will empower enterprises to harness the full potential
+of AI with enterprise-grade data security, scalability, and performance.
+Companies can advance their AI journeys, rapidly deploy, manage, and scale
+AI-driven solutions to innovate confidently and drive business results.</div>
+<div class="isomer-card-link">Oracle ECI Program</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -49,6 +64,15 @@ AWS Lift.</div>
 <div class="isomer-card-description">Up to S$250,000 of Azure cloud credits, AI training and tools, with support
 of up to S$700,000 in services to help select businesses co-develop their
 agentic AI roadmap with Microsoft technology partners, subject to approval.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Oracle ECI Offerings</div>
+<div class="isomer-card-description">Up to S$250,000 per company through Oracle Cloud Universal Credits, training,
+certification and discovery workshops and up to S$1.9 million for enterprises
+that require private cloud infrastructure and access to Oracle Private
+Cloud Appliance and Oracle Exadata.</div>
 </div>
 </div>
 </div>
@@ -80,6 +104,14 @@ Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 | The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Oracle ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Boon Software Consulting Pte Ltd | Path Infotech Pte. Ltd | Trevo Pte.
+Ltd | The Tomorrow Workforce Pte Ltd</p>
 </div>
 </details>
 </div>

@@ -26,11 +26,11 @@ governance.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.oracle.com/asean/artificial-intelligence/ai-customer-excellence-center/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Oracle" src="/images/Oracle_DISG_website_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Oracle ECI Program" src="/images/Oracle_DISG_website_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Oracle</div>
+<div class="isomer-card-title">Oracle ECI Program</div>
 <div class="isomer-card-description">The Oracle ECI program will empower enterprises to harness the full potential
 of AI with enterprise-grade data security, scalability, and performance.
 Companies can advance their AI journeys, rapidly deploy, manage, and scale

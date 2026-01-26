@@ -64,8 +64,7 @@ AWS Lift.</div>
 of up to S$700,000 in services to help select businesses co-develop their
 agentic AI roadmap with Microsoft technology partners, subject to approval.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oracle Offerings</div><div class="isomer-card-description">Up to S$250,000 per company through Oracle Universal Credits, training, certification and discovery workshops. 
-Up to S1.9 million for enterprises that require private cloud infrastructure and access to Oracle Private Cloud Appliance and Oracle Exadata.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oracle Offerings</div><div class="isomer-card-description">Up to S$250,000 per company through Oracle Universal Credits, training, certification and discovery workshops. Up to S1.9 million for enterprises that require private cloud infrastructure and access to Oracle Private Cloud Appliance and Oracle Exadata.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -98,7 +97,7 @@ NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Microsoft ECI Partners</strong>
+<summary><strong>Oracle ECI Partners</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Boon Software Consulting Pte Ltd | Path Infotech Pte. Ltd| Trevo Pte.

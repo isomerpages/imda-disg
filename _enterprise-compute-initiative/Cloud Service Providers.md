@@ -31,9 +31,10 @@ governance.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Oracle</div>
-<div class="isomer-card-description">Oracle empowers enterprises to harness the full potential of AI with enterprise-grade
-data security, scalability, and performance. Integrated directly into Oracle
-Cloud Infrastructure (OCI) and business application.</div>
+<div class="isomer-card-description">The Oracle ECI program will empower enterprises to harness the full potential
+of AI with enterprise-grade data security, scalability, and performance.
+Companies can advance their AI journeys, rapidly deploy, manage, and scale
+AI-driven solutions to innovate confidently and drive business results.</div>
 <div class="isomer-card-link">Oracle ECI Program</div>
 </div>
 </a>
@@ -64,7 +65,16 @@ AWS Lift.</div>
 of up to S$700,000 in services to help select businesses co-develop their
 agentic AI roadmap with Microsoft technology partners, subject to approval.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oracle Offerings</div><div class="isomer-card-description">Up to S$250,000 per company through Oracle Universal Credits, training, certification and discovery workshops. Up to S1.9 million for enterprises that require private cloud infrastructure and access to Oracle Private Cloud Appliance and Oracle Exadata.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Oracle Offerings</div>
+<div class="isomer-card-description">Up to S$250,000 per company through Oracle Cloud Universal Credits, training,
+certification and discovery workshops and up to S$1.9 million for enterprises
+that require private cloud infrastructure and access to Oracle Private
+Cloud Appliance and Oracle Exadata.</div>
+</div>
+</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -68,7 +68,7 @@ agentic AI roadmap with Microsoft technology partners, subject to approval.</div
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Oracle Offerings</div>
+<div class="isomer-card-title">Oracle ECI Offerings</div>
 <div class="isomer-card-description">Up to S$250,000 per company through Oracle Cloud Universal Credits, training,
 certification and discovery workshops and up to S$1.9 million for enterprises
 that require private cloud infrastructure and access to Oracle Private
@@ -110,7 +110,7 @@ NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 <summary><strong>Oracle ECI Partners</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Boon Software Consulting Pte Ltd | Path Infotech Pte. Ltd| Trevo Pte.
+<p>Boon Software Consulting Pte Ltd | Path Infotech Pte. Ltd | Trevo Pte.
 Ltd | The Tomorrow Workforce Pte Ltd</p>
 </div>
 </details>

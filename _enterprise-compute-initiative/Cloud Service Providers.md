@@ -23,6 +23,20 @@ governance.</div>
 <div class="isomer-card-link">AWS AI Springboard</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://news.microsoft.com/source/asia/features/become-a-frontier-firm-scale-ai-with-the-enterprise-compute-initiative/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="microsoft logo" src="/images/Microsoft_logo_rgb_c_gray.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Microsoft Agentic AI Accelerator</div><div class="isomer-card-description">Through the ECI, Microsoft offers bespoke AI solutions with its technology partners to help businesses solve challenges, transform their operations, and unlock real value through agentic AI. Choose Microsoft for access to cutting-edge tech and tools including Azure Cloud, Copilot and Copilot Studio.</div><div class="isomer-card-link">ECI-Microsoft</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oracle" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Oracle</div>
+<div class="isomer-card-description">Oracle empowers enterprises to harness the full potential of AI with enterprise-grade
+data security, scalability, and performance. Integrated directly into Oracle
+Cloud Infrastructure (OCI) and business application.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -50,7 +64,8 @@ AWS Lift.</div>
 of up to S$700,000 in services to help select businesses co-develop their
 agentic AI roadmap with Microsoft technology partners, subject to approval.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oracle Offerings</div><div class="isomer-card-description">Up to S$250,000 per company through Oracle Universal Credits, training, certification and discovery workshops. 
+Up to S1.9 million for enterprises that require private cloud infrastructure and access to Oracle Private Cloud Appliance and Oracle Exadata.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -80,6 +95,14 @@ Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 | The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Microsoft ECI Partners</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Boon Software Consulting Pte Ltd | Path Infotech Pte. Ltd| Trevo Pte.
+Ltd | The Tomorrow Workforce Pte Ltd</p>
 </div>
 </details>
 </div>

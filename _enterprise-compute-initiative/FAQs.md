@@ -102,7 +102,10 @@ AI expertise within their organisations. To discuss your specific requirements
 and potential next steps, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a> with details of
 your request.</p>
 <p></p>
-<p>For further queries, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a>.</p>
+<p></p>
+<p></p>
+<p><em>For further queries, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a>.</em>
+</p>
 <p>
 <br>
 </p>

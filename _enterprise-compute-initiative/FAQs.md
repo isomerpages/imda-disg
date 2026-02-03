@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Frequently Asked Questions (FAQ)</strong></h3>
-<hr>
 <p></p>
 <blockquote>
 <h4>A. Eligibility</h4>

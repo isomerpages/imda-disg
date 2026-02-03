@@ -95,13 +95,19 @@ partner.</p>
 <blockquote>
 <h4>D. Others</h4>
 </blockquote>
-<p><strong>What happens after the programme?&nbsp;</strong>
+<p><strong>I have completed the ECI programme and would like to pursue broader AI initiatives. What are the next steps?</strong>
 </p>
-<p>The programme will equip companies with a roadmap for AI organisational
-transformation, which could involve change management processes within
-the company.&nbsp;</p>
-<p>
-<br>If there are further queries, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a>.</p>
+<p>Companies can engage with EDB to explore opportunities for building dedicated
+AI expertise within their organisations. To discuss your specific requirements
+and potential next steps, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a> with details of
+your request.</p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p><em>For further queries, please contact <a href="mailto:ECI_DISG@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ECI_DISG@edb.gov.sg</a>.</em>
+</p>
 <p>
 <br>
 </p>

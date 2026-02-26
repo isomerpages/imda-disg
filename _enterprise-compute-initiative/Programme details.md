@@ -22,7 +22,8 @@ each CSP, with multiple cohorts being deployed by different CSPs on a staggered
 timeline. Done well, these companies may secure the mandate to establish
 a dedicated AI team in Singapore.</p>
 <p>
-<br><strong>For more information: </strong><a href="/files/ECI_Factsheet_9_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
+<br><strong>For more information:<a href="/files/ECI_Factsheet_10_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a></strong>
+<a href="/files/ECI_Factsheet_10_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Enterprise Compute Initiative Factsheet</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

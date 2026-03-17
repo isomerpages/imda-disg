@@ -112,7 +112,8 @@ Next</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Boon Software Consulting | Path Infotech | Trevo | The Tomorrow Workforce
-| Disrptiv Exchange | Eurostop Singapore | Accenture</p>
+| Disrptiv Exchange | Eurostop Singapore | Accenture | AvePoint | Miracle
+SEA</p>
 </div>
 </details>
 </div>

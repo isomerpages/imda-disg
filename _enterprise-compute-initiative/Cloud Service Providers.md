@@ -111,14 +111,9 @@ Next</p>
 <summary><strong>Oracle ECI Partners</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Accenture | AvePoint| Boon Software Consulting | Disrptiv Exchange | Eurostop
-Singapore | Miracle SEA | Path Infotech | Trevo | The Tomorrow Workforce
+Singapore | Miracle SEA | NCS | Path Infotech | Trevo | The Tomorrow Workforce
 |</p>
-</div>
-</details>
 </div>
 </details>
 </div>

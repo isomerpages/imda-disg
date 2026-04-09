@@ -81,9 +81,9 @@ Cloud Appliance and Oracle Exadata.</div>
 <summary><strong>Google Cloud ECI Partners</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Accenture | Aimazing | AsiaPac Technology | CloudAce | Cloudmile | Deloitte
-| Endava | GroupOnePoint | Jellyfish | Kyndryl | NCS | NTT | Onigroup |
-Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
+<p>Accenture | Aimazing | AsiaPac Technology | Aviato | CloudAce | Cloudmile
+| Deloitte | Endava | GroupOnePoint | Jellyfish | Kyndryl | NCS | NTT |
+Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">

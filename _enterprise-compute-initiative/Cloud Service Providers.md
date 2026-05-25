@@ -96,7 +96,7 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Microsoft ECI Partners</strong>
+<summary><strong>Microsoft ECI Partners </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
@@ -104,7 +104,7 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 | The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions | Simplify
-Next</p>
+Next| Zuhlke Engineering</p>
 </div>
 </details>
 <details class="isomer-details">

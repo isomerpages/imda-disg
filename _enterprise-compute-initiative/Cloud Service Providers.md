@@ -83,7 +83,7 @@ Cloud Appliance and Oracle Exadata.</div>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Accenture | Aimazing | AsiaPac Technology | Aviato | CloudAce | Cloudmile
 | Deloitte | Endava | GroupOnePoint | Jellyfish | Kyndryl | NCS | NTT |
-Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
+Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Temus | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -96,7 +96,7 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Microsoft ECI Partners </strong>
+<summary><strong>Microsoft ECI Partners</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services

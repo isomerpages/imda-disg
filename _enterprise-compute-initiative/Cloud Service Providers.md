@@ -83,7 +83,7 @@ Cloud Appliance and Oracle Exadata.</div>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Accenture | Aimazing | AsiaPac Technology | Aviato | CloudAce | Cloudmile
 | Deloitte | Endava | GroupOnePoint | Jellyfish | Kyndryl | NCS | NTT |
-Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
+Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Temus | Tridorian</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -104,7 +104,7 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Tridorian</p>
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
 | The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions | Simplify
-Next</p>
+Next| Zuhlke Engineering</p>
 </div>
 </details>
 <details class="isomer-details">

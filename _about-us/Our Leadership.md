@@ -32,7 +32,7 @@ a thriving, robust and growing industry.</p>
       <td style="text-align:center;">
         <img style="border-radius:50%; border:6px solid white;" height="auto" width="120" src="/images/DISG%20Pictures/philbert_gomez.jpg">
 
-<p><strong><a href="https://www.linkedin.com/in/philbert-gomez-55426027/" rel="noopener noreferrer nofollow" target="_blank">Mr Philbert Gomez</a></strong>
+<p><strong><a href="https://www.linkedin.com/in/philbert-gomez-55426027/" rel="noopener noreferrer nofollow" target="_blank">Philbert Gomez</a></strong>
 <br>Executive Director, Senior Vice President and Head Economic Development
 Board <a href="/files/Business_Profile_Mr_Philbert_Gomez.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Profile</a>      </p></td>
     </tr>
@@ -45,7 +45,7 @@ Board <a href="/files/Business_Profile_Mr_Philbert_Gomez.pdf" rel="noopener nore
       <td style="text-align:center;">
         <img src="/images/Profile_Pic_Herman_LOH_square.jpg" width="120" height="auto" style="border-radius:50%; border:6px solid white;">
        <p style="text-align:center; max-width:300px; margin:auto; word-wrap:break-word;">
-  <strong><a target="_blank" href="https://www.linkedin.com/in/herman-loh/">Mr Herman Loh</a></strong><br>
+  <strong><a target="_blank" href="https://www.linkedin.com/in/herman-loh/">Herman Loh</a></strong><br>
   <span style="display:block;">Deputy Executive Director &amp; Senior Vice President, DISG</span>
   <span style="display:block;">Senior Vice President and Head of Region Economic Development Board</span>
   <a href="/files/Business_Profile___Mr_Herman_Loh.pdf">Business Profile</a>
@@ -63,7 +63,7 @@ Board <a href="/files/Business_Profile_Mr_Philbert_Gomez.pdf" rel="noopener nore
   <div style="width:300px; text-align:center;">
     <img src="/images/taufik.jpg" width="120" height="120" style="border-radius:50%; border:6px solid white; object-fit:cover;">
     <div style="line-height:1.3; margin-top:8px;">
-      <div><strong><a target="_blank" href="https://www.linkedin.com/in/taufik-ahmed-faroock-684aa3151/">Mr Taufik Ahmed Faroock</a></strong></div>
+      <div><strong><a target="_blank" href="https://www.linkedin.com/in/taufik-ahmed-faroock-684aa3151/">Taufik Ahmed Faroock</a></strong></div>
       <div>Director, Info-Comm, Media</div>
       <div>Enterprise Singapore</div>
       <a target="_blank" href="/files/Taufik_Ahmed_Faroock_Bio.pdf">Business Profile</a>

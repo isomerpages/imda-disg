@@ -4,7 +4,7 @@ permalink: /about-us/leadership/
 description: Digital Industry Singapore (DISG) - Our Leadership
 variant: markdown
 ---
-<div class="col is-8 is-offset-1-desktop is-12-touch print-content">
+<div>
                     <div class="row">
                         <div class="col">
                             <div class="content"><p>DISG’s leadership comprises of senior management representatives from

@@ -60,7 +60,7 @@ and Head of Region Economic Development Board <a href="/files/Business_Profile__
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taufik.jpg">
+<img style="border-radius:50%; border:6px solid white; object-fit:cover;" height="120" width="120" src="/images/taufik.jpg">
 </div>
 <p><strong><a href="https://www.linkedin.com/in/taufik-ahmed-faroock-684aa3151/" rel="noopener noreferrer nofollow" target="_blank">Mr Taufik Ahmed Faroock</a></strong>
 </p>

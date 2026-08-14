@@ -103,8 +103,8 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Temus | Tridorian</p>
 | Cloud Kinetics Services | Crayon | Lithan Academy | Ernst &amp; Young
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
-| The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions | Simplify
-Next| Zuhlke Engineering</p>
+| Systech Analytics | The Tomorrow Workforce | Tiger Analytics | Total
+eBiz Solutions | Simplify Next| Zuhlke Engineering</p>
 </div>
 </details>
 <details class="isomer-details">

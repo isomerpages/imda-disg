@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Explore our Cloud Service Provider (CSP) partners and their services</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://goo.gle/AICTOProgram" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Google AI CTO" src="/images/GOOGLE_ECI_picture_for_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Google Cloud AI Cloud Takeoff Program (AI CTO)</div><div class="isomer-card-description">The Google AI CTO helps companies accelerate business transformation through guidance in technology, process, and people transformation. Companies access funding and support to upskill their teams in AI capabilities, build an AI Centre of Excellence blueprint, and bring AI use cases to production.</div><div class="isomer-card-link">Google AI CTO</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://cloud.google.com/?utm_source=about.google&amp;utm_medium=referral&amp;utm_campaign=productslist&amp;hl=en" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Google AI CTO" src="/images/GOOGLE_ECI_picture_for_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Google Cloud AI Cloud Takeoff Program (AI CTO)</div><div class="isomer-card-description">The Google AI CTO helps companies accelerate business transformation through guidance in technology, process, and people transformation. Companies access funding and support to upskill their teams in AI capabilities, build an AI Centre of Excellence blueprint, and bring AI use cases to production.</div><div class="isomer-card-link">Google AI CTO</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://pages.awscloud.com/ai-spring-initiative.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -103,8 +103,8 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Temus | Tridorian</p>
 | Cloud Kinetics Services | Crayon | Lithan Academy | Ernst &amp; Young
 Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
 NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
-| The Tomorrow Workforce | Tiger Analytics | Total eBiz Solutions | Simplify
-Next| Zuhlke Engineering</p>
+| Systech Analytics | The Tomorrow Workforce | Tiger Analytics | Total
+eBiz Solutions | Simplify Next| Zuhlke Engineering</p>
 </div>
 </details>
 <details class="isomer-details">

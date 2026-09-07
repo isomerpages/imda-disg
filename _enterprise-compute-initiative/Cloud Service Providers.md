@@ -100,10 +100,10 @@ Onigroup | Pointstar | Searce | Tatvic Analytics | TCS | Temus | Tridorian</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>AiRTS | AsiaPac Technology | Avanade Asia | Avepoint | Cloud4C Services
-| Cloud Kinetics Services | Crayon | Lithan Academy | Ernst &amp; Young
-Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs | NCS |
-NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services | SoftwareOne
-| Systech Analytics | The Tomorrow Workforce | Tiger Analytics | Total
+| Cloud Kinetics Services | Crayon | Deeeplabs | Lithan Academy | Ernst
+&amp; Young Advisory | FPT Asia | Hosho Digital | Infosys Compaz| iNextLabs
+| NCS | NTT Singapore | Premier Group | PwC Consulting | PwC Risk Services
+| SoftwareOne | Systech | The Tomorrow Workforce | Tiger Analytics | Total
 eBiz Solutions | Simplify Next| Zuhlke Engineering</p>
 </div>
 </details>
